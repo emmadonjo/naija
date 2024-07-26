@@ -1,0 +1,29 @@
+{
+    "name": "emmadonjo/naija",
+    "version": "1.0.0",
+    "description": "Naija is a PHP package that provides data about States, Local Government Areas, cities, and towns in Nigeria.",
+    "type": "library",
+    "require": {
+        "php": ">=8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Emmadonjo\\Naija\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joshua Emmanuel",
+            "email": "jo4christ48@yahoo.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^2.34"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
