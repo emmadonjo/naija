@@ -6,9 +6,13 @@
     },
     "capital": "Dutse",
     "political_zone": "North West",
-    "date_created": "27/08/1991",
-    "population": "4361002",
-    "website": "http://www.jigawastate.gov.ng/",
+    "date_created": "27-08-1991",
+    "population":{
+        "male": 3149858,
+        "female": 3026334
+    },
+    "website": "https://jigawastate.gov.ng",
+    "logo": "../logos/jigawa.png",
     "demonym": "",
     "nick_name": "The New World",
     "languages": {

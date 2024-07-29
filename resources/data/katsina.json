@@ -6,9 +6,14 @@
     },
     "capital": "Katsina",
     "political_zone": "North West",
-    "date_created": "23/09/1987",
-    "population": "5801584",
+    "date_created": "23-09-1987",
+    "population": {
+        "male": 4240946,
+        "female": 4074635
+    },
     "website": "http://www.katsinastate.gov.ng/",
+    "logo": "/images/logo/katsina.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "Home of Hospitality",
     "languages": {

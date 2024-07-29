@@ -6,9 +6,14 @@
     },
     "capital": "Ikeja",
     "political_zone": "South West",
-    "date_created": "27/05/1967",
-    "population": "9113605",
-    "website": "http://www.lagosstate.gov.ng/",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 6823850,
+        "female": 6556248
+    },
+    "website": "https://lagosstate.gov.ng/",
+    "logo": "/images/logos/lagos.png",
+    "flag": "/images/logos/flags.png",
     "demonym": "Lagosians",
     "nick_name": "Center of Excellence",
     "languages": {
@@ -115,9 +120,5 @@
             "official": "Epe Local Government",
             "areas": []
         }
-
-        
-       
-}
-
+    }
 }

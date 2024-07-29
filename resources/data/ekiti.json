@@ -6,11 +6,15 @@
     },
     "capital": "Ado Ekiti",
     "political_zone": "South West",
-    "date_created": "01/10/1996",
-    "population": "2210957",
+    "date_created": "01-10-1996",
+    "population": {
+        "male": 1774803,
+        "female": 1705203
+    },
     "website": "https://ekitistate.gov.ng/",
+    "logo": "../logos/ekiti.png",
     "demonym": "Ekitian",
-    "nick_name": "Land of Honour & Integrity",
+    "nick_name": "Land of Honour and Integrity",
     "languages": {
         "english": "English",
         "yoruba": "Yoruba"

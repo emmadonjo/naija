@@ -6,9 +6,13 @@
     },
     "capital": "Makurdi",
     "political_zone": "North Central",
-    "date_created": "03/02/1976",
-    "population": "4253641",
-    "website": "",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 2006420,
+        "female": 1927737
+    },
+    "website": "https://benuestate.gov.ng",
+    "logo": "../logos/benue.png",
     "demonym": "",
     "nick_name": "Food Basket of the Nation",
     "languages": {

@@ -6,14 +6,18 @@
     },
     "capital": "Lokoja",
     "political_zone": "Middle Belt",
-    "date_created": "27/08/1991",
-    "population": "3314043",
-    "website": "",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 2422559,
+        "female": 2327557
+    },
+    "website": "https://kogistate.gov.ng/",
+    "logo": "/images/logos/kogi.png",
+    "flag": "/images/flags/kogi.png",
     "demonym": "Kogite",
     "nick_name": "The Confluence State",
     "languages": {
-        "english": "English",
-        "hausa": ""
+        "english": "English"
     },
     "lga": {
         "1": {
@@ -116,10 +120,6 @@
             "name": "Yagba West",
             "official": "Yagba West Local Government",
             "areas": []
-        }
-       
-        
-       
-}
-
+        }       
+    }
 }

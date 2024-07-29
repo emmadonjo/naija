@@ -6,15 +6,19 @@
     },
     "capital": "Yola",
     "political_zone": "North East",
-    "date_created": "27/08/1991",
-    "population": "3178950",
-    "website": "www.adamawastate.gov.ng",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 2296087,
+        "female": 2206044
+    },
+    "website": "https://adamawastate.gov.ng/",
+    "logo": "../logos/adamawa.png",
     "demonym": "",
     "nick_name": "Land of Beauty",
     "languages": {
         "english": "English",
         "hausa": "Hausa",
-        "Fulfulde": "Fulfulde"
+        "fulfulde": "Fulfulde"
         
     },
     "lga": {

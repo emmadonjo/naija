@@ -6,9 +6,14 @@
     },
     "capital": "Ilorin",
     "political_zone": "North Central",
-    "date_created": "27/05/1967",
-    "population": "2365353",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 1729068,
+        "female": 1661262
+    },
     "website": "https://kwarastate.gov.ng/",
+    "logo": "/images/logos/kwara.png",
+    "flag": "/images/flags/kwara.png",
     "demonym": "",
     "nick_name": "State of Harmony",
     "languages": {
@@ -37,63 +42,66 @@
             "areas": []
         },
         "5": {
+            "name": "Ifelodun",
+            "official": "Ifelodun Local Government",
+            "areas": []
+        },
+        "6": {
             "name": "Ilorin East",
             "official": "Ilorin East Local Government",
             "areas": []
         },
-        "6": {
+        "7": {
             "name": "Ilorin South",
             "official": "Ilorin South Local Government",
             "areas": []
         },
-        "7": {
+        "8": 
+        {
             "name": "Ilorin West",
             "official": "Ilorin West Local Government",
             "areas": []
         },
-        "8": {
+        "9": {
             "name": "Irepodun",
             "official": "Irepodun Local Government",
             "areas": []
         },
-        "9": {
+        "10": 
+        {
             "name": "Isin",
             "official": "Isin Local Government",
             "areas": []
         },
-        "10": {
+        "11": {
             "name": "Kaiama",
             "official": "Kaiama Local Government",
             "areas": []
         },
-        "11": {
+        "12": {
             "name": "Moro",
             "official": "Moro Local Government",
             "areas": []
         },
-        "12": {
+        "13": {
             "name": "Offa",
             "official": "Offa Local Government",
             "areas": []
         },
-        "13": {
+        "14": {
             "name": "Oke Ero",
             "official": "Oke Ero Local Government",
             "areas": []
         },
-        "14": {
+        "15": {
             "name": "Oyun",
             "official": "Oyun Local Government",
             "areas": []
         },
-        "15": {
+        "16": {
             "name": "Pategi",
             "official": "Pategi Local Government",
             "areas": []
         }
-
-        
-       
-}
-
+    }
 }

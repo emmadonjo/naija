@@ -6,13 +6,18 @@
     },
     "capital": "Abuja",
     "political_zone": "North Central",
-    "date_created": "03/02/1976",
-    "population": "1406239",
-    "website": "fct.gov.ng",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 2189283,
+        "female": 2103429
+    },
+    "website": "https://fcta.gov.ng/",
+    "logo": "../logos/fct.png",
     "demonym": "",
     "nick_name": "Centre of Unity",
     "languages": {
-        "english": "English"
+        "english": "English",
+        "hausa": "Hausa"
     },
     "lga": {
         "1": {

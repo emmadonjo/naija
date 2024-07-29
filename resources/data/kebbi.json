@@ -6,9 +6,14 @@
     },
     "capital": "Birnin Kebbi",
     "political_zone": "North West",
-    "date_created": "27/08/1991",
-    "population": "3256541",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 2631629,
+        "female": 1624912
+    },
     "website": "http://www.kebbistate.gov.ng/",
+    "logo": "/images/logos/kebbi.png",
+    "flag": "",
     "demonym": "Kebbian",
     "nick_name": "Land of Equity",
     "languages": {

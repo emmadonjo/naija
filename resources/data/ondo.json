@@ -6,15 +6,19 @@
     },
     "capital": "Akure",
     "political_zone": "South West",
-    "date_created": "03/02/1976",
-    "population": "3460877",
-    "website": "",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 2529894,
+        "female": 2430683
+    },
+    "website": "https://ondostate.gov.ng/",
+    "logo": "/images/logos/ondo.png",
+    "flag": "/images/flags/ondo.png",
     "demonym": "",
     "nick_name": "Sunshine State",
     "languages": {
         "english": "English",
         "yoruba": "Yoruba"
-        
     },
     "lga": {
         "1": {
@@ -111,8 +115,5 @@
             "official": "Ilaje Local Government",
             "areas": []
         }
-        
-    
-}
-
+    }
 }

@@ -6,9 +6,13 @@
     },
     "capital": "Bauchi",
     "political_zone": "North East",
-    "date_created": "03/02/1976",
-    "population": "4653066",
-    "website": "www.bauchistate.gov.ng",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 3568630,
+        "female": 3428684
+    },
+    "website": "https://www.bauchistate.gov.ng",
+    "logo": "../logos/bauchi.png",
     "demonym": "",
     "nick_name": " Pearl of Tourism",
     "languages": {
@@ -107,6 +111,11 @@
         "19": {
             "name": "Damban",
             "official": "Damban Local Government",
+            "areas": []
+        },
+        "20": {
+            "name": "Ningi",
+            "official": "Ningi Local Government",
             "areas": []
         }
     }

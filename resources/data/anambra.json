@@ -6,9 +6,13 @@
     },
     "capital": "Awka",
     "political_zone": "South East",
-    "date_created": "27/08/1991",
-    "population": "4177828",
-    "website": "anambrastate.gov.ng",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 2981561,
+        "female": 2864637
+    },
+    "website": "https://anambrastate.gov.ng",
+    "logo": "../logos/anambra.png",
     "demonym": "Ndi Anambra",
     "nick_name": "Light of the Nation",
     "languages": {

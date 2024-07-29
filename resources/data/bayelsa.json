@@ -6,9 +6,13 @@
     },
     "capital": "Yenagoa",
     "political_zone": "South South",
-    "date_created": "01/10/1996",
-    "population": "1704515",
-    "website": "",
+    "date_created": "01-10-1996",
+    "population": {
+        "male": 874083,
+        "female": 830432
+    },
+    "website": "https://bayelsastate.gov.ng",
+    "logo": "../logos/bayelsa.png",
     "demonym": "Bayelsan",
     "nick_name": "Glory of all lands",
     "languages": {

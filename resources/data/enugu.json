@@ -6,11 +6,15 @@
     },
     "capital": "Enugu",
     "political_zone": "South East",
-    "date_created": "27/08/1991",
-    "population": "3267837",
-    "website": "enugustate.gov.ng",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 2388782,
+        "female": 2295105
+    },
+    "website": "https://enugustate.gov.ng/",
+    "logo": "../logos/enugu.png",
     "demonym": "",
-    "nick_name": " Coal City State",
+    "nick_name": "Coal City State",
     "languages": {
         "english": "English",
         "igbo": "Igbo"

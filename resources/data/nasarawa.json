@@ -6,9 +6,14 @@
     },
     "capital": "Lafia",
     "political_zone": "North Central",
-    "date_created": "01/10/1996",
-    "population": "1869377",
-    "website": "http://www.nasarawastate.gov.ng/",
+    "date_created": "01-10-1996",
+    "population": {
+        "male": 1366511,
+        "female": 1312922
+    },
+    "website": "https://nasarawastate.gov.ng/",
+    "logo": "/images/logos/nasarawa.png",
+    "flag": "/images/flags/nasarawa.png",
     "demonym": "",
     "nick_name": "Home of Solid Minerals",
     "languages": {

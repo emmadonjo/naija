@@ -1,14 +1,18 @@
 {
     "name": {
-        "common": "Imo ",
-        "official": "Imo  State",
+        "common": "Imo",
+        "official": "Imo State",
         "short_code": "IM"
     },
     "capital": "Owerri",
     "political_zone": "South East",
-    "date_created": "03/02/1976",
-    "population": "492756",
-    "website": "https://www.imostate.gov.ng/",
+    "date_created": "03-02-s1976",
+    "population": {
+        "male": 2940779,
+        "female": 2825455
+    },
+    "website": "https://imostate.gov.ng",
+    "logo": "../logos/imo.png",
     "demonym": "Imolite",
     "nick_name": "Eastern Heartland",
     "languages": {

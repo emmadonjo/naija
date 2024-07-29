@@ -6,14 +6,17 @@
     },
     "capital": "Maiduguri",
     "political_zone": "North East",
-    "date_created": "03/02/1976",
-    "population": "4171104",
-    "website": "",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 3198993,
+        "female": 3073543
+    },
+    "website": "https://bornostate.gov.ng",
+    "logo": "../logos/borno.png",
     "demonym": "",
     "nick_name": "Home of Peace",
     "languages": {
         "english": "English"
-
     },
     "lga": {
         "1": {

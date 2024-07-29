@@ -6,15 +6,19 @@
     },
     "capital": "Abeokuta",
     "political_zone": "South West",
-    "date_created": "03/02/1976",
-    "population": "3751140",
-    "website": "",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 2842589,
+        "female": 2731115
+    },
+    "website": "https://ogunstate.gov.ng/",
+    "logo": "/images/logos/ogun.png",
+    "flag": "/images/flags/ogun.png",
     "demonym": "Omo Ogun",
     "nick_name": "The Gateway State",
     "languages": {
         "english": "English",
         "yoruba": "Yoruba"
-        
     },
     "lga": {
         "1": {
@@ -123,6 +127,5 @@
             "official": "Yewa South Local Government",
             "areas": []
         } 
-}
-
+    }
 }

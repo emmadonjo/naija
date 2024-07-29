@@ -2,20 +2,24 @@
     "name": {
         "common": "Cross River",
         "official": "Cross River State",
-        "short_code": "CR"
+        "short_code": "CRS"
     },
     "capital": "Calabar",
     "political_zone": "South South",
-    "date_created": "27/05/1967",
-    "population": "3737517",
-    "website": "",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 2089543,
+        "female": 2007600
+    },
+    "website": "https://www.crossriverstate.gov.ng",
+    "logo": "../logos/cross-river.png",
     "demonym": "",
     "nick_name": " The People's Paradise",
     "languages": {
         "english": "English",
+        "efik": " Efik",
         "bekwarra": "Bekwarra",
-        "ejagham": " Ejagham",
-        "efik": " Efik"
+        "ejagham": " Ejagham"
     },
     "lga": {
         "1": {

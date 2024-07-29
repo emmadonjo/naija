@@ -6,8 +6,11 @@
     },
     "capital": "Kano",
     "political_zone": "North West",
-    "date_created": "27/05/1967",
-    "population": "6113503",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 7124234,
+        "female": 6844852
+    },
     "website": "https://kdsg.gov.ng/",
     "demonym": "",
     "nick_name": " Centre of Learning",

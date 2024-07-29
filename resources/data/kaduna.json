@@ -1,13 +1,16 @@
 {
     "name": {
-        "common": "Kaduna ",
-        "official": "Kaduna  State",
+        "common": "Kaduna",
+        "official": "Kaduna State",
         "short_code": "KD"
     },
     "capital": "Kaduna",
     "political_zone": "North West",
-    "date_created": "27/05/1967",
-    "population": "6113503",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 4468958,
+        "female": 4293705
+    },
     "website": "https://kdsg.gov.ng/",
     "demonym": "",
     "nick_name": " Centre of Learning",

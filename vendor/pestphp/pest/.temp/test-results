@@ -1,1 +1,1 @@
-{"version":"pest_2.34.9","defects":[],"times":{"P\\Tests\\Feature\\ExampleTest::__pest_evaluable_example":0.009,"P\\Tests\\Unit\\ExampleTest::__pest_evaluable_example":0.002}}
+{"version":"pest_2.34.9","defects":[],"times":{"P\\Tests\\Feature\\ExampleTest::__pest_evaluable_example":0.007,"P\\Tests\\Unit\\ExampleTest::__pest_evaluable_example":0.002}}

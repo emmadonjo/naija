@@ -6,9 +6,13 @@
     },
     "capital": "Gombe",
     "political_zone": "North East",
-    "date_created": "01/10/1996",
-    "population": "2365040",
-    "website": "gombestate.gov.ng",
+    "date_created": "01-10-1996",
+    "population": {
+        "male": 1770834,
+        "female": 1701389
+    },
+    "website": "https://gombestate.gov.ng",
+    "logo": "../logos/gombe.png",
     "demonym": "",
     "nick_name": " Jewel in the Savannah",
     "languages": {

@@ -4,11 +4,15 @@
         "official": "Delta State",
         "short_code": "DE"
     },
-    "capital": "Calabar",
+    "capital": "Asaba",
     "political_zone": "South South",
-    "date_created": "27/08/1991",
-    "population": "5663400",
-    "website": "www.deltastate.gov.ng",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 3079210,
+        "female": 2958457
+    },
+    "website": "https://deltastate.gov.ng",
+    "logo": "../logos/delta.png",
     "demonym": "Deltan",
     "nick_name": " The Big Heart of the Nation",
     "languages": {

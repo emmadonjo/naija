@@ -6,14 +6,18 @@
     },
     "capital": "Minna",
     "political_zone": "North West",
-    "date_created": "03/02/1976",
-    "population": "3954772",
-    "website": "http://www.nigerstate.gov.ng/",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 3033079,
+        "female": 2914135
+    },
+    "website": "https://nigerstate.gov.ng/",
+    "logo": "/images/logos/niger.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "The Power State",
     "languages": {
         "english": "English"
-        
     },
     "lga": {
         "1": {
@@ -151,6 +155,5 @@
             "official": "Wushishi Local Government",
             "areas": []
         }
-}
-
+    }
 }

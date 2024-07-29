@@ -6,11 +6,15 @@
     },
     "capital": "Benin City",
     "political_zone": "South East",
-    "date_created": "26/08/1991",
-    "population": "3233366",
-    "website": "edostate.gov.ng",
+    "date_created": "26-08-1991",
+    "population": {
+        "male": 2280008,
+        "female": 2190596
+    },
+    "website": "https://edostate.gov.ng/",
+    "logo": "../logos/edo.png",
     "demonym": "",
-    "nick_name": "Heart Beat of Nigeria",
+    "nick_name": "Heartbeat of Nigeria",
     "languages": {
         "english": "English"
     },

@@ -6,9 +6,13 @@
     },
     "capital": "Abakaliki",
     "political_zone": "South East",
-    "date_created": "01/06/1991",
-    "population": "2176947",
-    "website": "",
+    "date_created": "01-10-1991",
+    "population": {
+        "male": 1553606,
+        "female": 1492681
+    },
+    "website": "https://ebonyistate.gov.ng",
+    "logo": "../logos/ebonyi.png",
     "demonym": "Ebonyian",
     "nick_name": " Salt of the Nation",
     "languages": {
