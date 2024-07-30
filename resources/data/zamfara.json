@@ -6,17 +6,19 @@
     },
     "capital": "Gusau",
     "political_zone": "North West",
-    "date_created": "01/10/1996",
-    "population": "3278873",
-    "website": "",
+    "date_created": "01-10-1996",
+    "population": {
+        "male": 2706649,
+        "female": 2600506
+    },
+    "website": "https://zamfara.gov.ng/",
+    "logo": "/images/logos/zamfara.png",
+    "flag": "/images/flags/zamfara.png",
     "demonym": "",
     "nick_name": "Farming is Our Pride",
     "languages": {
         "english": "English",
-        "hausa":"Hausa"
-    
-
-        
+        "hausa":"Hausa"        
     },
     "lga": {
         "1": {
@@ -91,8 +93,5 @@
             "official": "Zurmi South Local Government",
             "areas": []
         }
-      
-
-}
-
+    }
 }

@@ -6,15 +6,18 @@
     },
     "capital": "Sokoto",
     "political_zone": "North East",
-    "date_created": "27/08/1991",
-    "population": "2294800",
-    "website": "http://tarabastate.gov.ng/",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 1657485,
+        "female": 1592485
+    },
+    "website": "https://tarabastate.gov.ng/",
+    "logo": "/images/logos/taraba.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "Nature's Gift to the Nation",
     "languages": {
         "english": "English"
-
-        
     },
     "lga": {
         "1": {
@@ -100,10 +103,5 @@
             "official": "Zing Local Government",
             "areas": []
         }
-     
-       
-      
-
-}
-
+    }
 }

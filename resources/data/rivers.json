@@ -6,15 +6,18 @@
     },
     "capital": "Port Harcourt",
     "political_zone": "South South",
-    "date_created": "27/05/1967",
-    "population": "5198716",
+    "date_created": "27-05-1967",
+    "population": {
+        "male": 3987112,
+        "female": 3830755
+    },
     "website": "https://www.riversstate.gov.ng/",
+    "logo": "/images/logos/rivers.png",
+    "flag": "/images/flags/rivers.png",
     "demonym": "Riverian",
     "nick_name": "Treasure Base of the Nation",
     "languages": {
-        "english": "English"
-
-        
+        "english": "English"        
     },
     "lga": {
         "1": {

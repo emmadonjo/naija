@@ -5,15 +5,19 @@
         "short_code": "PL"
     },
     "capital": "Jos",
-    "political_zone": "South West",
-    "date_created": "03/02/1976",
-    "population": "3206531",
-    "website": "http://www.plateaustate.gov.ng/",
+    "political_zone": "North Central",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 2261086,
+        "female": 2172416
+    },
+    "website": "https://www.plateaustate.gov.ng/",
+    "logo": "/images/logos/plateau.png",
+    "flag": "/images/flags/plateau.png",
     "demonym": "",
     "nick_name": "Home of Peace and Tourism",
     "languages": {
         "english": "English"
-        
     },
     "lga": {
         "1": {
@@ -105,9 +109,5 @@
             "official": "Wase Local Government",
             "areas": []
         }
-        
-      
-
-}
-
+    }
 }

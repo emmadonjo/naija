@@ -6,15 +6,18 @@
     },
     "capital": "Damaturu",
     "political_zone": "North East",
-    "date_created": "27/08/1991",
-    "population": "2321339",
-    "website": "",
+    "date_created": "27-08-1991",
+    "population": {
+        "male": 1801824,
+        "female": 1731164
+    },
+    "website": "https://yobestate.gov.ng/",
+    "logo": "/images/logos/yobe.png",
+    "flag": "/images/flags/yobe.png",
     "demonym": "",
     "nick_name": "Pride of the Sahel",
     "languages": {
         "english": "English"
-
-        
     },
     "lga": {
         "1": {
@@ -107,8 +110,5 @@
             "official": "Yusufari Local Government",
             "areas": []
         }
-      
-
-}
-
+    }
 }

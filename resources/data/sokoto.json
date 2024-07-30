@@ -6,15 +6,18 @@
     },
     "capital": "Sokoto",
     "political_zone": "North West",
-    "date_created": "03/02/1976",
-    "population": "3702676",
-    "website": "",
+    "date_created": "03-02-1976",
+    "population":{
+        "male": 2706649,
+        "female": 2600506
+    },
+    "website": "https://sokotostate.gov.ng",
+    "logo": "/images/logos/sokoto.png",
+    "flag": "/images/flags/sokoto.png",
     "demonym": "",
     "nick_name": "Seat of the Caliphate",
     "languages": {
         "english": "English"
-
-        
     },
     "lga": {
         "1": {
@@ -142,9 +145,5 @@
             "official": "Yabo Local Government",
             "areas": []
         }  
-       
-      
-
-}
-
+    }
 }

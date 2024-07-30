@@ -6,9 +6,14 @@
     },
     "capital": "Ibadan",
     "political_zone": "South West",
-    "date_created": "03/02/1976",
-    "population": "5580894",
-    "website": "https://www.oyostate.gov.ng/",
+    "date_created": "03-02-1976",
+    "population": {
+        "male": 4280220,
+        "female": 4112368
+    },
+    "website": "https://oyostate.gov.ng/",
+    "logo": "/images/logos/oyo.png",
+    "flag": "/images/flags/oyo.png",
     "demonym": "",
     "nick_name": "Pace Setter State",
     "languages": {
@@ -193,6 +198,5 @@
             "areas": []
         }
 
-}
-
+    }
 }
