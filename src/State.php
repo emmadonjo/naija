@@ -130,7 +130,7 @@ class State
      *
      * @return array|null
      */
-    public function getStateCapital(): ?string
+    public function getCapital(): ?string
     {
         return $this->get('capital');
     }
@@ -163,47 +163,47 @@ class State
         return $this->get('population');
     }
 
-    public function getStateWebsite(): ?string
+    public function getWebsite(): ?string
     {
         return $this->get('website');
     }
 
-    public function getStateLogo(): ?string
+    public function getLogo(): ?string
     {
         return $this->get('logo');
     }
 
-    public function getStateFlag(): ?string
+    public function getFlag(): ?string
     {
         return $this->get('flag');
     }
 
 
-    public function getStateDemonym(): ?string
+    public function getDemonym(): ?string
     {
         return $this->get('demonym');
 
     }
 
-    public function getStateNickName(): ?string
+    public function getNickName(): ?string
     {
         return $this->get('nick_name');
 
     }
 
   
-    public function getStateLgas(): ?array
+    public function getLgas(): ?array
     {
         return $this->get('lga');
     }
 
 
-    public function getStateLanguages(): ?array
+    public function getLanguages(): ?array
     {
         return $this->get('languages');
     }
 
-    public function getStateAreas(): ?array
+    public function getAreas(): ?array
     {
         $lgas = $this->get('lga') ?? [];
 

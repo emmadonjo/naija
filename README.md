@@ -1,5 +1,84 @@
 Naija is a PHP package that provides data about States, Local Government Areas, cities, and towns in Nigeria.
 
+This package is inspired by [https://github.com/Mercyware/Nigerian-States](https://github.com/Mercyware/Nigerian-States).
+
+With this package you can retrieve the following state-related information:
+
+-   Name
+-   Capital
+-   Political Zone
+-   Creation Date
+-   Polution - Male and female
+-   Website
+-   Logo
+-   Flag
+-   Nick Name
+-   Languages
+-   Local Governments Areas
+-   Areas - villages, towns, and cities
+
+## Usage
+
+Install via:
+
+```php
+    composer require emmadonjo/naija
+```
+
+```php
+use Emmadonjo\Naija\Naija;
+
+// get list of states with minimal information
+$states = Naija::states();
+
+// get the comprehensive information of a state
+$state = Naija::state('Abia');
+
+// get name
+$state->getName();
+
+// get nick name
+$state->getNickName();
+
+// get official name
+$state->getOfficialName();
+
+// get short code
+$state->getShortCode();
+
+// get capital
+$state->getCapital();
+
+// get geo political zone
+$state->getGeoPoliticalZone();
+
+// get date created
+$state->getDateCreated();
+
+// get population
+$state->getPopulation();
+
+// get website
+$state->getWebsite();
+
+// get logo
+$state->getLogo();
+
+// get flag
+$state->getFlag();
+
+
+// get languages
+$state->getLanguages();
+
+// get LGAs
+$state->getLgas();
+
+// get areas - villages, cities, and towns
+$state->getAreas();
+```
+
+
 ## Sources
 
 -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)

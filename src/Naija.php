@@ -6,7 +6,7 @@ use Closure;
 use Emmadonjo\Naija\State;
 use Emmadonjo\Naija\Exception\StateException;
 
-class Loader 
+class Naija 
 {
     /**
      * the states

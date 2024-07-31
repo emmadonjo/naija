@@ -2,11 +2,11 @@
 
 use Emmadonjo\Naija\Exception\StateException;
 use Emmadonjo\Naija\State;
-use Emmadonjo\Naija\Loader;
+use Emmadonjo\Naija\Naija;
 
 
 test('load minified states data', function () {
-    $states = Loader::states();
+    $states = Naija::states();
 
     expect($states)->toBeArray();
 
@@ -14,7 +14,7 @@ test('load minified states data', function () {
 });
 
 test('load the data of a state', function () {
-    $state = Loader::state('Abia');
+    $state = Naija::state('Abia');
 
     expect($state)->toBeInstanceOf(State::class);
 
@@ -22,12 +22,12 @@ test('load the data of a state', function () {
 });
 
 test('Throw exception for invalid state name', function () {
-    Loader::state('Abi');
+    Naija::state('Abi');
 })
     ->throws(StateException::class);
 
 test("Load state data irrespective of case", function () {
-    $state = Loader::state('aBiA');
+    $state = Naija::state('aBiA');
 
     expect($state)->toBeInstanceOf(State::class);
 
@@ -35,7 +35,7 @@ test("Load state data irrespective of case", function () {
 });
 
 test("Load state data irrespective of trailing spaces and case", function () {
-    $state = Loader::state('  aBiA ');
+    $state = Naija::state('  aBiA ');
 
     expect($state)->toBeInstanceOf(State::class);
 
@@ -43,7 +43,7 @@ test("Load state data irrespective of trailing spaces and case", function () {
 });
 
 test("Filter states", function () {
-    $states = Loader::where('name', "Abia");
+    $states = Naija::where('name', "Abia");
 
     expect(count($states))->toEqual(1);
 
@@ -51,7 +51,7 @@ test("Filter states", function () {
 });
 
 test("Filter states with an operator", function () {
-    $states = Loader::where('name', "!=", "Abia");
+    $states = Naija::where('name', "!=", "Abia");
 
     expect(count($states))->toEqual(36);
 
