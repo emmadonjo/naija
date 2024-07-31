@@ -1,6 +1,5 @@
 {
     "name": "emmadonjo/naija",
-    "version": "1.0.0",
     "description": "Naija is a PHP package that provides data about States, Local Government Areas, cities, and towns in Nigeria.",
     "type": "library",
     "require": {
