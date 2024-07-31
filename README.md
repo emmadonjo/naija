@@ -78,6 +78,18 @@ $state->getLgas();
 $state->getAreas();
 ```
 
+**Display assets - logos and flags**
+To display logos and flags of states, you can copy the assets to the `images` folder your accessible application.
+
+For example, if your developing with laravel, copy:
+
+-   `resources/logos` to `public/images/logos`, and
+-   `resources/flags` to `public/images/flags`
+
+Then you can access the assets as follows:
+
+-   `/images/logos/abia.png`
+-   `/images/flags/abia.png`
 
 ## Sources
 
