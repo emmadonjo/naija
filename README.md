@@ -79,9 +79,9 @@ $state->getAreas();
 ```
 
 **Display assets - logos and flags**
-To display logos and flags of states, you can copy the assets to the `images` folder your accessible application.
+To display logos and flags of states, you can copy the assets to the `images` folder in the accessible location of your application.
 
-For example, if your developing with laravel, copy:
+For example, if you are developing with laravel, copy:
 
 -   `resources/logos` to `public/images/logos`, and
 -   `resources/flags` to `public/images/flags`
@@ -96,7 +96,6 @@ Then you can access the assets as follows:
 -   Populate areas (villages, cities, and towns) for most of the remaining states
 
 ## Sources
-
 -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
 -   [https://en.wikipedia.org/wiki/States_of_Nigeria](https://en.wikipedia.org/wiki/States_of_Nigeria)
 -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
