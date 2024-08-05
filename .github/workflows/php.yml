@@ -10,27 +10,22 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  ci:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
         with:
-          php-version: "8.0"
-      - name: Validate composer.json and composer.lock
-        run: composer validate --strict
+          php-versions: 8.0
+          tools: composer:v2
+          coverage: xdebug
 
-      - name: Cache Composer packages
-        id: composer-cache
-        uses: actions/cache@v3
-        with:
-          path: vendor
-          key: ${{ runner.os }}-php-${{ hashFiles('**/composer.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-php-
+      - name: Install Dependencies
+        run: composer install --no-interaction -prefer-dist --optimize-autoloader
 
-      - name: Install dependencies
-        run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
-
-      - name: Run test suite
+      - name: Tests
         run: ./vendor/bin/pest

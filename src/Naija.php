@@ -6,7 +6,7 @@ use Closure;
 use Emmadonjo\Naija\State;
 use Emmadonjo\Naija\Exception\StateException;
 
-class Naija 
+class Naija
 {
     /**
      * the states
@@ -25,7 +25,7 @@ class Naija
         $name = strtolower(trim($name));
 
         if (!isset(self::$states[$name])) {
-            self::$states[$name] = json_encode(static::getFile(__DIR__ . "/../resources/data/$name.json"), true);
+            self::$states[$name] = json_decode(static::getFile(__DIR__ . "/../resources/data/$name.json"), true);
         }
 
         return new State(static::$states[$name]);
@@ -34,7 +34,7 @@ class Naija
 
     /**
      * get the minified data for all the states
-     * 
+     *
      * @return array
      */
     public static function states(): array
@@ -49,7 +49,7 @@ class Naija
      * @param string $key
      * @param string $operator
      * @param string|int $value
-     * 
+     *
      * @return array
      */
     public static function where(string $key, string $operator, string|int $value = null): array
@@ -212,9 +212,9 @@ class Naija
 
     /**
      * retrieves the data in the file of the specified path.
-     * 
+     *
      * @param mixed $filePath
-     * 
+     *
      * @throws StateException
      * @return bool|string
      */
