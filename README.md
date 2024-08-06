@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://github.com/emmadonjo/naija/actions"><img src="https://github.com/emmadonjo/naija/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/emmadonjo/naija"><img src="https://img.shields.io/packagist/dt/emmadonjo/naija" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/emmadonjo/naija"><img src="https://img.shields.io/packagist/v/emmadonjo/naija" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/emmadonjo/naija"><img src="https://img.shields.io/packagist/l/emmadonjo/naija" alt="License"></a>
+</p>
+
 Naija is a PHP package that provides data about States, Local Government Areas, cities, and towns in Nigeria.
 
 This package is inspired by [https://github.com/Mercyware/Nigerian-States](https://github.com/Mercyware/Nigerian-States).
@@ -96,6 +103,7 @@ Then you can access the assets as follows:
 -   Populate areas (villages, cities, and towns) for most of the remaining states
 
 ## Sources
+
 -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
 -   [https://en.wikipedia.org/wiki/States_of_Nigeria](https://en.wikipedia.org/wiki/States_of_Nigeria)
 -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
