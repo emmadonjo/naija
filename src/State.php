@@ -75,7 +75,7 @@ class State
      *
      * @return mixed
      */
-    public function get(string $key, mixed $default = null)
+    public function get(string $key = null, mixed $default = null)
     {
         $array = $this->attributes;
 
@@ -191,7 +191,7 @@ class State
 
     }
 
-  
+
     public function getLgas(): ?array
     {
         return $this->get('lga');

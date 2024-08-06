@@ -58,3 +58,45 @@ test("Filter states with an operator", function () {
     expect(array_values($states)[0]['name'])->toBe("Adamawa");
 });
 
+test("Filter states with less than operator", function () {
+    $states = Naija::where('name', "<", "Abia");
+
+    expect(count($states))->toEqual(0);
+});
+
+test("Filter states with greater than operator", function () {
+    $states = Naija::where('name', ">", "Zamfara");
+
+    expect(count($states))->toEqual(0);
+});
+
+test("Filter states with less than or equals to operator", function () {
+    $states = Naija::where('name', "<=", "Abia");
+
+    expect(count($states))->toEqual(1);
+});
+
+test("Filter states with greater than or equals operator", function () {
+    $states = Naija::where('name', ">=", "Zamfara");
+
+    expect(count($states))->toEqual(1);
+});
+
+test("Filter states with strict equality operator", function () {
+    $states = Naija::where('name', "===", "Zamfara");
+
+    expect(count($states))->toEqual(1);
+});
+
+test("Filter states with strict non-equality operator", function () {
+    $states = Naija::where('name', "!==", "Zamfara");
+
+    expect(count($states))->toEqual(36);
+});
+
+
+test("Filter states with null key", function () {
+    $states = Naija::where(null,"Abia");
+
+    expect(count($states))->toEqual(0);
+});

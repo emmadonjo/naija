@@ -46,13 +46,13 @@ class Naija
 
     /**
      * Filter states conditionally
-     * @param string $key
+     * @param string|null $key
      * @param string $operator
      * @param string|int $value
      *
      * @return array
      */
-    public static function where(string $key, string $operator, string|int $value = null): array
+    public static function where(string|null $key = null, string $operator, string|int $value = null): array
     {
         if (func_num_args() === 2) {
             $value = $operator;
@@ -117,12 +117,12 @@ class Naija
      * Get an item from an array or object using "dot" notation.
      *
      * @param mixed        $target
-     * @param string|array $key
+     * @param string|array|null $key
      * @param mixed        $default
      *
      * @return mixed
      */
-    protected static function get($target, $key, $default = null)
+    protected static function get($target, $key = null, $default = null)
     {
         if (is_null($key)) {
             return $target;
