@@ -25,20 +25,22 @@
             "name": "Aba North",
             "official": "Aba North Local Government",
             "areas": [
-                
+                "Aba", "Azuaba", "Eziama", "Ogbor", "Olokoro", "Osusu", "Umuokereke Ngwa", "Umuokoji", "Umu ola", "uratta"
             ]
         },
         "2": {
             "name": "Aba South",
             "official": "Aba South Local Government",
             "areas": [
-                
+                "Abaukwu", "Akoli", "Amanfuru", "Ariaria", "Asaeme", "Asaokpuja", "Eziukwu", "lineodi", "Ndiegoro", "Nnetu", "Obucla", "Oliabiain", "Umuagbai", "Uniumba", "Umuosi"
             ]
         },
         "3": {
             "name": "Arochukwu",
             "official": "Arochukwu Local Government",
-            "areas": []
+            "areas": [
+                "Obiene", "Abuma", "Amaebem", "Amaeke", "Amaekpu", "Amaetiti", "Amakofia", "Amankwu", "Amasa", "Amodu", "Arochukwu", "Eziama", "Igbere", "Ikwuano", "Nkpakpi", "Obiagwulu", "Obiakang", "Obialuoko", "Obiaruku", "Obijoma", "Ohafia", "Ohomja", "Ovim", "Ubila", "Ugwuogo", "Ukwuakwu", "Umuahia", "Umuokoro"
+            ]
         },
         "4": {
             "name": "Ikwuano",
@@ -56,12 +58,17 @@
         },
         "6": {
             "name": "Isiala Ngwa North",
-            "official": "Isiala Ngwa North Local Government"
+            "official": "Isiala Ngwa North Local Government",
+            "areas": [
+                "Ama-Asa", "Amasa-Ntigha", "Amapu-Ntigha",  "Ihie","Isiala Ngwa", "Ngwa Ukwa", "Nsulu", "Okpuala-Ngwa", "Umuoha"
+            ]
         },
         "7": {
             "name": "Isiala Ngwa South",
             "official": "Isiala Ngwa South Local Government",
-            "areas": []
+            "areas": [
+                "Amaise", "Amaise-Ahaba", "Ehi-Na-Uguru Nvosi", "Isiala Nvosi", "Mbutu", "Ngwa", "Okporo Ahaba", "Omoba", "Osokwa–Nvosi", "Ovu-Ngwu", "Ovu-Okwu"
+            ]
         },
         "8": {
             "name": "Obingwa",
@@ -73,12 +80,18 @@
         "9": {
             "name": "Ugwunagbo",
             "official": "Ugwunagbo Local Government",
-            "areas": []
+            "areas": [
+                "Abayi", "Alaoji", "Akanu", "Amaokpu-Umuitiri", "Amaorji", "Amapu-Ukebe", "Amapu-Umodo", "Amavo", "Amuzu-Amaikoro", "Asa-Amuhi", "Asa-Nnentu", "Asa-Oberie", "Asa-Umunka", "Asaomumakwa", "Obegu", "Obuzor", "Osusu-Aku", "Ozaa-Umuebukwu", "Ngwaiyiekwe", "Nngwa", "Ukebe", "Umuama-Oke", "Umuchewu", "Umugo", "Umule-Osoamadi", "Umunkama", "Umuod", "Umuaja"
+            ]
         },
         "10": {
             "name": "Ukwa East",
             "official": "Ukwa East Local Government",
-            "areas": []
+            "areas": [
+                "Abayi", "Ala-Ukwu", "Akuma-Imo",
+                "Azumini",
+                "Ibeme", "Ikwueke", "Ikwu-orie", "Ikwuo-Rieator", "Ntigha-uzo", "Obohia", "Umuigbube-Achara", "Umuihu-Eze 2", "Ohuru"
+            ]
         },
         "11": {
             "name": "Ukwa West",
@@ -128,7 +141,7 @@
             "name": "Umunneochi",
             "official": "Umunneochi Local Government",
             "areas": [
-                
+                "Umunneochi", "Okaiuga Nkwoegwu", "Amuda Achara", "Okafia", "Isukwuato", "Achara-Ihechiowa", "Oke-Ikpe", "Umuahia-Ikputu"
             ]
         }
     }
