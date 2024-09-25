@@ -31,7 +31,7 @@ test("Retrieve state attributes", function () {
     ]);
     expect(count($state->getLanguages()))->toEqual(2);
     expect(count($state->getLgas()))->toEqual(14);
-    expect(count($state->getAreas()))->toEqual(131);
+    expect(count($state->getAreas()))->toEqual(253);
 });
 
 test('set an attribute', function () {
