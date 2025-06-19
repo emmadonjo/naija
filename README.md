@@ -15,7 +15,7 @@ With this package you can retrieve the following state-related information:
 -   Capital
 -   Political Zone
 -   Creation Date
--   Polution - Male and female
+-   Population - Male and female
 -   Website
 -   Logo
 -   Flag
@@ -41,10 +41,13 @@ $states = Naija::states();
 // get the comprehensive information of a state
 $state = Naija::state('Abia');
 
+// get all the attributes of a state
+$state->getAttributes();
+
 // get name
 $state->getName();
 
-// get nick name
+// get nickname
 $state->getNickName();
 
 // get official name

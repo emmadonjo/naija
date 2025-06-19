@@ -95,8 +95,8 @@ test("Filter states with strict non-equality operator", function () {
 });
 
 
-test("Filter states with null key", function () {
-    $states = Naija::where(null,"Abia");
+test("Filter states with invalid key", function () {
+    $states = Naija::where('invalid',"Abia");
 
     expect(count($states))->toEqual(0);
 });

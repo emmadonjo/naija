@@ -19,15 +19,14 @@ class Naija
      * Loads the specified state's data
      * @param string $name
      * @return State
+     * @throws StateException
      */
     public static function state(string $name): State
     {
-        $name = strtolower(trim($name));
-
+        $name = static::formatStateNameToKey($name);
         if (!isset(self::$states[$name])) {
             self::$states[$name] = json_decode(static::getFile(__DIR__ . "/../resources/data/$name.json"), true);
         }
-
         return new State(static::$states[$name]);
     }
 
@@ -36,34 +35,36 @@ class Naija
      * get the minified data for all the states
      *
      * @return array
+     * @throws StateException
      */
     public static function states(): array
     {
-        static::$states = json_decode(static::getFile(__DIR__ . "/../resources/data/states.json"), true);
+        static::$states['states'] = json_decode(static::getFile(__DIR__ . "/../resources/data/states.json"), true);
 
-        return static::$states;
+        return static::$states['states'];
     }
 
     /**
      * Filter states conditionally
-     * @param string|null $key
+     * @param string $key
      * @param string $operator
-     * @param string|int $value
+     * @param string|int|null $value
      *
      * @return array
+     * @throws StateException
      */
-    public static function where(string|null $key = null, string $operator, string|int $value = null): array
+    public static function where(string $key, string $operator, string|int $value = null): array
     {
         if (func_num_args() === 2) {
             $value = $operator;
             $operator = '=';
         }
 
-        if (! isset(static::$states['longlist'])) {
-            static::$states['longlist'] = json_decode(static::getFile(__DIR__.'/../resources/data/states.json'), true);
+        if (! isset(static::$states['states'])) {
+            static::$states['states'] = json_decode(static::getFile(__DIR__.'/../resources/data/states.json'), true);
         }
 
-        return static::filter(static::$states['longlist'], static::operatorForWhere($key, $operator, $value));
+        return static::filter(static::$states['states'], static::operatorForWhere($key, $operator, $value));
     }
 
     /**
@@ -73,9 +74,9 @@ class Naija
      * @param string $operator
      * @param mixed  $value
      *
-     * @return \Closure
+     * @return Closure
      */
-    protected static function operatorForWhere($key, $operator, $value)
+    protected static function operatorForWhere(string $key, string $operator, mixed $value): Closure
     {
         return function ($item) use ($key, $operator, $value) {
             $retrieved = static::get($item, $key);
@@ -104,7 +105,7 @@ class Naija
      *
      * @return array
      */
-    protected static function filter($items, callable $callback = null): array
+    protected static function filter(array $items, callable $callback = null): array
     {
         if ($callback) {
             return array_filter($items, $callback, ARRAY_FILTER_USE_BOTH);
@@ -122,7 +123,7 @@ class Naija
      *
      * @return mixed
      */
-    protected static function get($target, $key = null, $default = null)
+    protected static function get(mixed $target, string|array|null $key = null, mixed $default = null): mixed
     {
         if (is_null($key)) {
             return $target;
@@ -162,7 +163,7 @@ class Naija
      *
      * @return array
      */
-    protected static function pluck($array, $value, $key = null): array
+    protected static function pluck(array $array, string|array $value, string|array|null $key = null): array
     {
         $results = [];
 
@@ -174,7 +175,7 @@ class Naija
             $itemValue = static::get($item, $value);
 
             // If the key is "null", we will just append the value to the array and keep
-            // looping. Otherwise we will key the array using the value of the key we
+            // looping. Otherwise, we will key the array using the value of the key we
             // received from the developer. Then we'll return the final array form.
             if (is_null($key)) {
                 $results[] = $itemValue;
@@ -195,15 +196,13 @@ class Naija
      *
      * @return array
      */
-    protected static function collapse($array): array
+    protected static function collapse(array $array): array
     {
         $results = [];
-
         foreach ($array as $values) {
             if (! is_array($values)) {
                 continue;
             }
-
             $results = array_merge($results, $values);
         }
 
@@ -218,12 +217,21 @@ class Naija
      * @throws StateException
      * @return bool|string
      */
-    protected static function getFile($filePath)
+    protected static function getFile(mixed $filePath): bool|string
     {
         if (!file_exists($filePath)) {
             throw StateException::unknownStateInformationException();
         }
-
         return file_get_contents($filePath);
+    }
+
+    /**
+     * @param string $name
+     * @return string
+     */
+    private static function formatStateNameToKey(string $name): string
+    {
+        $name = strtolower(trim($name));
+        return str_replace([' ', '-'], '_', $name);
     }
 }
