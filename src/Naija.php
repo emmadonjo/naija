@@ -53,7 +53,7 @@ class Naija
      * @return array
      * @throws StateException
      */
-    public static function where(string $key, string $operator, string|int $value = null): array
+    public static function where(string $key, string $operator, string|int|null $value = null): array
     {
         if (func_num_args() === 2) {
             $value = $operator;
@@ -105,7 +105,7 @@ class Naija
      *
      * @return array
      */
-    protected static function filter(array $items, callable $callback = null): array
+    protected static function filter(array $items, ?callable $callback = null): array
     {
         if ($callback) {
             return array_filter($items, $callback, ARRAY_FILTER_USE_BOTH);
