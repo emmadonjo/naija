@@ -109,7 +109,12 @@ Then you can access the assets as follows:
 
 -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
 -   [https://en.wikipedia.org/wiki/States_of_Nigeria](https://en.wikipedia.org/wiki/States_of_Nigeria)
+-   [https://www.nipc.gov.ng/nigeria-states/adamawa-state/](https://www.nipc.gov.ng/nigeria-states/adamawa-state/)
 -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
 -   [https://en.wikipedia.org/wiki/List_of_nicknames_of_Nigerian_states](https://en.wikipedia.org/wiki/List_of_nicknames_of_Nigerian_states)
 -   [https://www.mindat.org/feature-8636368.html](https://www.mindat.org/feature-8636368.html)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Adamawa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Adamawa_State)
+-   [https://soluap.com/adamawa-list-of-226-council-wards-and-21-local-government-areas/](https://soluap.com/adamawa-list-of-226-council-wards-and-21-local-government-areas/)
+-   [https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf](https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf)
+-   [https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters)
