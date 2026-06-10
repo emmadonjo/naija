@@ -128,3 +128,6 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Ayamelum](https://en.wikipedia.org/wiki/Ayamelum)
 -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
 -   [https://geo.mycyber.org/nigeria/anambra-west/](https://geo.mycyber.org/nigeria/anambra-west/)
+-   [https://en.wikipedia.org/wiki/Bauchi_State](https://en.wikipedia.org/wiki/Bauchi_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Bauchi_State](https://en.wikipedia.org/wiki/List_of_villages_in_Bauchi_State)
+-   [https://www.bauchistate.gov.ng](https://www.bauchistate.gov.ng)
