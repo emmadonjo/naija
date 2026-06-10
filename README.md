@@ -131,3 +131,8 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Bauchi_State](https://en.wikipedia.org/wiki/Bauchi_State)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Bauchi_State](https://en.wikipedia.org/wiki/List_of_villages_in_Bauchi_State)
 -   [https://www.bauchistate.gov.ng](https://www.bauchistate.gov.ng)
+-   [https://en.wikipedia.org/wiki/Bayelsa_State](https://en.wikipedia.org/wiki/Bayelsa_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Bayelsa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Bayelsa_State)
+-   [https://en.wikipedia.org/wiki/Yenagoa](https://en.wikipedia.org/wiki/Yenagoa)
+-   [https://en.wikipedia.org/wiki/Ogbia_Local_Government_Area](https://en.wikipedia.org/wiki/Ogbia_Local_Government_Area)
+-   [https://en.wikipedia.org/wiki/Southern_Ijaw_Local_Government_Area](https://en.wikipedia.org/wiki/Southern_Ijaw_Local_Government_Area)
