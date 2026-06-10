@@ -118,3 +118,7 @@ Then you can access the assets as follows:
 -   [https://soluap.com/adamawa-list-of-226-council-wards-and-21-local-government-areas/](https://soluap.com/adamawa-list-of-226-council-wards-and-21-local-government-areas/)
 -   [https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf](https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf)
 -   [https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters)
+-   [https://akwaibomstate.gov.ng/local-government-areas-in-akwa-ibom-state/](https://akwaibomstate.gov.ng/local-government-areas-in-akwa-ibom-state/)
+-   [https://en.wikipedia.org/wiki/Akwa_Ibom_State](https://en.wikipedia.org/wiki/Akwa_Ibom_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Akwa_Ibom_State](https://en.wikipedia.org/wiki/List_of_villages_in_Akwa_Ibom_State)
+-   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf)
