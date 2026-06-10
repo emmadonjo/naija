@@ -12,137 +12,606 @@
         "female": 2958457
     },
     "website": "https://deltastate.gov.ng",
-    "logo": "../logos/delta.png",
+    "logo": "/images/logos/delta.png",
+    "flag": "",
     "demonym": "Deltan",
     "nick_name": " The Big Heart of the Nation",
     "languages": {
-        "english": "English"
+        "english": "English",
+        "urhobo": "Urhobo",
+        "isoko": "Isoko",
+        "itsekiri": "Itsekiri",
+        "ijaw": "Ijaw",
+        "igbo": "Igbo",
+        "ukwuani": "Ukwuani"
     },
     "lga": {
         "1": {
-            "name": "Ethiope East",
-            "official": "Ethiope East Local Government",
-            "areas": []
-        },
-        "2": {
-            "name": "Ethiope West",
-            "official": "Ethiope West Local Government",
-            "areas": []
-        },
-        "3": {
-            "name": "Okpe",
-            "official": "Okpe Local Government",
-            "areas": []
-        },
-        "4": {
-            "name": "Sapele",
-            "official": "Sapele Local Government",
-            "areas": []
-        },
-        "5": {
-            "name": "Udu",
-            "official": "Udu Local Government",
-            "areas": []
-        },
-        "6": {
-            "name": "Ughelli North",
-            "official": "Ughelli North Local Government"
-        },
-        "7": {
-            "name": "Ughelli South",
-            "official": "Ughelli South Local Government",
-            "areas": []
-        },
-        "8": {
-            "name": "Uvwie",
-            "official": "Uvwie Local Government",
-            "areas": []
-        },
-        "9": {
             "name": "Aniocha North",
             "official": "Aniocha North Local Government",
-            "areas": []
+            "areas": [
+                "Issele Uku",
+                "Idumuje-Ugboko",
+                "Idumuje-Unor",
+                "Idumuogo",
+                "Isa-Ogwashi",
+                "Issele-Azagba",
+                "Issele-Mkpitime",
+                "Obior",
+                "Obomkpa",
+                "Onicha Olona",
+                "Onicha-Ugbo",
+                "Onicha-Uku",
+                "Ubulubu",
+                "Ugboba",
+                "Ugbodu",
+                "Ugodor",
+                "Ukwu-Nzu",
+                "Ezi",
+                "Anioma"
+            ]
         },
-        "10": {
+        "2": {
             "name": "Aniocha South",
             "official": "Aniocha South Local Government",
-            "areas": []
+            "areas": [
+                "Ogwashi Ukwu",
+                "Isheagu",
+                "Nsukwa",
+                "Ubulu-Okiti",
+                "Ubulu Ukwu",
+                "Ubulu-Uno",
+                "Ashama",
+                "Ejeme-Aniogor",
+                "Ewulu",
+                "Egbudu-Akah",
+                "Azagba-Ogwashi",
+                "Azamu",
+                "Adonte",
+                "Aba Unor",
+                "Abo-Ogwashi",
+                "Abugba",
+                "Ani Ugbo",
+                "Egbudu",
+                "Olodu-Ogwashi",
+                "Olor",
+                "Otulu-Ogwashi",
+                "Ukwu Oba",
+                "Umudike",
+                "Umute",
+                "Obi Dugbo",
+                "Obi Emenen"
+            ]
         },
-        "11": {
-            "name": "Ika North East",
-            "official": "Ika North East Local Government",
-            "areas": []
-        },
-        "12": {
-            "name": "Ika South",
-            "official": "Ika South Local Government",
-            "areas": []
-        },
-        "13": {
-            "name": "Ndokwa East",
-            "official": "Ndokwa East Local Government",
-            "areas": []
-        },
-        "14": {
-            "name": "Ndokwa West",
-            "official": "Ndokwa West Local Government",
-            "areas": []
-        },
-        "15": {
-            "name": "Oshimili North",
-            "official": "Oshimili North Local Government",
-            "areas": []
-        },
-        "16": {
-            "name": "Oshimili South",
-            "official": "Oshimili South Local Government",
-            "areas": []
-        },
-        "17": {
-            "name": "Ukwuani",
-            "official": "Ukwuani Local Government",
-            "areas": []
-        },
-        "18": {
+        "3": {
             "name": "Bomadi",
             "official": "Bomadi Local Government",
-            "areas": []
+            "areas": [
+                "Bomadi",
+                "Akugbene",
+                "Ogriagbene",
+                "Esama",
+                "Ekametagbene",
+                "Ezebiri",
+                "Gbaregolo",
+                "Kolafiogbene",
+                "Kpakiama",
+                "Ogbeinyama",
+                "Ogodobiri",
+                "Ogundobiri",
+                "Okoloba",
+                "Adobu",
+                "Odorubu",
+                "Ogo-Eze",
+                "Uduobori"
+            ]
         },
-        "19": {
+        "4": {
             "name": "Burutu",
             "official": "Burutu Local Government",
-            "areas": []
+            "areas": [
+                "Burutu",
+                "Forcados",
+                "Keremo",
+                "Ofougbene",
+                "Odimodi",
+                "Osamayigben",
+                "Benibayo",
+                "Ogulagha",
+                "Yobebe",
+                "Yokrisobo",
+                "Abadima",
+                "Okorogbene",
+                "Obotebe",
+                "Opuapale",
+                "Dunu-Ogusu",
+                "Edegbene",
+                "Ikorogha",
+                "Oboro",
+                "Amasuomo",
+                "Agbodobiri",
+                "Bolu-Ojobo",
+                "Ekumugbene",
+                "Toru-Temigbe",
+                "Bolua-Tamigbe"
+            ]
         },
-        "20": {
+        "5": {
+            "name": "Ethiope East",
+            "official": "Ethiope East Local Government",
+            "areas": [
+                "Isiokolo",
+                "Abraka",
+                "Kokori",
+                "Eku",
+                "Orhokpokpo",
+                "Akpoho",
+                "Ekerejeta",
+                "Erho",
+                "Ofuoma",
+                "Ogheje",
+                "Ugolo",
+                "Umeghe",
+                "Urhuagbesa",
+                "Urhuogo Inland",
+                "Urhuoka",
+                "Urhuovie",
+                "Adarode",
+                "Ekirigbo",
+                "Ekraka",
+                "Emakpo"
+            ]
+        },
+        "6": {
+            "name": "Ethiope West",
+            "official": "Ethiope West Local Government",
+            "areas": [
+                "Oghara",
+                "Mosogar",
+                "Jesse",
+                "Egbeku",
+                "Egbo",
+                "Edjemuon",
+                "Ewurihie",
+                "Ijomi",
+                "Ogharefe",
+                "Oghareki",
+                "Ohrumudu",
+                "Otefe",
+                "Ovwuovwu",
+                "Ugbakele",
+                "Ugbevwe",
+                "Umoro",
+                "Atiwor",
+                "Boboroku",
+                "Edjeba",
+                "Ejeketa"
+            ]
+        },
+        "7": {
+            "name": "Ika North East",
+            "official": "Ika North East Local Government",
+            "areas": [
+                "Owa-Oyibu",
+                "Umunede",
+                "Mbiri",
+                "Ekwuoma",
+                "Boji-Boji-Owa",
+                "Owa-Alero",
+                "Owa-Ekei",
+                "Ase",
+                "Akumazi",
+                "Aliegbo",
+                "Etiti",
+                "Ibiegwa",
+                "Ikeze",
+                "Ndobu",
+                "Ogbe",
+                "Okete",
+                "Otolokpo",
+                "Ugbeka",
+                "Umuhu",
+                "Ute",
+                "Ute-Enugu",
+                "Ute-Erumu",
+                "Achara",
+                "Agban"
+            ]
+        },
+        "8": {
+            "name": "Ika South",
+            "official": "Ika South Local Government",
+            "areas": [
+                "Agbor",
+                "Ekuku-Agbor",
+                "Abavo-Central",
+                "Aliagwa",
+                "Alifekede",
+                "Alizormo",
+                "Alihagwu",
+                "Aliokpu",
+                "Emuhu",
+                "Ewuru",
+                "Oki",
+                "Omumu",
+                "Oyoko",
+                "Obi-Anyinma",
+                "Okpe",
+                "Oza-Nogogo",
+                "Idumuoza",
+                "Ekwueze",
+                "Ogbehulor",
+                "Aliohen"
+            ]
+        },
+        "9": {
             "name": "Isoko North",
             "official": "Isoko North Local Government",
-            "areas": []
+            "areas": [
+                "Ozoro",
+                "Emevor",
+                "Oyede",
+                "Owhelogbo",
+                "Ellu",
+                "Ofagbe",
+                "Otor-Owhe",
+                "Iyede-Ame",
+                "Igbuku",
+                "Oghara-Iyede",
+                "Odoga-Oyede"
+            ]
         },
-        "21": {
+        "10": {
             "name": "Isoko South",
             "official": "Isoko South Local Government",
-            "areas": []
+            "areas": [
+                "Oleh",
+                "Aviara",
+                "Olomoro",
+                "Emede",
+                "Enhwe",
+                "Erowha",
+                "Igbide",
+                "Irri",
+                "Okpolo",
+                "Umeh",
+                "Uzere",
+                "Idheze",
+                "Ikpide",
+                "Orie",
+                "Owodokpokpo",
+                "Uro"
+            ]
         },
-        "22": {
+        "11": {
+            "name": "Ndokwa East",
+            "official": "Ndokwa East Local Government",
+            "areas": [
+                "Aboh",
+                "Ashaka",
+                "Afor",
+                "Adiai",
+                "Akarai",
+                "Ibedeni",
+                "Ibrede",
+                "Okpai",
+                "Onyah",
+                "Onogbokor",
+                "Onuaboh",
+                "Ossissa",
+                "Otuoko",
+                "Obikwele",
+                "Umuolu",
+                "Ushie",
+                "Anyi"
+            ]
+        },
+        "12": {
+            "name": "Ndokwa West",
+            "official": "Ndokwa West Local Government",
+            "areas": [
+                "Kwale",
+                "Abbi",
+                "Emu",
+                "Ogume",
+                "Utagba-Uno",
+                "Onicha-Ukwuani",
+                "Oliogo",
+                "Ijeze",
+                "Isumpe",
+                "Umusadege",
+                "Emu-Ebendo",
+                "Emu-Iyasele",
+                "Emu-Uno",
+                "Ogbe-Ogume",
+                "Imam-Abbi"
+            ]
+        },
+        "13": {
+            "name": "Okpe",
+            "official": "Okpe Local Government",
+            "areas": [
+                "Orerokpe",
+                "Okuokoko",
+                "Adagbrassa",
+                "Aghalokpe",
+                "Aragba",
+                "Oviri-Okpe",
+                "Ughoton",
+                "Osubi",
+                "Jeddo",
+                "Ogiedi",
+                "Amuokpokpo",
+                "Inabome",
+                "Okuoke",
+                "Olan",
+                "Onoghro",
+                "Oyohe",
+                "Arunuse"
+            ]
+        },
+        "14": {
+            "name": "Oshimili North",
+            "official": "Oshimili North Local Government",
+            "areas": [
+                "Akwukwu-Igbo",
+                "Ibusa",
+                "Illah",
+                "Okpanam",
+                "Ugbolu",
+                "Ebu",
+                "Oko-Okwe",
+                "Nsukwa",
+                "Ubulu-Uku",
+                "Ubulu-Edoe",
+                "Aninwalo",
+                "Machakolo",
+                "Ngegwu",
+                "Iyiaga"
+            ]
+        },
+        "15": {
+            "name": "Oshimili South",
+            "official": "Oshimili South Local Government",
+            "areas": [
+                "Asaba",
+                "Okwe",
+                "Oko-Amakom",
+                "Oko-Anala",
+                "Oko-Ogbele",
+                "Odifulu",
+                "Cable Point",
+                "Ugbomanta",
+                "Umuaji",
+                "Umuezei",
+                "West End"
+            ]
+        },
+        "16": {
             "name": "Patani",
             "official": "Patani Local Government",
-            "areas": []
+            "areas": [
+                "Patani",
+                "Abari",
+                "Kabowei",
+                "Koloware",
+                "Agoloma",
+                "Aven",
+                "Bolou Apelebiri",
+                "Bolou-Angiama",
+                "Odoruba",
+                "Toru-Angiama",
+                "Toru-Apelebiri",
+                "Uduophori"
+            ]
+        },
+        "17": {
+            "name": "Sapele",
+            "official": "Sapele Local Government",
+            "areas": [
+                "Sapele",
+                "Amukpe",
+                "Ugborhen",
+                "Elume",
+                "Oviri",
+                "Okuovwori",
+                "Aruowon",
+                "Ebada",
+                "Egborode",
+                "Gana",
+                "Ikwewu",
+                "Ogorode",
+                "Okirigwre",
+                "Ekeresan",
+                "Okuodede",
+                "Ugbokurusu"
+            ]
+        },
+        "18": {
+            "name": "Udu",
+            "official": "Udu Local Government",
+            "areas": [
+                "Otor-Udu",
+                "Aladja",
+                "Ovwian",
+                "Emadadja",
+                "Egini",
+                "Obubu",
+                "Ubogo",
+                "Ukpiovwin",
+                "Ayama",
+                "Ekrota",
+                "Ugbisi",
+                "Owhrode",
+                "Ekete Oboto",
+                "Ekete Uburhie",
+                "Okolo Uburhie",
+                "Okolo Oboto",
+                "Egiegi",
+                "Ogbe-Udu",
+                "Owhase",
+                "Okpaka"
+            ]
+        },
+        "19": {
+            "name": "Ughelli North",
+            "official": "Ughelli North Local Government",
+            "areas": [
+                "Ughelli",
+                "Agbarho",
+                "Agbarha",
+                "Orogun",
+                "Evwreni",
+                "Uwheru",
+                "Ogor",
+                "Afiesere",
+                "Agbarha-Otor",
+                "Eruemukobwarien",
+                "Oteri",
+                "Uduere",
+                "Aragba-Orogun",
+                "Eboh-Orogun",
+                "Ugono-Orogun",
+                "Agadama",
+                "Iwre-Egbo",
+                "Ekiugbo",
+                "Ehwerhe"
+            ]
+        },
+        "20": {
+            "name": "Ughelli South",
+            "official": "Ughelli South Local Government",
+            "areas": [
+                "Otu Jeremi",
+                "Olomu",
+                "Ekakpamre",
+                "Ekrejegbe",
+                "Egbo-Uhurie",
+                "Eyara",
+                "Oginibo",
+                "Okwagbe",
+                "Owahwa",
+                "Eghwu",
+                "Ophorigbala",
+                "Otokutu",
+                "Urhiephron",
+                "Alagbabiri",
+                "Assah",
+                "Ekameta",
+                "Okuama",
+                "Orere",
+                "Okparabe",
+                "Agbon"
+            ]
+        },
+        "21": {
+            "name": "Ukwuani",
+            "official": "Ukwuani Local Government",
+            "areas": [
+                "Obiaruku",
+                "Umutu",
+                "Akoku",
+                "Amai",
+                "Aziokpor",
+                "Umukwata",
+                "Ozionum",
+                "Umoebu",
+                "Ebedei",
+                "Adonishaka",
+                "Obi-Ebedei",
+                "Umuezogoli",
+                "Owah",
+                "Obinomba",
+                "Umubu",
+                "Umuekum"
+            ]
+        },
+        "22": {
+            "name": "Uvwie",
+            "official": "Uvwie Local Government",
+            "areas": [
+                "Effurun",
+                "Ekpan",
+                "Enerhen",
+                "Ugborikoko",
+                "Ebrumede",
+                "Okpaka",
+                "Okuamowah",
+                "Okuireroh",
+                "Ugbolokposo",
+                "Ugbomoro",
+                "Ugboroke",
+                "Arakpo-Umah"
+            ]
         },
         "23": {
             "name": "Warri North",
             "official": "Warri North Local Government",
-            "areas": []
+            "areas": [
+                "Koko",
+                "Ogheye",
+                "Abegborode",
+                "Ajamogha",
+                "Arunologbo",
+                "Bresibi",
+                "Nana",
+                "Ayogboro",
+                "Batere",
+                "Deghele",
+                "Gbokoda",
+                "Kolokolo",
+                "Ogbinbirin",
+                "Opuama",
+                "Tebu",
+                "Tisun",
+                "Ugbege",
+                "Aleima"
+            ]
         },
         "24": {
             "name": "Warri South",
             "official": "Warri South Local Government",
-            "areas": []
+            "areas": [
+                "Warri",
+                "Egbokodo",
+                "Ubeji",
+                "Ode-Itsekiri",
+                "Obodo",
+                "Jelu",
+                "Orugbo",
+                "Ubuwangue",
+                "Agbassa",
+                "Igbudu",
+                "Edjeba",
+                "Ogunu",
+                "Okere",
+                "Ekurede",
+                "Ugbori",
+                "Bekokodia",
+                "Okerenghigho",
+                "Omadino",
+                "Ijala",
+                "Alders Town"
+            ]
         },
         "25": {
             "name": "Warri South West",
             "official": "Warri South West Local Government",
-            "areas": []
+            "areas": [
+                "Ogbe-Ijoh",
+                "Okerenkoko",
+                "Gbaramatu",
+                "Isaba",
+                "Diebiri",
+                "Ugborodo",
+                "Madangho",
+                "Aja-Udaibo",
+                "Akpikpa",
+                "Ogidigben",
+                "Oporoza",
+                "Orere",
+                "Kurutie"
+            ]
         }
     }
 }
-

@@ -12,7 +12,7 @@
         "female": 2007600
     },
     "website": "https://www.crossriverstate.gov.ng",
-    "logo": "../logos/cross-river.png",
+    "logo": "/images/logos/cross-river.png",
     "demonym": "",
     "nick_name": " The People's Paradise",
     "languages": {
