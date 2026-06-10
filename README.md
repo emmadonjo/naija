@@ -136,3 +136,7 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Yenagoa](https://en.wikipedia.org/wiki/Yenagoa)
 -   [https://en.wikipedia.org/wiki/Ogbia_Local_Government_Area](https://en.wikipedia.org/wiki/Ogbia_Local_Government_Area)
 -   [https://en.wikipedia.org/wiki/Southern_Ijaw_Local_Government_Area](https://en.wikipedia.org/wiki/Southern_Ijaw_Local_Government_Area)
+-   [https://en.wikipedia.org/wiki/Benue_State](https://en.wikipedia.org/wiki/Benue_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Benue_State](https://en.wikipedia.org/wiki/List_of_villages_in_Benue_State)
+-   [https://en.wikipedia.org/wiki/Makurdi](https://en.wikipedia.org/wiki/Makurdi)
+-   [https://en.wikipedia.org/wiki/Otukpo](https://en.wikipedia.org/wiki/Otukpo)
