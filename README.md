@@ -223,6 +223,14 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Udenu](https://en.wikipedia.org/wiki/Udenu)
     -   [https://en.wikipedia.org/wiki/Udi,_Enugu](https://en.wikipedia.org/wiki/Udi,_Enugu)
     -   [https://en.wikipedia.org/wiki/Uzo_Uwani](https://en.wikipedia.org/wiki/Uzo_Uwani)
+    -   [https://en.wikipedia.org/wiki/Federal_Capital_Territory_(Nigeria)](https://en.wikipedia.org/wiki/Federal_Capital_Territory_(Nigeria))
+    -   [https://en.wikipedia.org/wiki/Abuja](https://en.wikipedia.org/wiki/Abuja)
+    -   [https://en.wikipedia.org/wiki/Abaji,_Nigeria](https://en.wikipedia.org/wiki/Abaji,_Nigeria)
+    -   [https://en.wikipedia.org/wiki/Abuja_Municipal_Area_Council](https://en.wikipedia.org/wiki/Abuja_Municipal_Area_Council)
+    -   [https://en.wikipedia.org/wiki/Bwari](https://en.wikipedia.org/wiki/Bwari)
+    -   [https://en.wikipedia.org/wiki/Gwagwalada](https://en.wikipedia.org/wiki/Gwagwalada)
+    -   [https://en.wikipedia.org/wiki/Kuje](https://en.wikipedia.org/wiki/Kuje)
+    -   [https://en.wikipedia.org/wiki/Kwali_Area_Council](https://en.wikipedia.org/wiki/Kwali_Area_Council)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
@@ -235,6 +243,7 @@ Then you can access the assets as follows:
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf)
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf)
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf)
+    -   [https://inecnigeria.org/wp-content/uploads/2023/01/FCT.pdf](https://inecnigeria.org/wp-content/uploads/2023/01/FCT.pdf)
 
 -   **Nigeria Housing Market**
     -   [https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters)
@@ -243,6 +252,7 @@ Then you can access the assets as follows:
     -   [https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters)
     -   [https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026)
+    -   [https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters](https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -301,6 +311,12 @@ Then you can access the assets as follows:
 
 -   **Enugu State Government**
     -   [https://enugustate.gov.ng](https://enugustate.gov.ng)
+
+-   **Federal Capital Territory Administration (FCTA)**
+    -   [https://fcta.gov.ng](https://fcta.gov.ng)
+
+-   **Premium Times Nigeria**
+    -   [https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html](https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html)
 
 -   **Vanguard Nigeria**
     -   [https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/](https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/)
