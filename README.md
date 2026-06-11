@@ -204,6 +204,25 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Gbonyin](https://en.wikipedia.org/wiki/Gbonyin)
     -   [https://en.wikipedia.org/wiki/Oye,_Ekiti](https://en.wikipedia.org/wiki/Oye,_Ekiti)
     -   [https://en.wikipedia.org/wiki/Moba,_Nigeria](https://en.wikipedia.org/wiki/Moba,_Nigeria)
+    -   [https://en.wikipedia.org/wiki/Enugu_State](https://en.wikipedia.org/wiki/Enugu_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Enugu_State](https://en.wikipedia.org/wiki/List_of_villages_in_Enugu_State)
+    -   [https://en.wikipedia.org/wiki/Aninri](https://en.wikipedia.org/wiki/Aninri)
+    -   [https://en.wikipedia.org/wiki/Awgu](https://en.wikipedia.org/wiki/Awgu)
+    -   [https://en.wikipedia.org/wiki/Enugu_East](https://en.wikipedia.org/wiki/Enugu_East)
+    -   [https://en.wikipedia.org/wiki/Enugu_North](https://en.wikipedia.org/wiki/Enugu_North)
+    -   [https://en.wikipedia.org/wiki/Enugu_South](https://en.wikipedia.org/wiki/Enugu_South)
+    -   [https://en.wikipedia.org/wiki/Ezeagu](https://en.wikipedia.org/wiki/Ezeagu)
+    -   [https://en.wikipedia.org/wiki/Igbo_Etiti](https://en.wikipedia.org/wiki/Igbo_Etiti)
+    -   [https://en.wikipedia.org/wiki/Igbo_Eze_North](https://en.wikipedia.org/wiki/Igbo_Eze_North)
+    -   [https://en.wikipedia.org/wiki/Igbo_Eze_South](https://en.wikipedia.org/wiki/Igbo_Eze_South)
+    -   [https://en.wikipedia.org/wiki/Isi_Uzo](https://en.wikipedia.org/wiki/Isi_Uzo)
+    -   [https://en.wikipedia.org/wiki/Nkanu_East](https://en.wikipedia.org/wiki/Nkanu_East)
+    -   [https://en.wikipedia.org/wiki/Nkanu_West](https://en.wikipedia.org/wiki/Nkanu_West)
+    -   [https://en.wikipedia.org/wiki/Nsukka](https://en.wikipedia.org/wiki/Nsukka)
+    -   [https://en.wikipedia.org/wiki/Oji_River](https://en.wikipedia.org/wiki/Oji_River)
+    -   [https://en.wikipedia.org/wiki/Udenu](https://en.wikipedia.org/wiki/Udenu)
+    -   [https://en.wikipedia.org/wiki/Udi,_Enugu](https://en.wikipedia.org/wiki/Udi,_Enugu)
+    -   [https://en.wikipedia.org/wiki/Uzo_Uwani](https://en.wikipedia.org/wiki/Uzo_Uwani)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
@@ -223,6 +242,7 @@ Then you can access the assets as follows:
     -   [https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters)
     -   [https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026)
+    -   [https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -234,6 +254,9 @@ Then you can access the assets as follows:
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-emure-l-g-a-ekiti-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-emure-l-g-a-ekiti-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-oye-l-g-a-ekiti-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-oye-l-g-a-ekiti-state/)
     -   [https://www.medianigeria.com/history-of-moba-lga-ekiti-state/](https://www.medianigeria.com/history-of-moba-lga-ekiti-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-ezeagu-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-ezeagu-l-g-a-enugu-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-nsukka-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-nsukka-l-g-a-enugu-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-udi-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-udi-l-g-a-enugu-state/)
 
 -   **Current Affairs NG**
     -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
@@ -275,6 +298,9 @@ Then you can access the assets as follows:
 
 -   **Ekiti State Government**
     -   [https://www.ekitistate.gov.ng/about-ekiti/local-government](https://www.ekitistate.gov.ng/about-ekiti/local-government)
+
+-   **Enugu State Government**
+    -   [https://enugustate.gov.ng](https://enugustate.gov.ng)
 
 -   **Vanguard Nigeria**
     -   [https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/](https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/)
