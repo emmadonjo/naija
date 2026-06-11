@@ -1,7 +1,7 @@
 {
     "name": {
         "common": "Akwa Ibom",
-        "official": "Akwa Ibom",
+        "official": "Akwa Ibom State",
         "short_code": "AK"
     },
     "capital": "Uyo",
@@ -12,8 +12,9 @@
         "female": 2875287
     },
     "website": "https://akwaibomstate.gov.ng",
-    "logo": "../logos/akwa-ibom.png",
-    "demonym": "Abians",
+    "logo": "/images/logos/akwa-ibom.png",
+    "flag": "",
+    "demonym": "Akwa Ibomites",
     "nick_name": "Land of Promise",
     "languages": {
         "english": "English",
@@ -23,162 +24,219 @@
         "1": {
             "name": "Abak",
             "official": "Abak Local Government",
-            "areas": []
+            "areas": [
+                "Abak", "Afaha Esang", "Afaha Obong", "Ediene", "Ikot Ebak", "Ikot Inyang", "Ikot Obong", "Manta", "Mbarakom", "Midim", "Okon Abak", "Oku Abak", "Otoro", "Utu Edem"
+            ]
         },
         "2": {
             "name": "Eastern Obolo",
             "official": "Eastern Obolo Local Government",
-            "areas": []
+            "areas": [
+                "Akpabom", "Atabrikang", "Iko", "Ikonta", "Kampa", "Okoroete", "Okoroiti", "Okoromboko", "Okoroutip", "Otunene"
+            ]
         },
         "3": {
             "name": "Eket",
             "official": "Eket Local Government",
-            "areas": []
+            "areas": [
+                "Eket", "Afaha Atai", "Afaha Ukwa", "Atabong", "Effoi", "Ekpene Ukpa", "Idua", "Ikot Eket", "Nditia", "Okon", "Odio", "Uquo"
+            ]
         },
         "4": {
             "name": "Esit-Eket",
             "official": "Esit-Eket Local Government",
-            "areas": []
+            "areas": [
+                "Uquo", "Afaha Ekpene Edi", "Akpautong", "Akoiyak", "Atia", "Ebe Ekpi", "Edo", "Ekpene Obo", "Etebi", "Ikpa", "Ntak Iyang", "Odoro Nkit", "Udua Akok", "Uqua Isi Edoho"
+            ]
         },
         "5": {
             "name": "Essien Udim",
             "official": "Essien Udim Local Government",
-            "areas": []
+            "areas": [
+                "Afaha Ikot Ebak", "Adiasim", "Adiasim Ikot Ekon", "Ekpenyong Atai", "Ikpe Annang", "Odoro Ikot", "Okon", "Ukana East", "Ukana Nsasak", "Ukana West"
+            ]
         },
         "6": {
             "name": "Etim-Ekpo",
-            "official": "Etim-Ekpo Local Government"
+            "official": "Etim-Ekpo Local Government",
+            "areas": [
+                "Utu Etim Ekpo", "Abak Obong", "Abat Town", "Ikot Akpa Nsek", "Ikot Edek", "Ikot Obio Ema", "Nto Edet", "Obong", "Uruk", "Utut Annang"
+            ]
         },
         "7": {
             "name": "Etinan",
             "official": "Etinan Local Government",
-            "areas": []
+            "areas": [
+                "Etinan", "Afaha Efiat", "Afaha Iman", "Ekom", "Ekpene Obom", "Ekpene Ukpa", "Ikot Akata", "Ikot Ebiyak", "Mbiete", "Ndon Eyo", "Northern Iman", "Southern Iman"
+            ]
         },
         "8": {
             "name": "Ibeno",
             "official": "Ibeno Local Government",
-            "areas": []
+            "areas": [
+                "Upenekang", "Atafre", "Ikot Inwang", "Inua Eyet Ikot", "Itak Abasi", "Itak Idim", "Iwoachang", "Mkpanak", "Ndito Eka Iba", "Okoro Utip", "Okpolom", "Okposo"
+            ]
         },
         "9": {
             "name": "Ibesikpo-Asutan",
             "official": "Ibesikpo-Asutan Local Government",
-            "areas": []
+            "areas": [
+                "Nung Udoe", "Asutan", "Ibesikpo", "Ikot Akpa", "Ikot Mbang", "Ikot Obio Nko", "Mbak Ekpe", "Ntuk Otong", "Obio Aduang", "Oku Ibesikpo"
+            ]
         },
         "10": {
             "name": "Ibiono-Ibom",
             "official": "Ibiono-Ibom Local Government",
-            "areas": []
+            "areas": [
+                "Okoita", "Aburu", "Afaha Obio Eno", "Asating", "Idoro", "Ikpanya", "Mbiabong", "Mbiakpan", "Nkwa Ibiono", "Ntan", "Odoro Aka", "Okobo Ibiono", "Usuk Aka", "Utit Obio"
+            ]
         },
         "11": {
-            "name": "Osisioma Ngwa",
-            "official": "Osisioma Ngwa Local Government",
-            "areas": []
-        },
-        "12": {
             "name": "Ika",
             "official": "Ika Local Government",
-            "areas": []
+            "areas": [
+                "Urua Inyang", "Abiakana", "Achan", "Ikananang", "Ikot Abara", "Ikot Ebenwong", "Ikot Inyang Ese", "Ito", "Nto Mfang", "Nto Udo Igwe", "Otomo"
+            ]
         },
-        "13": {
+        "12": {
             "name": "Ikono",
             "official": "Ikono Local Government",
-            "areas": []
+            "areas": [
+                "Ibiaku Ntuk Okpo", "Aka Ekpeme", "Ediene", "Ekpene Ediene", "Ibiannang", "Ikono Middle", "Ikono South", "Itak", "Ndiya", "Nkwot", "Nung-Ukim", "Ukpim"
+            ]
         },
-        "14": {
+        "13": {
             "name": "Ikot Abasi",
             "official": "Ikot Abasi Local Government",
-            "areas": []
+            "areas": [
+                "Ikot Abasi", "Abasute", "Edemaya", "Ete", "Ikpa Ibekwe", "Ikpa Nung Assang", "Itak Abasi", "Ndak Ekom", "Obio Akama", "Ukpum Ette", "Ukpum Okon"
+            ]
         },
-        "15": {
+        "14": {
             "name": "Ikot Ekpene",
             "official": "Ikot Ekpene Local Government",
-            "areas": []
+            "areas": [
+                "Ikot Ekpene", "Abak Ifia", "Abak Oko", "Abiakpan", "Amanyam", "Ekoi", "Ifuho", "Ibiakpan", "Ikot Abia Idem", "Ikot Inyang", "Ikot Obong Edong", "Ikot Osurua", "Nsiak", "Nto Obio Ekong", "Uruk Uso"
+            ]
         },
-        "16": {
+        "15": {
             "name": "Ini",
             "official": "Ini Local Government",
-            "areas": []
+            "areas": [
+                "Odoro Ikpe", "Aka Ekpene", "Ekoi", "Ikpe", "Ikono", "Itu Mbon Uso", "Iwerre", "Mbiabong", "Nkari"
+            ]
         },
-        "17": {
+        "16": {
             "name": "Itu",
             "official": "Itu Local Government",
-            "areas": []
+            "areas": [
+                "Itu", "Adang Itam", "East Itam", "Efi Itam", "Ekim Itam", "Esuk Itu", "Mbiase", "Nkim Itam", "Ntiat Itam", "Obong Itam", "Obot Itu", "Oku Iboku", "West Itam"
+            ]
         },
-        "18": {
+        "17": {
             "name": "Mbo",
             "official": "Mbo Local Government",
-            "areas": []
+            "areas": [
+                "Enwang", "Afaha Okpo", "Afaha Ukwong", "Akwa Obio Effiat", "Ebughu", "Effiat", "Ibaka", "Ibiaku", "Ikpa Ibom", "Inua Abasi", "Uda", "Udesi", "Utan"
+            ]
         },
-        "19": {
+        "18": {
             "name": "Mkpat-Enin",
             "official": "Mkpat-Enin Local Government",
-            "areas": []
+            "areas": [
+                "Mkpat Enin", "Esa Ekpo", "Ibiaku", "Ikpa Ibom", "Ikpa Ikono", "Ikot Ekpenyong", "Ikot Enin", "Ikot Idiong", "Ukpum Minya"
+            ]
         },
-        "20": {
+        "19": {
             "name": "Nsit-Atai",
             "official": "Nsit-Atai Local Government",
-            "areas": []
+            "areas": [
+                "Odot", "Adia Nsit", "Ibedu", "Ikot Akpabio", "Ikot Asua", "Ikot Ebita", "Ikot Essien", "Iwok Atai", "Nda Nsit", "Ndisiak", "Ndon Omum", "Ubetim", "Unyehe Nsit"
+            ]
         },
-        "21": {
+        "20": {
             "name": "Nsit-Ibom",
             "official": "Nsit-Ibom Local Government",
-            "areas": []
+            "areas": [
+                "Afaha Offiong", "Afaha Nsit", "Anyam Nsit", "Asang", "Ikot Asat", "Ikot Idem", "Ikot Obok", "Mbak Nsit", "Mbiaso", "Nditung Nsit", "Obiokpok", "Obo Atai", "Ukot Nsit"
+            ]
         },
-        "22": {
+        "21": {
             "name": "Nsit-Ubium",
             "official": "Nsit-Ubium Local Government",
-            "areas": []
+            "areas": [
+                "Ikot Edibon", "Akai", "Edebom", "Ibiakpan Obotim", "Ikot Ansang", "Ikot Ewang", "Itreto", "Ndiya", "Ubium North", "Ubium South", "Ukat"
+            ]
         },
-        "23": {
+        "22": {
             "name": "Obot-Akara",
             "official": "Obot-Akara Local Government",
-            "areas": []
+            "areas": [
+                "Nto Edino", "Abak Ukpom", "Abiakpan", "Ikot Abia", "Ikot Ikok", "Imana", "Nto Eton", "Obot Akara", "Okop"
+            ]
         },
-        "24": {
+        "23": {
             "name": "Okobo",
             "official": "Okobo Local Government",
-            "areas": []
+            "areas": [
+                "Okopedi", "Akai", "Amamong", "Anua Okopedi", "Ekeya", "Eweme", "Nsating", "Nung Atai", "Offi"
+            ]
         },
-        "25": {
+        "24": {
             "name": "Onna",
             "official": "Onna Local Government",
-            "areas": []
+            "areas": [
+                "Abat", "Awa", "Eyo Essi", "Ishiet", "Nko", "Ntan Ide", "Nung Ndem", "Okat", "Oniong East", "Oniong West", "Udung Ndung"
+            ]
         },
-        "26": {
+        "25": {
             "name": "Oron",
             "official": "Oron Local Government",
-            "areas": []
+            "areas": [
+                "Oron", "Afaha Okpo", "Esin Ufot", "Esuk Oro", "Eyo Abasi", "Eyetong", "Udung Esin", "Udung Ulo", "Uya Oro"
+            ]
         },
-        "27": {
+        "26": {
             "name": "Oruk Anam",
             "official": "Oruk Anam Local Government",
-            "areas": []
+            "areas": [
+                "Ikot Ibritam", "Abak Midim", "Ekot Ediene", "Ekparakwa", "Ibesit", "Ibesit Nung Ikot", "Inen", "Ndot", "Nung Ikot", "Nung Ita", "Obio Akpa"
+            ]
         },
-        "28": {
+        "27": {
             "name": "Ukanafun",
             "official": "Ukanafun Local Government",
-            "areas": []
+            "areas": [
+                "Ikot Akpa Nkuk", "Abat", "Akwa", "Ikot Antia", "Ikot Ebok", "Ikot Edung", "Ikot Udo", "Northern Afaha", "Northern Ukanafun", "Southern Afaha", "Southern Ukanafun", "Ukanafun"
+            ]
         },
-        "29": {
+        "28": {
             "name": "Udung-Uko",
             "official": "Udung-Uko Local Government",
-            "areas": []
+            "areas": [
+                "Eyofin", "Afaha Okpo", "Afaha Ubodung", "Ekim", "Eyo Atai", "Eyo Esin", "Eyobiosio", "Udung Uko", "Ubodung"
+            ]
         },
-        "30": {
+        "29": {
             "name": "Uruan",
             "official": "Uruan Local Government",
-            "areas": []
+            "areas": [
+                "Idu", "Akpa Utong", "Akpe Iboku Uruan", "Akwa Uruan", "Ekondo Uruan", "Etongko Mkpe Uruan", "Ibonda Uruan", "Ikot Oku Uruan", "Ituk Mbang", "Mosongko Uruan", "Mutaka Uruan", "Ndon Uruan", "Nwaniba"
+            ]
         },
-        "31": {
+        "30": {
             "name": "Urue-Offong/Oruko",
             "official": "Urue-Offong/Oruko Local Government",
-            "areas": []
+            "areas": [
+                "Urue Offong", "Afaha Ebughu", "Afaha Ibighi", "Afaha Okuiso", "Afaha Okpo", "Afaha Ubodung", "Afaha Ukwong", "Elei", "Eyetong", "Okuku", "Ubodung"
+            ]
         },
-        "32": {
+        "31": {
             "name": "Uyo",
             "official": "Uyo Local Government",
-            "areas": []
+            "areas": [
+                "Uyo", "Afaha Offot", "Afaha Oku", "Annua Offot", "Atan Offot", "Etoi", "Ewet Offot", "Iba Oku", "Ibiaku Offot", "Ikono", "Ikot Ayan Ikono", "Ikot Okubo", "Itiam Etoi", "Mbiabong Ikono", "Nsukara Offot", "Obio Etoi", "Offot", "Oku", "Use Offot", "Uyo Offot"
+            ]
         }
     }
 }
-

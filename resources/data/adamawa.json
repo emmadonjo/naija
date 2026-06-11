@@ -12,120 +12,162 @@
         "female": 2206044
     },
     "website": "https://adamawastate.gov.ng/",
-    "logo": "../logos/adamawa.png",
+    "logo": "/images/logos/adamawa.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "Land of Beauty",
     "languages": {
         "english": "English",
         "hausa": "Hausa",
         "fulfulde": "Fulfulde"
-        
     },
     "lga": {
         "1": {
             "name": "Demsa",
             "official": "Demsa Local Government",
-            "areas": []
+            "areas": [
+                "Bille", "Borrong", "Demsa", "Dilli", "Dong", "Dwam", "Gwamba", "Kpasham", "Mbula Kuli", "Nassarawo Demsa"
+            ]
         },
         "2": {
             "name": "Fufore",
             "official": "Fufore Local Government",
-            "areas": []
+            "areas": [
+                "Beti", "Farang", "Fufore", "Gurin", "Karlahi", "Mayo Ine", "Pariya", "Ribadu", "Uki Tuki", "Wuro Bokki", "Yadim"
+            ]
         },
         "3": {
             "name": "Ganye",
             "official": "Ganye Local Government",
-            "areas": []
+            "areas": [
+                "Bakari Guso", "Gamu", "Ganye I", "Ganye II", "Gurum", "Jaggu", "Sangasumi", "Sugu", "Timdore", "Yebbi"
+            ]
         },
         "4": {
             "name": "Girei",
             "official": "Girei Local Government",
-            "areas": []
+            "areas": [
+                "Dakri", "Damare", "Gereng", "Girei I", "Girei II", "Jera Bakari", "Jera Bonyo", "Modire/Vinikilang", "Tambo", "Wuro Dole"
+            ]
         },
         "5": {
             "name": "Gombi",
             "official": "Gombi Local Government",
-            "areas": []
+            "areas": [
+                "Boga/Dingai", "Duwa", "Ga'anda", "Gabun", "Garkida", "Gombi North", "Gombi South", "Guyaku", "Tawa", "Yang"
+            ]
         },
         "6": {
             "name": "Guyuk",
-            "official": "Guyuk  Local Government"
+            "official": "Guyuk Local Government",
+            "areas": [
+                "Banjiram", "Bobini", "Bodeno", "Chikila", "Dukul", "Dumna", "Guyuk", "Kola", "Lokoro", "Purokayo"
+            ]
         },
         "7": {
             "name": "Hong",
             "official": "Hong Local Government",
-            "areas": []
+            "areas": [
+                "Bangshika", "Daksiri", "Garaha", "Gaya", "Hildi", "Hong", "Hushere Zum", "Kwarhi", "Mayo Lope", "Shangui", "Thilbang", "Uba"
+            ]
         },
         "8": {
             "name": "Jada",
             "official": "Jada Local Government",
-            "areas": []
+            "areas": [
+                "Danaba", "Jada I", "Jada II", "Koma I", "Koma II", "Leko", "Mapeo", "Mayokalaye", "Mbulo", "Nyibango", "Yelli"
+            ]
         },
         "9": {
             "name": "Lamurde",
             "official": "Lamurde Local Government",
-            "areas": []
+            "areas": [
+                "Dubwangun", "Gyawana", "Lafiya", "Lamurde", "Mgbebongun", "Ngbakowo", "Opalo", "Rigange", "Suwa", "Waduku"
+            ]
         },
         "10": {
             "name": "Madagali",
             "official": "Madagali Local Government",
-            "areas": []
+            "areas": [
+                "Babel", "Duhu/Shuwa", "Gulak", "Hyambula", "Kworo Ngayandi", "Madagali", "Pallam", "Shelmi/Sukur/Vapura", "Wagga", "Wula"
+            ]
         },
         "11": {
             "name": "Maiha",
             "official": "Maiha Local Government",
-            "areas": []
+            "areas": [
+                "Belel", "Humbutudi", "Konkol", "Maiha Gari", "Manjekin", "Mayonguli", "Pakka", "Sorau A", "Sorau B", "Tambajam"
+            ]
         },
         "12": {
             "name": "Mayo-Belwa",
             "official": "Mayo-Belwa Local Government",
-            "areas": []
+            "areas": [
+                "Bajama", "Binyeri", "Gangfada", "Gengle", "Gorobi", "Mayo Farang", "Mayo-Belwa", "Nassarawo Jereng", "Ndikong", "Ribadu", "Tola", "Yoffo"
+            ]
         },
         "13": {
             "name": "Michika",
             "official": "Michika Local Government",
-            "areas": []
+            "areas": [
+                "Bazza Margi", "Futudou/Futules", "Garta/Ghunchi", "Jigalambu", "Madzi", "Michika I", "Michika II", "Minkisi/Wuro Ngiki", "Moda/Dlaka/Ghenjuwa", "Munkavicita", "Sina/Kamale/Kwande", "Sukumu/Tillijo", "Thukudou/Sufuku/Zah", "Tumbara/Ngabili", "VI/Boka", "Wamblimi/Tilli"
+            ]
         },
         "14": {
             "name": "Mubi North",
             "official": "Mubi North Local Government",
-            "areas": []
+            "areas": [
+                "Bahuli", "Betso", "Digil", "Kolere", "Lokuwa", "Mayo Bani", "Mijilu", "Muchalla", "Sabon Layi", "Vimtim", "Yelwa"
+            ]
         },
         "15": {
             "name": "Mubi South",
             "official": "Mubi South Local Government",
-            "areas": []
+            "areas": [
+                "Dirbishi/Gandira", "Duvu/Chaba/Girburum", "Gella", "Gude", "Kwaja", "Lamorde", "Mugulbu/Yadafa", "Mujara", "Nassarawo", "Nduku"
+            ]
         },
         "16": {
             "name": "Numan",
             "official": "Numan Local Government",
-            "areas": []
+            "areas": [
+                "Bare", "Bolki", "Gamadio", "Imburu", "Kodomti", "Numan I", "Numan II", "Numan III", "Sabon Pegi", "Vulpi"
+            ]
         },
         "17": {
             "name": "Shelleng",
             "official": "Shelleng Local Government",
-            "areas": []
+            "areas": [
+                "Bakta", "Bodwai", "Gundo", "Gwapopolok", "Jumbul", "Ketembere", "Kiri", "Libbo", "Shelleng", "Tallum"
+            ]
         },
         "18": {
             "name": "Song",
             "official": "Song Local Government",
-            "areas": []
+            "areas": [
+                "Dirma", "Dumne", "Gudu Mboi", "Kilange Funa", "Kilange Hirna", "Sigire", "Song Gari", "Song Waje", "Suktu", "Waltandi", "Zumo"
+            ]
         },
         "19": {
             "name": "Toungo",
             "official": "Toungo Local Government",
-            "areas": []
+            "areas": [
+                "Dawo I", "Dawo II", "Gumti", "Kiri I", "Kiri II", "Kongin Baba I", "Kongin Baba II", "Toungo I", "Toungo II", "Toungo III"
+            ]
         },
         "20": {
             "name": "Yola North",
             "official": "Yola North Local Government",
-            "areas": []
+            "areas": [
+                "Ajiya", "Alkalawa", "Doubeli", "Gwadabawa", "Jambutu", "Karena", "Limawa", "Luggere", "Nassarawo", "Rumde", "Yelwa"
+            ]
         },
         "21": {
             "name": "Yola South",
             "official": "Yola South Local Government",
-            "areas": []
+            "areas": [
+                "Adarawo", "Bako", "Bole Yolde Pate", "Makama A", "Makama B", "Mbamba", "Mbamoi", "Namtari", "Ngurore", "Toungo", "Yolde Kohi"
+            ]
         }
     }
 }
-
