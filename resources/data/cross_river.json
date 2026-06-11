@@ -13,296 +13,219 @@
     },
     "website": "https://www.crossriverstate.gov.ng",
     "logo": "/images/logos/cross-river.png",
+    "flag": "/images/flags/cross-river.png",
     "demonym": "",
-    "nick_name": " The People's Paradise",
+    "nick_name": "The People's Paradise",
     "languages": {
         "english": "English",
-        "efik": " Efik",
+        "efik": "Efik",
         "bekwarra": "Bekwarra",
-        "ejagham": " Ejagham"
+        "ejagham": "Ejagham"
     },
     "lga": {
         "1": {
             "name": "Abi",
             "official": "Abi Local Government",
             "areas": [
-                "Igbo Imabana",
-                "Usumutong",
-                "Adim",
-                "Iyamoyong",
-                "Ebom",
-                "Ekomabasi",
-                "Ediba",
-                "Ofat",
-                "Ekureku",
-                "Abia"
+                "Abeugo", "Adadama", "Afafanyi", "Akpoha",
+                "Anong", "Bazowure", "Ebijakara", "Ebom",
+                "Ediba", "Egbizum", "Eno-Evong", "Epenti",
+                "Igbo Ekureku", "Igbo Imabana", "Igonigoni",
+                "Itigidi", "Leboikom", "Lekpankom", "Mkpanghi",
+                "Ntankpo", "Ofrekpe", "Usumutong", "Yenon"
             ]
         },
         "2": {
             "name": "Akamkpa",
             "official": "Akamkpa Local Government",
             "areas": [
-                "Akamkpa",
-                "Nsan",
-                "Ekuri",
-                "Iko Esai",
-                "Mbarakom",
-                "Old Ekuri",
-                "New Ekuri",
-                "Effraya",
-                "Abo Obisu",
-                "Betem",
-                "Kakwagom"
+                "Abo", "Agoi Ekpo", "Agoi Ibami", "Akamkpa",
+                "Betem", "Ehom", "Ekuri", "Iko Ekpe",
+                "Iko Esai", "Ikpai", "Kakwagom", "Mbarakom",
+                "New Ekuri", "Nsan", "Oban", "Old Ekuri", "Uyanga"
             ]
         },
         "3": {
             "name": "Akpabuyo",
             "official": "Akpabuyo Local Government",
             "areas": [
-                "Akpabuyo",
-                "Ikot Eyo",
-                "Ikot Ansa",
-                "Ikot Efanga",
-                "Ikot Nakanda",
-                "Ikot Omin",
-                "Ikot Effiong",
-                "Ikot Ene",
-                "Nwaniba",
-                "Sandy Beach",
-                "Calabar Rural"
+                "Akpabuyo", "Assamanka", "Calabar Rural",
+                "Eneyo", "Ikot Efanga", "Ikot Effiong",
+                "Ikot Ene", "Ikot Eyo", "Ikot Nakanda",
+                "Ikot Omin", "Nwaniba", "Sandy Beach"
             ]
         },
         "4": {
-            "name": "Bekwarra",
-            "official": "Bekwarra Local Government",
-            "areas": [
-                "Bekwarra",
-                "Ukelle",
-                "Okundi",
-                "Adun",
-                "Utugwang North",
-                "Utugwang South",
-                "Basang",
-                "Beten",
-                "Lobia",
-                "Wanihem"
-            ]
-        },
-        "5": {
             "name": "Bakassi",
             "official": "Bakassi Local Government",
             "areas": [
-                "Abana",
-                "Archibong",
-                "Efut Inwang",
-                "Ikang",
-                "Ine",
-                "Ntan Elelem",
-                "Ntan Mbat"
+                "Abana", "Akpa Nkaga", "Akpankanya", "Akwa",
+                "Ambai Ekpa", "Amoto", "Archibong",
+                "Atai Ema", "Efut Inwang", "Ekpot Abia",
+                "Ikang", "Ine", "Ntan Elelem", "Ntan Mbat", "Odiong"
+            ]
+        },
+        "5": {
+            "name": "Bekwarra",
+            "official": "Bekwarra Local Government",
+            "areas": [
+                "Abuochiche", "Abube Ukpa", "Afrike",
+                "Agage", "Agbagbuna", "Akwurinyi",
+                "Anyikang", "Bekwarra", "Beten",
+                "Ebegang", "Etekpa", "Gakem",
+                "Ijibor", "Idigwe", "Nyanya",
+                "Obuachi", "Okundi", "Otukpuru",
+                "Ugboro", "Ukpa", "Ukpah", "Unwagba", "Utukwe"
             ]
         },
         "6": {
             "name": "Biase",
             "official": "Biase Local Government",
             "areas": [
-                "Biase",
-                "Inyanya",
-                "Akpet Central",
-                "Akpet North",
-                "Ehom",
-                "Okurike",
-                "Abini",
-                "Agwagune",
-                "Umon",
-                "Abayong",
-                "Etono"
+                "Abanwan", "Abayong", "Adim", "Afono",
+                "Agwagune", "Akpet Central", "Akpet North",
+                "Akparavuni", "Edu", "Egbor",
+                "Ehom", "Erei", "Etana",
+                "Ibini", "Inyanya", "Ipene",
+                "Okurike", "Obum", "Ubaghara",
+                "Umon", "Umuolor", "Urugbam"
             ]
         },
         "7": {
             "name": "Boki",
             "official": "Boki Local Government",
             "areas": [
-                "Boki",
-                "Boje",
-                "Bansara",
-                "Bumaji",
-                "Kakua",
-                "Katabang",
-                "Nkum",
-                "Tali",
-                "Wanikade",
-                "Wula",
-                "Yala"
+                "Abawyum", "Abankang", "Abinti",
+                "Akorofono", "Alok", "Baggo",
+                "Bassange", "Begga", "Boje",
+                "Bumaji", "Edor", "Eleneber",
+                "Emangbe", "Etikpe", "Kundere",
+                "Manden", "Mkim", "Nde",
+                "Nketa", "Nkum", "Nlui",
+                "Noutap", "Ogomogoim", "Orimekpan", "Wula"
             ]
         },
         "8": {
             "name": "Calabar Municipal",
             "official": "Calabar Municipal Local Government",
             "areas": [
-                "Calabar",
-                "Atimbo",
-                "Efut Abua",
-                "Efut Inwang",
-                "Ekorinim",
-                "Esuk Mba",
-                "Henshaw Town",
-                "Ikot Ansa",
-                "Ikot Ishie",
-                "Satellite Town",
-                "State Housing Estate",
-                "Wapi"
+                "Atimbo", "Big Qua Town", "Calabar",
+                "Efut Abua", "Efut Inwang", "Ekorinim",
+                "Esuk Mba", "Henshaw Town", "Ikot Ansa",
+                "Ikot Ishie", "Itu Mbang", "Satellite Town",
+                "State Housing Estate", "Wapi"
             ]
         },
         "9": {
             "name": "Calabar South",
             "official": "Calabar South Local Government",
             "areas": [
-                "Akani Obio",
-                "Edim Otop",
-                "Efio Ette",
-                "Efut Akpabuyo",
-                "Esuk Orok",
-                "Ikot Eyo",
-                "Ikot Ishie",
-                "Ikot Efanga",
-                "Mbukpa",
-                "Murtala Mohammed Way",
-                "New Layout",
-                "Nsefik"
+                "Akani Obio", "Anantigha", "Edim Otop",
+                "Efio Ette", "Efut Akpabuyo", "Esuk Orok",
+                "Ikot Eyo", "Mbukpa", "New Layout",
+                "Nsefik", "Yellowman"
             ]
         },
         "10": {
             "name": "Etung",
             "official": "Etung Local Government",
             "areas": [
-                "Etung",
-                "Abia",
-                "Afikpo",
-                "Bendeghe Ekiem",
-                "Bendeghe Ikom",
-                "Effraya",
-                "Etara",
-                "Itigidi",
-                "Mkpot",
-                "Nkarasi",
-                "Nwang"
+                "Abia", "Abijang", "Agbokim",
+                "Ajassor", "Bendeghe Ekiem", "Bendeghe Ikom",
+                "Effraya", "Etomi", "Etung",
+                "Itaka", "Mkpot", "Nsofang"
             ]
         },
         "11": {
             "name": "Ikom",
             "official": "Ikom Local Government",
             "areas": [
-                "Ikom",
-                "Ababene",
-                "Abanyum",
-                "Ajassor",
-                "Basang",
-                "Ekajuk",
-                "Ibor",
-                "Nde",
-                "Ndidem",
-                "Nsofang",
-                "Ofatura",
-                "Ukelle"
+                "Abakpa", "Abanyum", "Akparabong",
+                "Bisiri", "Bojor", "Ekom",
+                "Ibor", "Igueben", "Ijom",
+                "Ikom", "Olulumo", "Okuku",
+                "Udama Ubug", "Ukelle", "Ukwel"
             ]
         },
         "12": {
             "name": "Obanliku",
             "official": "Obanliku Local Government",
             "areas": [
-                "Obanliku",
-                "Becheve",
-                "Bebi",
-                "Bendi",
-                "Bishiri",
-                "Butung",
-                "Koring",
-                "Wula",
-                "Yala North",
-                "Yala South"
+                "Amana", "Basang", "Bebi",
+                "Becheve", "Bendi", "Bishiri",
+                "Bisu", "Busi", "Sankwala", "Utanga"
             ]
         },
         "13": {
             "name": "Obubra",
             "official": "Obubra Local Government",
             "areas": [
-                "Obubra",
-                "Afafanyi",
-                "Agba",
-                "Apiapum",
-                "Edibe Edibe",
-                "Ekori",
-                "Erei",
-                "Ofodua",
-                "Ofat",
-                "Ojor",
-                "Onye"
+                "Ababene", "Apiapum", "Edibe Edibe",
+                "Ekori", "Erei", "Iyalla",
+                "Iyamoyong", "Obubra", "Ochon",
+                "Ofat", "Ofodua", "Ofumbongha",
+                "Ogada", "Ojor", "Osopong", "Ovunom"
             ]
         },
         "14": {
             "name": "Obudu",
             "official": "Obudu Local Government",
             "areas": [
-                "Obudu",
-                "Becheve",
-                "Bumaji",
-                "Irruan",
-                "Kakwagom",
-                "Ogada",
-                "Obudu Ranch",
-                "Ukpe",
-                "Utanga",
-                "Wanihem"
+                "Alege", "Becheve", "Bette",
+                "Irruan", "Obudu", "Okpe",
+                "Ugang", "Unpe", "Utanga", "Utugwang"
             ]
         },
         "15": {
             "name": "Odukpani",
             "official": "Odukpani Local Government",
             "areas": [
-                "Odukpani",
-                "Aningeje",
-                "Creek Town",
-                "Esighi",
-                "Ikot Ene",
-                "Ikot Nakanda",
-                "Mfamosing",
-                "Nwaniba",
-                "Okurikang",
-                "Otu"
+                "Adiabo Efut", "Aningeje", "Akpap Okoyong",
+                "Creek Town", "Eki", "Eniong",
+                "Esighi", "Ho", "Idere",
+                "Ikoneto", "Mbiabo", "Mfamosing",
+                "Obomitiat", "Odot", "Odukpani",
+                "Onim", "Okurikang"
             ]
         },
         "16": {
             "name": "Ogoja",
             "official": "Ogoja Local Government",
             "areas": [
-                "Ogoja",
-                "Abuochiche",
-                "Abuogi",
-                "Anga",
-                "Esho",
-                "Ishie",
-                "Mbube",
-                "Nkum",
-                "Nwang",
-                "Okuku",
-                "Ukpah"
+                "Bansara", "Benkpe", "Edide",
+                "Egbe", "Egbong", "Ekajuk",
+                "Ekumtak", "Esham", "Ewinimba",
+                "Igoli", "Idum", "Ishibori",
+                "Mbube", "Nkim", "Nnang",
+                "Nkum", "Nwang", "Odajie",
+                "Ogoja", "Ojerim", "Ukpah", "Uhmuria"
             ]
         },
         "17": {
+            "name": "Yakurr",
+            "official": "Yakurr Local Government",
+            "areas": [
+                "Abanakpai", "Afrekpe", "Agoi Efreke",
+                "Agoi Ekpo", "Agoi Ibami", "Ajere",
+                "Assiga", "Biko Biko", "Ekori",
+                "Idomi", "Ijiman", "Ijom",
+                "Ikpakapit", "Inyima", "Mkpani",
+                "Nkpolo", "Nko", "Ntan", "Ugep"
+            ]
+        },
+        "18": {
             "name": "Yala",
             "official": "Yala Local Government",
             "areas": [
-                "Yala",
-                "Abuochiche",
-                "Ette",
-                "Gabu",
-                "Igelle",
-                "Ipong",
-                "Nko",
-                "Ogborikang",
-                "Okuku",
-                "Yahe",
-                "Yache"
+                "Ebo", "Echumofana", "Echumoga",
+                "Gabu", "Igede-Edii", "Ijegu",
+                "Ijirage", "Imaje", "Itekpa",
+                "Mfuma", "Mbuor", "Ntrigom",
+                "Okpoma", "Okuku", "Oke",
+                "Oloko", "Osina", "Uchu",
+                "Ugaja", "Wanikade", "Wanikom",
+                "Wanihem", "Wanokom", "Wonye",
+                "Yahe", "Yache", "Yala"
             ]
         }
     }
