@@ -25,191 +25,137 @@
         "1": {
             "name": "Maiduguri",
             "official": "Maiduguri Local Government",
-            "areas": [
-                "Maiduguri", "Bolori I", "Bolori II", "Bulumkutu", "Fezzan", "Gamboru", "Gwange", "Hausari", "Kasuwar Kifi", "London Ciki", "Mafoni", "Maisandari", "Mairi", "Monday Market", "Old Maiduguri", "Shehuri North", "Shehuri South", "Waziri Ibrahim", "Yerwa"
-            ]
+            "areas": ["Maiduguri", "Bolori I", "Bolori II", "Bulumkutu", "Fezzan", "Gamboru", "Gwange", "Hausari", "Kasuwar Kifi", "London Ciki", "Mafoni", "Maisandari", "Mairi", "Monday Market", "Old Maiduguri", "Shehuri North", "Shehuri South", "Waziri Ibrahim", "Yerwa"]
         },
         "2": {
             "name": "Ngala",
             "official": "Ngala Local Government",
-            "areas": [
-                "Ngala", "Adari", "Amsabura", "Balammbe", "Balila", "Bombe", "Dagala", "Daima", "Fim", "Gamboru", "Gangaya Saokara", "Gilego", "Gilgil", "Jarawa", "Jarawa Tatakura", "Jegerawaji", "Kabel", "Kala", "Kalakura", "Kalam", "Karche", "Kumega", "Kurana", "Logamani", "Manawaji", "Meleri", "Ndusu", "Nissini", "Ran", "Sabba", "Samboru", "Sangaya", "Sigal", "Tilam", "Tumishe", "Tunukalia Shelim", "Wulgo Momodu", "Wulgo-Nagirari", "Wurge", "Wushelia"
-            ]
+            "areas": ["Ngala", "Adari", "Amsabura", "Balammbe", "Balila", "Bombe", "Dagala", "Daima", "Fim", "Gamboru", "Gangaya Saokara", "Gilego", "Gilgil", "Jarawa", "Jarawa Tatakura", "Jegerawaji", "Kabel", "Kala", "Kalakura", "Kalam", "Karche", "Kumega", "Kurana", "Logamani", "Manawaji", "Meleri", "Ndusu", "Nissini", "Ran", "Sabba", "Samboru", "Sangaya", "Sigal", "Tilam", "Tumishe", "Tunukalia Shelim", "Wulgo Momodu", "Wulgo-Nagirari", "Wurge", "Wushelia"]
         },
         "3": {
             "name": "Kala/Balge",
             "official": "Kala/Balge Local Government",
-            "areas": [
-                "Rann", "Balile", "Bombo", "Diama", "Dogilai", "Duguma", "Dusum", "Gilgil", "Gilgo", "Gulgum", "Jarawa", "Kabel", "Kala", "Kalam", "Kulakula", "Kulakura", "Kulkaraka", "Kutilar", "Mada", "Masana", "Meleri", "Mokholo", "Sabba", "Sigal", "Tilam"
-            ]
+            "areas": ["Rann", "Balile", "Bombo", "Diama", "Dogilai", "Duguma", "Dusum", "Gilgil", "Gilgo", "Gulgum", "Jarawa", "Kabel", "Kala", "Kalam", "Kulakula", "Kulakura", "Kulkaraka", "Kutilar", "Mada", "Masana", "Meleri", "Mokholo", "Sabba", "Sigal", "Tilam"]
         },
         "4": {
             "name": "Mafa",
             "official": "Mafa Local Government",
-            "areas": [
-                "Mafa", "Anadua", "Gawa", "Kajari", "Koshebe", "Limanti", "Loslari", "Ma'afa", "Mafa Abbari", "Mafa-Nguranna", "Masa", "Mbuta", "Mijigine", "Siguabuya", "Tamsugu Ngandua", "Umarari", "Zannari"
-            ]
+            "areas": ["Mafa", "Anadua", "Gawa", "Kajari", "Koshebe", "Limanti", "Loslari", "Ma'afa", "Mafa Abbari", "Mafa-Nguranna", "Masa", "Mbuta", "Mijigine", "Siguabuya", "Tamsugu Ngandua", "Umarari", "Zannari"]
         },
         "5": {
             "name": "Konduga",
             "official": "Konduga Local Government",
-            "areas": [
-                "Konduga", "Ajiri", "Auno", "Bazamri", "Bulabulin Ngaburawa", "Dalori", "Dalwa East", "Dalwa West", "Ghabbol", "Jakana", "Jweu", "Kaigamari", "Kawuiri", "Kellumiri", "Lambia", "Mairamri", "Malari", "Masba Abbari", "Ngalimari", "Nguro Nguro", "Njimtilo", "Nyaleri", "Sandia", "Sojbri", "Wanori", "Yabal", "Yajiwa", "Yale Garu", "Yaleri"
-            ]
+            "areas": ["Konduga", "Ajiri", "Auno", "Bazamri", "Bulabulin Ngaburawa", "Dalori", "Dalwa East", "Dalwa West", "Ghabbol", "Jakana", "Jweu", "Kaigamari", "Kawuiri", "Kellumiri", "Lambia", "Mairamri", "Malari", "Masba Abbari", "Ngalimari", "Nguro Nguro", "Njimtilo", "Nyaleri", "Sandia", "Sojbri", "Wanori", "Yabal", "Yajiwa", "Yale Garu", "Yaleri"]
         },
         "6": {
             "name": "Bama",
             "official": "Bama Local Government",
-            "areas": [
-                "Bama", "Abbaram", "Alhajiri", "Amchaka", "Bagumari", "Bakara", "Banki", "Barki", "Batra", "Borwashe", "Buduwa", "Bula Umar", "Bulongu", "Bulamanga", "Burguma", "Chachile", "Dar-el Jamal", "Darai", "Dara", "Dipchari", "Dusuwa", "Ghongolo", "Goniri", "Guluma", "Gulumba", "Gulumba-Gana", "Hausari", "Iza", "Jaburi", "Jakkure", "Jandiri", "Jeree", "Jinner", "Jumeili", "Kajeri", "Kash-kash", "Kashimiri", "Kasugula", "Kote", "Kotenbe", "Kumshe", "Kutila", "Mala Ajiri", "Malam-Koriri", "Malge", "Malum Mustari", "Marka", "Mairi", "Maksomari", "Mbuliya", "Ndire", "Ndobe", "Ndoria", "Nguro Soye", "Ngurosoye", "Ngureri", "Said", "Shehuri", "Sir Ajaa", "Tandari", "Tarmuwa Kura", "Walasa", "Yabiri Gana", "Yabiri Kura", "Yarwa", "Yawe", "Zangeri"
-            ]
+            "areas": ["Bama", "Abbaram", "Alhajiri", "Amchaka", "Bagumari", "Bakara", "Banki", "Barki", "Batra", "Borwashe", "Buduwa", "Bula Umar", "Bulongu", "Bulamanga", "Burguma", "Chachile", "Dar-el Jamal", "Darai", "Dara", "Dipchari", "Dusuwa", "Ghongolo", "Goniri", "Guluma", "Gulumba", "Gulumba-Gana", "Hausari", "Iza", "Jaburi", "Jakkure", "Jandiri", "Jeree", "Jinner", "Jumeili", "Kajeri", "Kash-kash", "Kashimiri", "Kasugula", "Kote", "Kotenbe", "Kumshe", "Kutila", "Mala Ajiri", "Malam-Koriri", "Malge", "Malum Mustari", "Marka", "Mairi", "Maksomari", "Mbuliya", "Ndire", "Ndobe", "Ndoria", "Nguro Soye", "Ngurosoye", "Ngureri", "Said", "Shehuri", "Sir Ajaa", "Tandari", "Tarmuwa Kura", "Walasa", "Yabiri Gana", "Yabiri Kura", "Yarwa", "Yawe", "Zangeri"]
         },
         "7": {
             "name": "Jere",
             "official": "Jere Local Government",
-            "areas": [
-                "Addamari", "Alau", "Bale-Galtimari", "Dala-Lawanti", "Dusuman", "Gamboru", "Gongulong", "Jere", "Koshebe", "Lawanti", "Maimusari", "Mashamari", "Masu", "Ngudda", "Tuba"
-            ]
+            "areas": ["Addamari", "Alau", "Bale-Galtimari", "Dala-Lawanti", "Dusuman", "Gamboru", "Gongulong", "Jere", "Koshebe", "Lawanti", "Maimusari", "Mashamari", "Masu", "Ngudda", "Tuba"]
         },
         "8": {
             "name": "Dikwa",
             "official": "Dikwa Local Government",
-            "areas": [
-                "Dikwa", "Afuye", "Antiau", "Aubre", "Azgajita", "Bajangawa", "Boboshe", "Dudure", "Durbel", "Durba", "Gajibo", "Jemuri", "Kaza", "Kuduge", "Kulehe", "Magarta", "Mallam Mafa", "Malumaja", "Maula", "Mudu", "Mujigete", "Mukeye", "Muktala", "Mulye", "Sawa", "Sunabaya"
-            ]
+            "areas": ["Dikwa", "Afuye", "Antiau", "Aubre", "Azgajita", "Bajangawa", "Boboshe", "Dudure", "Durbel", "Durba", "Gajibo", "Jemuri", "Kaza", "Kuduge", "Kulehe", "Magarta", "Mallam Mafa", "Malumaja", "Maula", "Mudu", "Mujigete", "Mukeye", "Muktala", "Mulye", "Sawa", "Sunabaya"]
         },
         "9": {
             "name": "Askira/Uba",
             "official": "Askira/Uba Local Government",
-            "areas": [
-                "Uba", "Askira", "Bagiau", "Chul", "Dille", "Dum Bam", "Gegombi", "Giwa Kir Koma", "Gwahi", "Huyum", "Jimbulumu", "Kauthlama", "Kuhi", "Lassa", "Malka Dini", "Mughal", "Ngulde", "Njoma", "Thulbwa", "Uwotaku", "Uvu", "Yimirali", "Yimurgo"
-            ]
+            "areas": ["Uba", "Askira", "Bagiau", "Chul", "Dille", "Dum Bam", "Gegombi", "Giwa Kir Koma", "Gwahi", "Huyum", "Jimbulumu", "Kauthlama", "Kuhi", "Lassa", "Malka Dini", "Mughal", "Ngulde", "Njoma", "Thulbwa", "Uwotaku", "Uvu", "Yimirali", "Yimurgo"]
         },
         "10": {
             "name": "Bayo",
             "official": "Bayo Local Government",
-            "areas": [
-                "Bayo", "Balbaya", "Bera Fulani", "Bulama Kabi", "Chamgum", "Dagon Zaga", "Dawal", "Fikayah", "Gadaba", "Gaidam", "Gama Dadi", "Garun Gado", "Gedaba", "Gubeli", "Guburunde", "Gumjara", "Hara-Guwal", "Jara Bah", "Jara Guwal", "Jauro Garga", "Kabara", "Kanawa", "Karko", "Kukal", "Laro", "Limanti", "Maduya", "Maina Baba", "Nyawi", "Sakdiya", "Tale", "Tashan Itashe", "Tashan Tsamiya", "Tenteni", "Tundun Wada", "Wuyo", "Yababa", "Yarda", "Zange", "Zara"
-            ]
+            "areas": ["Bayo", "Balbaya", "Bera Fulani", "Bulama Kabi", "Chamgum", "Dagon Zaga", "Dawal", "Fikayah", "Gadaba", "Gaidam", "Gama Dadi", "Garun Gado", "Gedaba", "Gubeli", "Guburunde", "Gumjara", "Hara-Guwal", "Jara Bah", "Jara Guwal", "Jauro Garga", "Kabara", "Kanawa", "Karko", "Kukal", "Laro", "Limanti", "Maduya", "Maina Baba", "Nyawi", "Sakdiya", "Tale", "Tashan Itashe", "Tashan Tsamiya", "Tenteni", "Tundun Wada", "Wuyo", "Yababa", "Yarda", "Zange", "Zara"]
         },
         "11": {
             "name": "Biu",
             "official": "Biu Local Government",
-            "areas": [
-                "Biu", "Alagarno", "Bam", "Berum", "Birma Jugwal", "Bowa", "Brikuthi", "Buratai", "Burashika", "Chara", "Chukwarzir", "Dam", "Diwar", "Dugja", "Duzuma", "Filin Jirgi", "Galabinda", "Galdimari", "Garubula", "Garwashina", "Gashua", "Ghuma", "Guma", "Gunda", "Gur", "Gur Lawan", "Gwaram", "Helma Jibir", "Jalingo", "Kabura", "Kamuya", "Kenken", "Kimba", "Kurnari", "Mainahari", "Mandara Abdu I", "Mandara Abdu II", "Mandaragrau", "Mangada", "Mbula Kivi", "Mbulamel", "Miringa", "Njibi", "Ngrum", "Palma", "Panana", "Piku", "Pompamari", "Sulumithla", "Tashan Danfulani", "Vinkuthla", "Waka", "Warawara", "Yawi", "Zara Diza", "Zara Kwara", "Zara Minnga", "Zara Wuyaku", "Zira"
-            ]
+            "areas": ["Biu", "Alagarno", "Bam", "Berum", "Birma Jugwal", "Bowa", "Brikuthi", "Buratai", "Burashika", "Chara", "Chukwarzir", "Dam", "Diwar", "Dugja", "Duzuma", "Filin Jirgi", "Galabinda", "Galdimari", "Garubula", "Garwashina", "Gashua", "Ghuma", "Guma", "Gunda", "Gur", "Gur Lawan", "Gwaram", "Helma Jibir", "Jalingo", "Kabura", "Kamuya", "Kenken", "Kimba", "Kurnari", "Mainahari", "Mandara Abdu I", "Mandara Abdu II", "Mandaragrau", "Mangada", "Mbula Kivi", "Mbulamel", "Miringa", "Njibi", "Ngrum", "Palma", "Panana", "Piku", "Pompamari", "Sulumithla", "Tashan Danfulani", "Vinkuthla", "Waka", "Warawara", "Yawi", "Zara Diza", "Zara Kwara", "Zara Minnga", "Zara Wuyaku", "Zira"]
         },
         "12": {
             "name": "Chibok",
             "official": "Chibok Local Government",
-            "areas": [
-                "Chibok", "Bwalagyang", "Forfor", "Garu", "Gatamwarwa", "Kautikare", "Kautikari", "Korogillum", "Korogillum A", "Kuburmbula", "Mbalala A", "Mbalala B", "Mboa-Kura", "Piyemi", "Shikarkir A", "Shikarikir B", "Whuntaku"
-            ]
+            "areas": ["Chibok", "Bwalagyang", "Forfor", "Garu", "Gatamwarwa", "Kautikare", "Kautikari", "Korogillum", "Korogillum A", "Kuburmbula", "Mbalala A", "Mbalala B", "Mboa-Kura", "Piyemi", "Shikarkir A", "Shikarikir B", "Whuntaku"]
         },
         "13": {
             "name": "Damboa",
             "official": "Damboa Local Government",
-            "areas": [
-                "Damboa", "Abulam", "Adika", "Ajigi Bulabulin", "Ajigin Mairi", "Auma", "Azur", "Ba'ale", "Bego", "Burum", "Burun Kauji", "Chiralia", "Dusula", "Forfor", "Garjang", "Gazama Bori", "Gazama Kura", "Golgi", "Gorgore", "Gorgube", "Gumsuri", "Gwange", "Izzge", "Jamyeri", "Kachallaburari", "Kafa", "Kalla", "Kauji", "Kaushirowa", "Kawaram", "Kaya", "Kinzagiraji", "Kobchi", "Koljiri", "Korede", "Kuboa", "Kuburivu", "Mafi", "Maisaimar", "Malaharam", "Malemiri", "Malumti", "Mangubum", "Misa-Kurbudu", "Molgoi", "Mugula", "Multe", "Ndoksa", "Ngwalimiri", "Njaba", "Nzuda", "Sabon Gari", "Shettima-Abogu", "Shiwari-Kura", "Talala-Buba-Ali", "Talala-Buba-Modu", "Wajirako", "Wawa", "Wovi", "Wuyaram", "Yazza", "Yerwa"
-            ]
+            "areas": ["Damboa", "Abulam", "Adika", "Ajigi Bulabulin", "Ajigin Mairi", "Auma", "Azur", "Ba'ale", "Bego", "Burum", "Burun Kauji", "Chiralia", "Dusula", "Forfor", "Garjang", "Gazama Bori", "Gazama Kura", "Golgi", "Gorgore", "Gorgube", "Gumsuri", "Gwange", "Izzge", "Jamyeri", "Kachallaburari", "Kafa", "Kalla", "Kauji", "Kaushirowa", "Kawaram", "Kaya", "Kinzagiraji", "Kobchi", "Koljiri", "Korede", "Kuboa", "Kuburivu", "Mafi", "Maisaimar", "Malaharam", "Malemiri", "Malumti", "Mangubum", "Misa-Kurbudu", "Molgoi", "Mugula", "Multe", "Ndoksa", "Ngwalimiri", "Njaba", "Nzuda", "Sabon Gari", "Shettima-Abogu", "Shiwari-Kura", "Talala-Buba-Ali", "Talala-Buba-Modu", "Wajirako", "Wawa", "Wovi", "Wuyaram", "Yazza", "Yerwa"]
         },
         "14": {
             "name": "Gwoza",
             "official": "Gwoza Local Government",
-            "areas": [
-                "Gwoza", "Agapalwa", "Alau", "Amdaga", "Ashigashia", "Balangele", "Balazala", "Barawa", "Bitta", "Bokko", "Bulabulin", "Cinene", "Duma", "Falagwe", "Gadful Bubayawa", "Guduf", "Gyomuyi", "Hambagda", "Isge", "Jaye", "Kina", "Kirawa", "Kuranabansa", "Kwatara", "Limankara", "Lokodisa", "Luva", "Matakam", "Ngabura", "Sastawa", "Timir", "Tokombana", "Valangai", "Yinagu"
-            ]
+            "areas": ["Gwoza", "Agapalwa", "Alau", "Amdaga", "Ashigashia", "Balangele", "Balazala", "Barawa", "Bitta", "Bokko", "Bulabulin", "Cinene", "Duma", "Falagwe", "Gadful Bubayawa", "Guduf", "Gyomuyi", "Hambagda", "Isge", "Jaye", "Kina", "Kirawa", "Kuranabansa", "Kwatara", "Limankara", "Lokodisa", "Luva", "Matakam", "Ngabura", "Sastawa", "Timir", "Tokombana", "Valangai", "Yinagu"]
         },
         "15": {
             "name": "Hawul",
             "official": "Hawul Local Government",
-            "areas": [
-                "Kwajaffa", "Agga Bura", "Agula Tulari", "Azare", "Azare Piti", "Azare Tasha", "Bamjikil", "Bantali", "Barki Sakwa", "Batabwa", "Bayu", "Bilatum", "Billa", "Bokokatau", "Bubalkwi", "Bukin", "Buta Kayamda", "Bwala", "Bwala Katsina", "Chacdamari", "Chata", "Dagizari", "Dagora", "Dangola", "Dibarmi", "Dikir", "Dikira", "Dira", "Diralang", "Dlashu", "Domchaba", "Dulmi", "Durkwa", "Dusu", "Duthlalang", "Dzaku", "Funwa", "Gala", "Galdimare", "Garkwi", "Gauza", "Ghuma", "Ghung", "Giraba", "Girassa", "Gwadzahar", "Gwallam", "Gwamagira", "Gwanga", "Gwaski", "Gyeraha", "Harang", "Hema", "Huba", "Humsu", "Hurra", "Hyera Central", "Hyeraki", "Hyerea South", "Hyentira", "Hzalama", "Jara", "Jibhuhuwi", "Kida", "Kidang", "Kingging", "Kirkidang", "Kirmi", "Kuba", "Kumba", "Kunar", "Kurkurupu", "Kwagu", "Kwagu Shar", "Kwaya Bura", "Labu", "Marama", "Mbirti", "Mbulatawiwi", "Mbuma", "Mbokva", "Minta", "Mularam", "Ndiragana", "Ndirim", "Ndirsha", "Nduraku", "Ngassam", "Ngwa", "Pakilama", "Pama", "Pela Chiroma", "Pela Ola", "Pela Thlabu", "Pelakitsa", "Pirtha", "Pirkisu", "Pirkutum", "Pizumbin", "Puba", "Pusda", "Saboda Allah", "Sabon Gari", "Sakwa", "Sakwa-Bura", "Samari", "Shaffa", "Shaffa Wuyaku", "Shiduffu", "Shikthaku", "Subwang", "Sura", "Tabomsha", "Tarfa", "Tawakari", "Tawasu", "Thlakwa", "Timpil", "Tong", "Traku", "Tsahuyam", "Turkuta", "Uba", "Wabar", "Wabara", "Wakdang", "Walama", "Warni", "Wida", "Wuyaku", "Yalmatata", "Yaulan", "Yelwa", "Yimana", "Yimirshika", "Zabu", "Zali", "Zange", "Zham"
-            ]
+            "areas": ["Kwajaffa", "Agga Bura", "Agula Tulari", "Azare", "Azare Piti", "Azare Tasha", "Bamjikil", "Bantali", "Barki Sakwa", "Batabwa", "Bayu", "Bilatum", "Billa", "Bokokatau", "Bubalkwi", "Bukin", "Buta Kayamda", "Bwala", "Bwala Katsina", "Chacdamari", "Chata", "Dagizari", "Dagora", "Dangola", "Dibarmi", "Dikir", "Dikira", "Dira", "Diralang", "Dlashu", "Domchaba", "Dulmi", "Durkwa", "Dusu", "Duthlalang", "Dzaku", "Funwa", "Gala", "Galdimare", "Garkwi", "Gauza", "Ghuma", "Ghung", "Giraba", "Girassa", "Gwadzahar", "Gwallam", "Gwamagira", "Gwanga", "Gwaski", "Gyeraha", "Harang", "Hema", "Huba", "Humsu", "Hurra", "Hyera Central", "Hyeraki", "Hyerea South", "Hyentira", "Hzalama", "Jara", "Jibhuhuwi", "Kida", "Kidang", "Kingging", "Kirkidang", "Kirmi", "Kuba", "Kumba", "Kunar", "Kurkurupu", "Kwagu", "Kwagu Shar", "Kwaya Bura", "Labu", "Marama", "Mbirti", "Mbulatawiwi", "Mbuma", "Mbokva", "Minta", "Mularam", "Ndiragana", "Ndirim", "Ndirsha", "Nduraku", "Ngassam", "Ngwa", "Pakilama", "Pama", "Pela Chiroma", "Pela Ola", "Pela Thlabu", "Pelakitsa", "Pirtha", "Pirkisu", "Pirkutum", "Pizumbin", "Puba", "Pusda", "Saboda Allah", "Sabon Gari", "Sakwa", "Sakwa-Bura", "Samari", "Shaffa", "Shaffa Wuyaku", "Shiduffu", "Shikthaku", "Subwang", "Sura", "Tabomsha", "Tarfa", "Tawakari", "Tawasu", "Thlakwa", "Timpil", "Tong", "Traku", "Tsahuyam", "Turkuta", "Uba", "Wabar", "Wabara", "Wakdang", "Walama", "Warni", "Wida", "Wuyaku", "Yalmatata", "Yaulan", "Yelwa", "Yimana", "Yimirshika", "Zabu", "Zali", "Zange", "Zham"]
         },
         "16": {
             "name": "Kwaya Kusar",
             "official": "Kwaya Kusar Local Government",
-            "areas": [
-                "Kwaya Kusar", "Algarno", "Balba", "Bargu", "Bila", "Bilazi", "Bima", "Charangi", "Chikwi", "Dayar", "Dema", "Dlashu", "Duchi", "Dunkur", "Durum", "Fesingo", "Gadam", "Gaidam", "Gamsama", "Gashina", "Giba", "Guba", "Gubai", "Guburde", "Gudula", "Gujba", "Gusi", "Guwal", "Gwandi", "Hema", "Hutayankwar", "Jagali", "Jaki", "Jalingo", "Juga", "Jugual", "Kenzuwa", "Keri", "Kopala", "Kubuku", "Kullankasan", "Kurba Gayi", "Kuthi Dika", "Kwagu", "Kwardun", "Kwathaung", "Lafiya", "Lesga", "Magaba", "Maiba", "Mbula", "Midla", "Minta", "Moku", "Paka", "Pankilang", "Pela Tsuigi", "Peta", "Pika", "Pukuma Miyim", "Salahu", "Saura", "Tawasu", "Wada", "Wandali", "Wara", "Wawa", "Yangwam", "Yimbu", "Yimirdlalang", "Zobi"
-            ]
+            "areas": ["Kwaya Kusar", "Algarno", "Balba", "Bargu", "Bila", "Bilazi", "Bima", "Charangi", "Chikwi", "Dayar", "Dema", "Dlashu", "Duchi", "Dunkur", "Durum", "Fesingo", "Gadam", "Gaidam", "Gamsama", "Gashina", "Giba", "Guba", "Gubai", "Guburde", "Gudula", "Gujba", "Gusi", "Guwal", "Gwandi", "Hema", "Hutayankwar", "Jagali", "Jaki", "Jalingo", "Juga", "Jugual", "Kenzuwa", "Keri", "Kopala", "Kubuku", "Kullankasan", "Kurba Gayi", "Kuthi Dika", "Kwagu", "Kwardun", "Kwathaung", "Lafiya", "Lesga", "Magaba", "Maiba", "Mbula", "Midla", "Minta", "Moku", "Paka", "Pankilang", "Pela Tsuigi", "Peta", "Pika", "Pukuma Miyim", "Salahu", "Saura", "Tawasu", "Wada", "Wandali", "Wara", "Wawa", "Yangwam", "Yimbu", "Yimirdlalang", "Zobi"]
         },
         "17": {
             "name": "Shani",
             "official": "Shani Local Government",
-            "areas": [
-                "Shani", "Bakaima", "Bargu", "Burgulok", "Burashika", "Dalhat", "Dumbuku", "Gasi", "Ghari", "Gora", "Guldugurung", "Gwaskara", "Gwalasho", "Jalingo", "Kabara", "Kashime", "Kimtin", "Kombo", "Kubo", "Kubodemo", "Kurje", "Kurnglung", "Lakundum", "Lajada", "Pela", "Walama", "Yabe"
-            ]
+            "areas": ["Shani", "Bakaima", "Bargu", "Burgulok", "Burashika", "Dalhat", "Dumbuku", "Gasi", "Ghari", "Gora", "Guldugurung", "Gwaskara", "Gwalasho", "Jalingo", "Kabara", "Kashime", "Kimtin", "Kombo", "Kubo", "Kubodemo", "Kurje", "Kurnglung", "Lakundum", "Lajada", "Pela", "Walama", "Yabe"]
         },
         "18": {
             "name": "Abadam",
             "official": "Abadam Local Government",
-            "areas": [
-                "Mallamfatori", "Abadam", "Arege", "Banuwa", "Bisku", "Bisogana", "Dareche", "Fuguwa", "Jabulani", "Karinowa", "Kudokurgu", "Lariski", "Metele", "Yau", "Yawa-Kura", "Yituwa"
-            ]
+            "areas": ["Mallamfatori", "Abadam", "Arege", "Banuwa", "Bisku", "Bisogana", "Dareche", "Fuguwa", "Jabulani", "Karinowa", "Kudokurgu", "Lariski", "Metele", "Yau", "Yawa-Kura", "Yituwa"]
         },
         "19": {
             "name": "Gubio",
             "official": "Gubio Local Government",
-            "areas": [
-                "Gubio", "Doili", "Fulatami", "Gazabure", "Jilili", "Kanguri", "Karaguwa", "Karauwa", "Kareto Kanguri", "Moleram", "Musari"
-            ]
+            "areas": ["Gubio", "Doili", "Fulatami", "Gazabure", "Jilili", "Kanguri", "Karaguwa", "Karauwa", "Kareto Kanguri", "Moleram", "Musari"]
         },
         "20": {
             "name": "Guzamala",
             "official": "Guzamala Local Government",
-            "areas": [
-                "Guzamala", "Adua", "Gudumbali", "Guworam", "Kangarwa", "Mairari", "Moduri", "Wamiri"
-            ]
+            "areas": ["Guzamala", "Adua", "Gudumbali", "Guworam", "Kangarwa", "Mairari", "Moduri", "Wamiri"]
         },
         "21": {
             "name": "Kaga",
             "official": "Kaga Local Government",
-            "areas": [
-                "Benisheik", "Afe", "Amindole", "Barwa", "Bokwori", "Bulamuri", "Buma'a", "Bunguji", "Burgumma", "Dapchi", "Didiri", "Digimari", "Dogoma", "Dongo", "Dongozo", "Gabchani", "Galangi", "Gangawa", "Ganidia", "Girgimor", "Gubturo", "Guno", "Jallori", "Karagawan", "Koyomi", "Koyori", "Kuruno-Kayar", "Lawani", "Mainok", "Maintagujeri", "Maintakurururi", "Malam Mustani", "Marguba", "Mida Koyemi", "Modu Koyamri", "Mordori", "Mulum-Kumuriri", "Ngamdu", "Tamsu", "Tobolo", "Umarari", "Warsala", "Wasaram", "Wasaram Lawan", "Wugiru", "Wujure", "Yelemari", "Yewal"
-            ]
+            "areas": ["Benisheik", "Afe", "Amindole", "Barwa", "Bokwori", "Bulamuri", "Buma'a", "Bunguji", "Burgumma", "Dapchi", "Didiri", "Digimari", "Dogoma", "Dongo", "Dongozo", "Gabchani", "Galangi", "Gangawa", "Ganidia", "Girgimor", "Gubturo", "Guno", "Jallori", "Karagawan", "Koyomi", "Koyori", "Kuruno-Kayar", "Lawani", "Mainok", "Maintagujeri", "Maintakurururi", "Malam Mustani", "Marguba", "Mida Koyemi", "Modu Koyamri", "Mordori", "Mulum-Kumuriri", "Ngamdu", "Tamsu", "Tobolo", "Umarari", "Warsala", "Wasaram", "Wasaram Lawan", "Wugiru", "Wujure", "Yelemari", "Yewal"]
         },
         "22": {
             "name": "Kukawa",
             "official": "Kukawa Local Government",
-            "areas": [
-                "Kukawa", "Adua", "Ajiri", "Alagama", "Barwati", "Bongoa", "Borgoa", "Bundur", "Da'awao", "Dabu", "Degagu", "Dogoshi", "Garanda", "Gudunbali", "Kangarwa", "Kauwa", "Kekeho", "Moduwari", "Ngurtuwa", "Toyo", "Yoyo"
-            ]
+            "areas": ["Kukawa", "Adua", "Ajiri", "Alagama", "Barwati", "Bongoa", "Borgoa", "Bundur", "Da'awao", "Dabu", "Degagu", "Dogoshi", "Garanda", "Gudunbali", "Kangarwa", "Kauwa", "Kekeho", "Moduwari", "Ngurtuwa", "Toyo", "Yoyo"]
         },
         "23": {
             "name": "Magumeri",
             "official": "Magumeri Local Government",
-            "areas": [
-                "Magumeri", "Abagoderi", "Ambolu", "Ardoram", "Borno Yesu", "Dandalmai", "Dusugua", "Furram", "Gabchari", "Gabtaru", "Gajiganna", "Ganan", "Ganijia", "Garmiri", "Geske", "Gultaru", "Jakkana", "Ka'ajia", "Kalizoram", "Kupti", "Layratti", "Magumeri A", "Magumeri B", "Mallum-Busariri", "Malum Mustari", "Monoram-Gonimiri", "Ngamma", "Ngubola", "Ngura", "Risugua", "Umarari", "Yasku", "Zumtur"
-            ]
+            "areas": ["Magumeri", "Abagoderi", "Ambolu", "Ardoram", "Borno Yesu", "Dandalmai", "Dusugua", "Furram", "Gabchari", "Gabtaru", "Gajiganna", "Ganan", "Ganijia", "Garmiri", "Geske", "Gultaru", "Jakkana", "Ka'ajia", "Kalizoram", "Kupti", "Layratti", "Magumeri A", "Magumeri B", "Mallum-Busariri", "Malum Mustari", "Monoram-Gonimiri", "Ngamma", "Ngubola", "Ngura", "Risugua", "Umarari", "Yasku", "Zumtur"]
         },
         "24": {
             "name": "Marte",
             "official": "Marte Local Government",
-            "areas": [
-                "Marte", "Ajiri", "Ala", "Alla", "Bodairi", "Burahutube", "Fage", "Garadia", "Gumma", "Kabula", "Kaje", "Kajekura", "Kirenowa", "Kulli", "Majadukuri", "Masaba", "Mawulli", "Mugum", "Musune", "Ngalori", "Njine", "Saba", "Saula", "Wubsa", "Yedi", "Zaga"
-            ]
+            "areas": ["Marte", "Ajiri", "Ala", "Alla", "Bodairi", "Burahutube", "Fage", "Garadia", "Gumma", "Kabula", "Kaje", "Kajekura", "Kirenowa", "Kulli", "Majadukuri", "Masaba", "Mawulli", "Mugum", "Musune", "Ngalori", "Njine", "Saba", "Saula", "Wubsa", "Yedi", "Zaga"]
         },
         "25": {
             "name": "Mobbar",
             "official": "Mobbar Local Government",
-            "areas": [
-                "Damasak", "Abadam", "Ajiri", "Arege", "Asagar", "Asar", "Bamuwa", "Barmuwa", "Bisigu", "Bisku", "Bisogana", "Bisua", "Buram", "Camba", "Dailo", "Dankalia", "Dansalia", "Daregelewa", "Dawram", "Derechewa", "Duji", "Duri", "Faguwa", "Galai", "Garege", "Garuwa", "Gashagor", "Gashigar", "Gashiwar", "Gir", "Gonigiro", "Goniri", "Gugawa", "Gumaram", "Jabulam", "Kabela", "Kabewa", "Kaleri", "Kalinowa", "Kareto", "Karibia", "Karimbori", "Karinboa", "Karinbowa", "Kaririwa", "Kashiniguri", "Kauwa", "Kaya", "Korikutila", "Kwari-Nonori", "Ladari", "Lamlam", "Lariski", "Lavaski", "Layi", "Limbur", "Malam Fatori", "Malamsuri", "Mallam Kwanori", "Mamti", "Masakai", "Masaki", "Meleri", "Metele", "Mobbar", "Monor", "Nagajia", "Ngaji", "Ngam", "Ngamakayale", "Nwainowa", "Tingiri", "Tororam", "Uran", "Yarumiri", "Yau", "Yauma Wango", "Zari"
-            ]
+            "areas": ["Damasak", "Abadam", "Ajiri", "Arege", "Asagar", "Asar", "Bamuwa", "Barmuwa", "Bisigu", "Bisku", "Bisogana", "Bisua", "Buram", "Camba", "Dailo", "Dankalia", "Dansalia", "Daregelewa", "Dawram", "Derechewa", "Duji", "Duri", "Faguwa", "Galai", "Garege", "Garuwa", "Gashagor", "Gashigar", "Gashiwar", "Gir", "Gonigiro", "Goniri", "Gugawa", "Gumaram", "Jabulam", "Kabela", "Kabewa", "Kaleri", "Kalinowa", "Kareto", "Karibia", "Karimbori", "Karinboa", "Karinbowa", "Kaririwa", "Kashiniguri", "Kauwa", "Kaya", "Korikutila", "Kwari-Nonori", "Ladari", "Lamlam", "Lariski", "Lavaski", "Layi", "Limbur", "Malam Fatori", "Malamsuri", "Mallam Kwanori", "Mamti", "Masakai", "Masaki", "Meleri", "Metele", "Mobbar", "Monor", "Nagajia", "Ngaji", "Ngam", "Ngamakayale", "Nwainowa", "Tingiri", "Tororam", "Uran", "Yarumiri", "Yau", "Yauma Wango", "Zari"]
         },
         "26": {
             "name": "Monguno",
             "official": "Monguno Local Government",
-            "areas": [
-                "Monguno", "Aburaku", "Aliyu", "Asadu", "Bida", "Damakuli", "Das'a", "Dasama", "Dedela", "Difinowa", "Kabal-Balum", "Kabulawa", "Kaganam", "Kalwa", "Kaworil", "Kumalia", "Mandala", "Mashilia", "Miutar", "Mongal", "Musari", "Ngalram", "Ngarannam", "Ngollam", "Wulo", "Zulim", "Zulum"
-            ]
+            "areas": ["Monguno", "Aburaku", "Aliyu", "Asadu", "Bida", "Damakuli", "Das'a", "Dasama", "Dedela", "Difinowa", "Kabal-Balum", "Kabulawa", "Kaganam", "Kalwa", "Kaworil", "Kumalia", "Mandala", "Mashilia", "Miutar", "Mongal", "Musari", "Ngalram", "Ngarannam", "Ngollam", "Wulo", "Zulim", "Zulum"]
         },
         "27": {
             "name": "Nganzai",
             "official": "Nganzai Local Government",
-            "areas": [
-                "Gajiram", "Alarge", "Badu", "Bubabulin", "Damakara", "Daram", "Felo", "Gadai", "Gadayi", "Kingoe", "Kuda", "Kurnawa", "Maiwa", "Miye", "Nganzai", "Sababuwa", "Sahsawa", "Shattam", "Sugundure", "Zigalta"
-            ]
+            "areas": ["Gajiram", "Alarge", "Badu", "Bubabulin", "Damakara", "Daram", "Felo", "Gadai", "Gadayi", "Kingoe", "Kuda", "Kurnawa", "Maiwa", "Miye", "Nganzai", "Sababuwa", "Sahsawa", "Shattam", "Sugundure", "Zigalta"]
         }
     }
 }

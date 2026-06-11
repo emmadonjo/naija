@@ -6,83 +6,85 @@
     },
     "capital": "Abakaliki",
     "political_zone": "South East",
-    "date_created": "01-10-1991",
+    "date_created": "01-10-1996",
     "population": {
         "male": 1553606,
         "female": 1492681
     },
     "website": "https://ebonyistate.gov.ng",
-    "logo": "../logos/ebonyi.png",
+    "logo": "/images/logos/ebonyi.png",
+    "flag": "",
     "demonym": "Ebonyian",
-    "nick_name": " Salt of the Nation",
+    "nick_name": "Salt of the Nation",
     "languages": {
-        "english": "English"
+        "english": "English",
+        "igbo": "Igbo"
     },
     "lga": {
         "1": {
             "name": "Abakaliki",
             "official": "Abakaliki Local Government",
-            "areas": []
+            "areas": ["Abakaliki", "Amachi", "Amagu", "Azugwu", "Ishieke", "Kpirikpiri", "Nkaliki", "Ntezi", "Ogboji", "Onueke"]
         },
         "2": {
             "name": "Afikpo North",
             "official": "Afikpo North Local Government",
-            "areas": []
+            "areas": ["Ehugbo", "Unwana", "Amasiri", "Ibii", "Akpoha", "Ozizza", "Amangwu", "Ugwulangwu", "Mgbom", "Nkpoghoro", "Amaizu", "Amauzu", "Amuku", "Ngodo", "Amachara", "Amachi", "Amaekwu", "Amangbala", "Amankwo", "Amaobolobo", "Amauro", "Egeburu", "Evuma", "Kpogirikpo", "Ubam"]
         },
         "3": {
-            "name": "Afikpo South",
-            "official": "Afikpo South Local Government",
-            "areas": []
+            "name": "Edda",
+            "official": "Edda Local Government",
+            "areas": ["Nguzu Edda", "Ekoli Edda", "Oso Edda", "Ogbu Edda", "Etiti Edda", "Ebuwana Edda", "Amasiri", "Igli", "Agbogo", "Akanto", "Ama-Inyima"]
         },
         "4": {
             "name": "Ebonyi",
             "official": "Ebonyi Local Government",
-            "areas": []
+            "areas": ["Ugbodo", "Amaeze", "Amoffia", "Amachi", "Amagu", "Ishieke", "Izzi Unuhu", "Nkaleke Achara", "Nkaleke Echara", "Okpui-Tumo"]
         },
         "5": {
             "name": "Ezza North",
             "official": "Ezza North Local Government",
-            "areas": []
+            "areas": ["Ebiaji", "Amazu", "Ekka", "Oriuozor", "Amana", "Umuome", "Ohaike", "Azuakparata", "Ndufu", "Achara-Ezza", "Efado", "Nteze", "Ezza Inyimagu", "Amuda"]
         },
         "6": {
-            "name": "Ezza South ",
-            "official": "Ezza South  Local Government"
+            "name": "Ezza South",
+            "official": "Ezza South Local Government",
+            "areas": ["Onueke", "Isieke", "Amaeka", "Amaezekwe", "Amagu", "Amana", "Amudo", "Amuzu", "Echare", "Ezzama", "Ndeagu", "Okposhi-Mgbo", "Afiaelem", "Echibokum", "Ekebeligwe", "Inyafor", "Umunwagu", "Idembia", "Ikwuator"]
         },
         "7": {
             "name": "Ikwo",
             "official": "Ikwo Local Government",
-            "areas": []
+            "areas": ["Ndufu-Alike", "Ndufu-Achara", "Eka-Awoke", "Ndiagu-Achara", "Akpan-Wudele", "Igbudu", "Ndiagu-Amagu", "Ndufu-Amagu", "Edua-Alike", "Enyibichiri-Alike", "Inyimagu", "Etim-Ekpuitumo"]
         },
         "8": {
             "name": "Ishielu",
             "official": "Ishielu Local Government",
-            "areas": []
+            "areas": ["Ezillo", "Nkalaha", "Ntezi", "Okpoto", "Ohofia-Agba", "Agba", "Ezza-Agu", "Umuhali", "Obeagu", "Nkalagu", "Amaezu", "Iyonu", "Umuakpu", "Amaokwe", "Azunyaba", "Amihu", "Amofia", "Amorie", "Amukpa", "Umuezekoha", "Agugede", "Anyima", "Azuofia", "Ogbogum", "Amagu"]
         },
         "9": {
             "name": "Ivo",
             "official": "Ivo Local Government",
-            "areas": []
+            "areas": ["Isiaka", "Akaeze", "Ishiagu", "Amaeze Ishiagu", "Amagu", "Amonye", "Ihenta Ogidi", "Iyioji Akaeze", "Umobo"]
         },
         "10": {
             "name": "Izzi",
             "official": "Izzi Local Government",
-            "areas": []
+            "areas": ["Iboko", "Abaja", "Igbeagu", "Mgbala Ukwu", "Ndieze", "Edukpachi", "Ohuruekpe", "Okpoduma", "Agbaja", "Igbunu", "Oiuma", "Ndioga", "Azuda", "Isiege", "Ndiezeoke", "Oyege", "Ndigwe", "Ndinwakpu", "Ndiokpoto", "Ndiubia", "Nwaezariyi"]
         },
         "11": {
             "name": "Ohaozara",
             "official": "Ohaozara Local Government",
-            "areas": []
+            "areas": ["Uburu", "Ugwulangwu", "Okposi", "Amaenu", "Amegu", "Ihenu", "Mgbom", "Obiozara", "Ogwu", "Ubuaba", "Umuagwu-Oke", "Umuaneketa", "Umuanum", "Umuchima", "Umuobuma", "Umuodu-Igbo", "Urobo", "Amachi", "Amelu", "Anata", "Akaeze", "Amaegudu", "Amenu", "Ohachara", "Ufuezeraku", "Ufuovoke", "Umuifere", "Umuigboke"]
         },
         "12": {
             "name": "Ohaukwu",
             "official": "Ohaukwu Local Government",
-            "areas": []
+            "areas": ["Ezzamgbo", "Effium", "Ngbo", "Amoffia", "Nkalagu", "Izhiangbo", "Amike", "Amovu", "Ndi-Akpu", "Umueze", "Okposhi Mgbo", "Okposi Eheku", "Amananta", "Amechi", "Ndiagu Ogbodo", "Nsulakpa", "Umuagara", "Umuebe", "Ekwashi Mgbo", "Ukwuagba Mgbo", "Umuezeaka Ogbo", "Umuogudu Oshia", "Umugudu"]
         },
         "13": {
             "name": "Onicha",
             "official": "Onicha Local Government",
-            "areas": []
+            "areas": ["Isu", "Oshiri", "Onicha-Igboeze", "Abaomege", "Ukawu", "Isinkwo", "Agba", "Agbabor", "Agueke", "Amannator", "Mbala Ukwu", "Mgbelaeze", "Obeagu", "Ojiegbe", "Umunika", "Agbabi", "Amagu", "Amankalu", "Amaocha", "Amaokpara", "Isieke", "Isinkwor", "Iyiazu", "Mgoji", "Owom", "Ufuezokwu", "Umuafia", "Umuimam", "Umumgbala", "Umumgboke", "Umuorie"]
         }
     }
 }
-

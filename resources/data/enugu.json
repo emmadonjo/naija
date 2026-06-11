@@ -12,7 +12,8 @@
         "female": 2295105
     },
     "website": "https://enugustate.gov.ng/",
-    "logo": "../logos/enugu.png",
+    "logo": "/images/logos/enugu.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "Coal City State",
     "languages": {
@@ -23,87 +24,87 @@
         "1": {
             "name": "Aninri",
             "official": "Aninri Local Government",
-            "areas": []
+            "areas": ["Ndeaboh", "Odume", "Nenwe", "Mpu", "Okpanku", "Agbogugu", "Amankanu", "Umuawulu", "Obeagu"]
         },
         "2": {
             "name": "Awgu",
             "official": "Awgu Local Government",
-            "areas": []
+            "areas": ["Awgu", "Mmaku", "Mgbowo", "Awgunta", "Obeagu", "Ezere", "Nkwe", "Nenwenta", "Ugwueme", "Mgbidi", "Agbogugu", "Ihe", "Ogbaku", "Ogugu", "Ugbo", "Amolie", "Ituku", "Isuawa", "Agbudu"]
         },
         "3": {
             "name": "Enugu East",
             "official": "Enugu East Local Government",
-            "areas": []
+            "areas": ["Nkwo Nike", "Emene", "Ibeagwa", "Agbogazi", "Adaeze", "Amankpa", "Obinagu", "Ugwunkwo"]
         },
         "4": {
             "name": "Enugu North",
             "official": "Enugu North Local Government",
-            "areas": []
+            "areas": ["Enugwu-Ngwo", "Amaigbo Lane", "Onuato", "Umunevo", "Ihenwuzi"]
         },
         "5": {
             "name": "Enugu South",
             "official": "Enugu South Local Government",
-            "areas": []
+            "areas": ["Uwani", "Akwuke", "Amechi", "Ugwuaji", "Obeagu", "Awkunanaw", "Amechi-Uwani"]
         },
         "6": {
             "name": "Ezeagu",
-            "official": "Ezeagu Local Government"
+            "official": "Ezeagu Local Government",
+            "areas": ["Aguobu-Owa", "Agba", "Isiugwu", "Ndiagu", "Ezedume", "Ezema", "Imezi", "Ogwofia", "Okunito", "Umuaji", "Umudim", "Idume", "Obodo Ngbogbo", "Umu-Matu", "Umuodama", "Umuojor", "Achara-Owa", "Amandim", "Ibite", "Ogulogu"]
         },
         "7": {
             "name": "Igbo Etiti",
             "official": "Igbo Etiti Local Government",
-            "areas": []
+            "areas": ["Ogbede", "Ikolo", "Onyohor", "Ukehe", "Udueme", "Aku", "Ekwegbe", "Ohemje", "Diogbe", "Umunko", "Idume", "Ohodo", "Ozalla", "Ochima", "Ohebedim"]
         },
         "8": {
             "name": "Igbo Eze North",
             "official": "Igbo Eze North Local Government",
-            "areas": []
+            "areas": ["Enugu-Ezike", "Etteh", "Umuozzi", "Ezzodo", "Esodo", "Mberubu", "Agbogazi", "Obolo-Eke", "Ogungu", "Adani", "Ake-Eze", "Mbalaze", "Mgbowo", "Ogumte"]
         },
         "9": {
             "name": "Igbo Eze South",
             "official": "Igbo Eze South Local Government",
-            "areas": []
+            "areas": ["Ibagwa-Aka", "Alor-Agu", "Unadu", "Itchi", "Nkalagu-Obukpa", "Iheakpu-Awka", "Uhunowerre", "Ovoko-Ulo", "Ovoko-Agu", "Iheaka"]
         },
         "10": {
             "name": "Isi Uzo",
             "official": "Isi Uzo Local Government",
-            "areas": []
+            "areas": ["Ikem", "Eha-Amufu", "Neke", "Mbu", "Umualor"]
         },
         "11": {
             "name": "Nkanu East",
             "official": "Nkanu East Local Government",
-            "areas": []
+            "areas": ["Amagunze", "Nara Unateze", "Nomeh Unateze", "Akpawfu", "Ugbawka", "Nkerefi", "Mburubu", "Owo", "Ubahu", "Amaechi Idodo", "Ama Nkanu", "Oruku", "Ihuokpara"]
         },
         "12": {
             "name": "Nkanu West",
             "official": "Nkanu West Local Government",
-            "areas": []
+            "areas": ["Agbani", "Akpugo", "Akegbe Ugwu", "Obuoffia", "Umueze", "Obe", "Amodu", "Ozalla", "Amurri"]
         },
         "13": {
             "name": "Nsukka",
             "official": "Nsukka Local Government",
-            "areas": []
+            "areas": ["Nsukka", "Obukpa", "Okpuje", "Eha-Alumona", "Ede-Oballa", "Lejja", "Ugwuoke", "Ugwuinyi", "Opi", "Ehem", "Ibagwa-Agu", "Ibagwa-Ani", "Okpalu-Igbo", "Okutu", "Obimo", "Nkpunano", "Nru"]
         },
         "14": {
             "name": "Oji River",
             "official": "Oji River Local Government",
-            "areas": []
+            "areas": ["Oji River", "Inyi", "Achi", "Awlaw", "Akpugoeze", "Ugwuoba", "Umuokpara", "Obune", "Amankpunator"]
         },
         "15": {
             "name": "Udenu",
             "official": "Udenu Local Government",
-            "areas": []
+            "areas": ["Obollo-Afor", "Ezima-Uno", "Ezima-Agu", "Amolla", "Igugu", "Umundu Orba", "Agbodu", "Obollo-Etiti", "Obollo-Eke", "Imilike-Uno", "Imilike-Agu", "Amalla", "Ifruka", "Obollo-Nkwo", "Ohom", "Ajuona", "Agu Orba", "Orba", "Umundu", "Ogbodu-Aba", "Ezimo"]
         },
         "16": {
             "name": "Udi",
             "official": "Udi Local Government",
-            "areas": []
+            "areas": ["Udi", "Abia", "Abor", "Affa", "Agbudu", "Akpakwume", "Amokwe", "Ebe", "Egede", "Eke", "Enugu-Ngwo", "Nachi", "Ngwo", "Nsude", "Nzue", "Obinagu", "Obioma", "Oghu", "Okpatu", "Owhum"]
         },
         "17": {
             "name": "Uzo-Uwani",
             "official": "Uzo-Uwani Local Government",
-            "areas": []
+            "areas": ["Umulokpa", "Nimbo", "Abbi", "Ugbenu", "Nkpologu", "Uvuru", "Nrobo", "Adani", "Akpogu", "Ukpata", "Ojor", "Igga", "Adaba", "Ekwuru", "Ngwoko", "Ugwuijoro", "Ebor", "Enugu-Nimbo", "Umuome", "Ugwuachara"]
         }
     }
 }
-

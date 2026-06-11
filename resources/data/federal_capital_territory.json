@@ -12,43 +12,45 @@
         "female": 2103429
     },
     "website": "https://fcta.gov.ng/",
-    "logo": "../logos/fct.png",
+    "logo": "/images/logos/fct.png",
+    "flag": "",
     "demonym": "",
     "nick_name": "Centre of Unity",
     "languages": {
         "english": "English",
-        "hausa": "Hausa"
+        "hausa": "Hausa",
+        "gbagyi": "Gbagyi"
     },
     "lga": {
         "1": {
             "name": "Abaji",
-            "official": "Abaji Local Government",
-            "areas": []
+            "official": "Abaji Area Council",
+            "areas": ["Abaji", "Yaba", "Agyana", "Bago", "Bandagi", "Dapala", "Ebagi", "Gbogbogo", "Gurdi", "Kebba", "Manderegi", "Nuku", "Panagana", "Rimba", "Uboshenu", "Yawule", "Gawu", "Nahalati", "Nah Tosho"]
         },
         "2": {
-            "name": "Abuja",
-            "official": "Abuja Local Government",
-            "areas": []
+            "name": "Abuja Municipal",
+            "official": "Abuja Municipal Area Council",
+            "areas": ["Abuja", "Garki", "Wuse", "Asokoro", "Maitama", "Gwarinpa", "Nyanya", "Karu", "Lugbe", "Apo", "Gudu", "Jahi", "Lokogoma", "Guzape", "Pyakasa", "Gwagwa", "Orozo", "Jiwa", "Kabusa", "Kpaduma", "Dakwa", "Dutse-Baba", "Durumi", "Chika", "Sauka"]
         },
         "3": {
-            "name": "Bwari ",
-            "official": "Bwari  Local Government",
-            "areas": []
+            "name": "Bwari",
+            "official": "Bwari Area Council",
+            "areas": ["Bwari", "Kubwa", "Dutse Alhaji", "Byazhin", "Ushafa", "Usuma", "Igu", "Kawu", "Kuduru", "Shere", "Panda", "Katampe", "Gaba", "Sabon Gari", "Gidan Baushe", "Karaku", "Zuma", "Gidan Pawa", "Zango", "Karawa", "Kasaru", "Kikumi", "Piko", "Tungan Sarkin", "Yajida"]
         },
         "4": {
-            "name": "Gwagwalada ",
-            "official": "Gwagwalada  Local Government",
-            "areas": []
+            "name": "Gwagwalada",
+            "official": "Gwagwalada Area Council",
+            "areas": ["Gwagwalada", "Zuba", "Gwako", "Ibwa", "Ledi", "Tunga Maje", "Dobi", "Kutunku", "Paikonkore", "Ikwa", "Agota"]
         },
         "5": {
-            "name": "Kuje ",
-            "official": "Kuje  Local Government",
-            "areas": []
+            "name": "Kuje",
+            "official": "Kuje Area Council",
+            "areas": ["Kuje", "Chibiri", "Chida", "Chukuku", "Dafara", "Damwa", "Dibe", "Dubia", "Gando", "Gaube", "Lafiya", "Kuchiyako", "Atsauna", "Baban Kurmi", "Bamishi", "Buzunkure", "Chegasu", "Damakusa", "Dudagwari", "Gashe", "Rubbochi"]
         },
         "6": {
             "name": "Kwali",
-            "official": "Kwali Local Government"
+            "official": "Kwali Area Council",
+            "areas": ["Kwali", "Ashara", "Pai", "Dafa", "Yangoji", "Kilankwa", "Yebu", "Gumbo", "Wako", "Bako", "Bobota", "Tatu", "Azaya", "Bonugo", "Adadu", "Ubosharu", "Gugwa"]
         }
     }
 }
-
