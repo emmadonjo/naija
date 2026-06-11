@@ -231,12 +231,26 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Gwagwalada](https://en.wikipedia.org/wiki/Gwagwalada)
     -   [https://en.wikipedia.org/wiki/Kuje](https://en.wikipedia.org/wiki/Kuje)
     -   [https://en.wikipedia.org/wiki/Kwali_Area_Council](https://en.wikipedia.org/wiki/Kwali_Area_Council)
+    -   [https://en.wikipedia.org/wiki/Gombe_State](https://en.wikipedia.org/wiki/Gombe_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Gombe_State](https://en.wikipedia.org/wiki/List_of_villages_in_Gombe_State)
+    -   [https://en.wikipedia.org/wiki/Akko,_Nigeria](https://en.wikipedia.org/wiki/Akko,_Nigeria)
+    -   [https://en.wikipedia.org/wiki/Balanga,_Nigeria](https://en.wikipedia.org/wiki/Balanga,_Nigeria)
+    -   [https://en.wikipedia.org/wiki/Billiri](https://en.wikipedia.org/wiki/Billiri)
+    -   [https://en.wikipedia.org/wiki/Dukku](https://en.wikipedia.org/wiki/Dukku)
+    -   [https://en.wikipedia.org/wiki/Funakaye](https://en.wikipedia.org/wiki/Funakaye)
+    -   [https://en.wikipedia.org/wiki/Bajoga](https://en.wikipedia.org/wiki/Bajoga)
+    -   [https://en.wikipedia.org/wiki/Kaltungo](https://en.wikipedia.org/wiki/Kaltungo)
+    -   [https://en.wikipedia.org/wiki/Kwami](https://en.wikipedia.org/wiki/Kwami)
+    -   [https://en.wikipedia.org/wiki/Nafada](https://en.wikipedia.org/wiki/Nafada)
+    -   [https://en.wikipedia.org/wiki/Shongom](https://en.wikipedia.org/wiki/Shongom)
+    -   [https://en.wikipedia.org/wiki/Yamaltu/Deba](https://en.wikipedia.org/wiki/Yamaltu/Deba)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/adamawa-state/](https://www.nipc.gov.ng/nigeria-states/adamawa-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/ebonyi-state/](https://www.nipc.gov.ng/nigeria-states/ebonyi-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/edo-state/](https://www.nipc.gov.ng/nigeria-states/edo-state/)
+    -   [https://www.nipc.gov.ng/nigeria-states/gombe-state/](https://www.nipc.gov.ng/nigeria-states/gombe-state/)
 
 -   **INEC Nigeria**
     -   [https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf](https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf)
@@ -244,6 +258,7 @@ Then you can access the assets as follows:
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf)
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf)
     -   [https://inecnigeria.org/wp-content/uploads/2023/01/FCT.pdf](https://inecnigeria.org/wp-content/uploads/2023/01/FCT.pdf)
+    -   [https://inecnigeria.org/wp-content/uploads/2023/01/GOMBE.pdf](https://inecnigeria.org/wp-content/uploads/2023/01/GOMBE.pdf)
 
 -   **Nigeria Housing Market**
     -   [https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters)
@@ -253,6 +268,7 @@ Then you can access the assets as follows:
     -   [https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters](https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters)
+    -   [https://www.nigeriahousingmarket.com/guides/local-government-gombe-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-gombe-list-headquarters)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -267,6 +283,14 @@ Then you can access the assets as follows:
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-ezeagu-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-ezeagu-l-g-a-enugu-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-nsukka-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-nsukka-l-g-a-enugu-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-udi-l-g-a-enugu-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-udi-l-g-a-enugu-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-akko-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-akko-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-balanga-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-balanga-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/history-of-billiri-lga-gombe-state/](https://www.medianigeria.com/history-of-billiri-lga-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-dukku-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-dukku-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-kaltungo-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-kaltungo-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-kwami-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-kwami-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-nafada-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-nafada-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-yamaltu-deba-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-yamaltu-deba-l-g-a-gombe-state/)
 
 -   **Current Affairs NG**
     -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
@@ -287,6 +311,14 @@ Then you can access the assets as follows:
     -   [https://geo.mycyber.org/nigeria/ise-orun-lga/](https://geo.mycyber.org/nigeria/ise-orun-lga/)
     -   [https://geo.mycyber.org/nigeria/moba-lga/](https://geo.mycyber.org/nigeria/moba-lga/)
     -   [https://geo.mycyber.org/nigeria/oye-lga/](https://geo.mycyber.org/nigeria/oye-lga/)
+    -   [https://geo.mycyber.org/nigeria/gombe_1/](https://geo.mycyber.org/nigeria/gombe_1/)
+    -   [https://geo.mycyber.org/nigeria/shongom/](https://geo.mycyber.org/nigeria/shongom/)
+    -   [https://geo.mycyber.org/nigeria/balanga/](https://geo.mycyber.org/nigeria/balanga/)
+    -   [https://geo.mycyber.org/nigeria/billiri/](https://geo.mycyber.org/nigeria/billiri/)
+    -   [https://geo.mycyber.org/nigeria/dukku/](https://geo.mycyber.org/nigeria/dukku/)
+    -   [https://geo.mycyber.org/nigeria/kwami/](https://geo.mycyber.org/nigeria/kwami/)
+    -   [https://geo.mycyber.org/nigeria/nafada/](https://geo.mycyber.org/nigeria/nafada/)
+    -   [https://geo.mycyber.org/nigeria/yamaltu-deba/](https://geo.mycyber.org/nigeria/yamaltu-deba/)
 
 -   **Cross River Hub**
     -   [https://www.crossriverhub.com/about-yakurr-local-government-area/](https://www.crossriverhub.com/about-yakurr-local-government-area/)
@@ -314,6 +346,9 @@ Then you can access the assets as follows:
 
 -   **Federal Capital Territory Administration (FCTA)**
     -   [https://fcta.gov.ng](https://fcta.gov.ng)
+
+-   **Gombe State Government**
+    -   [https://gombestate.gov.ng](https://gombestate.gov.ng)
 
 -   **Premium Times Nigeria**
     -   [https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html](https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html)

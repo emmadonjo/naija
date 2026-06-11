@@ -12,67 +12,72 @@
         "female": 1701389
     },
     "website": "https://gombestate.gov.ng",
-    "logo": "../logos/gombe.png",
+    "logo": "/images/logos/gombe.png",
+    "flag": "",
     "demonym": "",
-    "nick_name": " Jewel in the Savannah",
+    "nick_name": "Jewel in the Savannah",
     "languages": {
-        "english": "English"
+        "english": "English",
+        "hausa": "Hausa",
+        "fulfulde": "Fulfulde",
+        "tangale": "Tangale",
+        "tera": "Tera"
     },
     "lga": {
         "1": {
             "name": "Akko",
             "official": "Akko Local Government",
-            "areas": []
+            "areas": ["Kumo", "Garin Garba", "Jalingo", "Jauro Tukur", "Kembu", "Lergo", "Mararraban-Tumu", "Nahuta", "Panda", "Shabbal", "Bubu", "Dongol", "Kaltanga", "Kashere", "Kilawa", "Kombani", "Iara", "Papa", "Pindiga", "Piyau", "Solok", "Tulmi", "Tumu", "Wudil", "Yarda", "Yelwa", "Zabin Kani", "Akko", "Auwaru", "Barri", "Dabawo", "Gamadadi", "Garko", "Gokaru", "Gona", "Gujuba", "Jangiro", "Kalshingi", "Lafiyawo", "Lawanti", "Munda", "Panbo", "Shulto", "Tongo", "Tukulma", "Tunfure", "Wuro Dole", "Yankari", "Zange", "Zangomari"]
         },
         "2": {
             "name": "Balanga",
             "official": "Balanga Local Government",
-            "areas": []
+            "areas": ["Tallase", "Bambam", "Balanga", "Nyuwar", "Kulani", "Gelengu", "Bangu", "Dibachingi", "Jongri", "Jurare", "Nasarawa", "Nyapawa", "Parasole", "Sabon Layi", "Tindi", "Wurodole", "Dai", "Felfeli", "Gelengu Garu", "Gonongu", "Gukai", "Gumsa", "Kwakwari", "Shijan", "Takassa", "Zongo", "Dong", "Junge", "Baure", "Bokabundi", "Daurawa", "Laura", "Shangi", "Yobuyo", "Degri", "Jessu", "Cham-Mwona"]
         },
         "3": {
             "name": "Billiri",
             "official": "Billiri Local Government",
-            "areas": []
+            "areas": ["Billiri", "Ayabu", "Baganje", "Bare", "Kalmai", "Kulkul", "Labepit", "Lakalkal", "Lamugu", "Landongu", "Pokuli", "Popandi", "Sabon Layi", "Sansani", "Pokwangli", "Shela", "Sikirit", "Tal", "Tanglang", "Todi", "Tudu Kwaya"]
         },
         "4": {
             "name": "Dukku",
             "official": "Dukku Local Government",
-            "areas": []
+            "areas": ["Dukku", "Baci Bano", "Bagadaza", "Bayo", "Bele", "Bozonshulwa", "Buro Bunga", "Dashi-Dukku", "Dile", "Gado", "Galumji", "Gusho", "Jardade", "Jarkum", "Jombo", "Jonde", "Juko", "Liman", "Mari", "Nappe", "Tinda", "Tumpure", "Zange", "Bawa", "Belikaje", "Bomala", "Daminya", "Dawiya", "Du", "Jangira", "Kokkobe", "Kuni", "Walowa", "Wuro Bali", "Wuro Tara", "Yaufa", "Hashidu", "Babagana", "Bulturi", "Dirongo", "Dokoro", "Duggiri", "Gaye", "Gode", "Guza", "Jamari", "Kaigamari", "Kaloma", "Koboje", "Lafiya", "Maltewo", "Timbu", "Yole"]
         },
         "5": {
             "name": "Funakaye",
             "official": "Funakaye Local Government",
-            "areas": []
+            "areas": ["Bajoga", "Ashaka", "Maraba", "Tango", "Wawa", "Kupto", "Badadi", "Bage", "Bulturi", "Gulwari", "Lambo Dashi", "Yayaru", "Zadawa", "Abuku", "Baba Zur", "Ribadu", "Sangaru", "Mutuke"]
         },
         "6": {
             "name": "Gombe",
-            "official": "Gombe Local Government"
+            "official": "Gombe Local Government",
+            "areas": ["Gombe", "Arawa", "Doma", "Gabukku", "Inna", "Manawashi", "Pantami"]
         },
         "7": {
             "name": "Kaltungo",
             "official": "Kaltungo Local Government",
-            "areas": []
+            "areas": ["Kaltungo", "Bagaruwa", "Bwara", "Daura", "Dodonruwa", "Dundaye", "Garin Bako", "Garin Barau", "Garin Ilyasu", "Garin Jauro Gambo", "Garin Korau", "Garin Nasara", "Jauro Gotel", "Kausur", "Kunge", "Kuren", "Kwabilake", "Lankare", "Lugayidi", "Momidi", "Sabon Layi Awak", "Salifawa", "Shelin Kuwe", "Soblong", "Tambirame", "Tanga", "Tore", "Tudu", "Unguwan Barebare", "Yari"]
         },
         "8": {
             "name": "Kwami",
             "official": "Kwami Local Government",
-            "areas": []
+            "areas": ["Mallam Sidi", "Banishuwa", "Bojude", "Bomala", "Bula", "Bunu", "Dawo", "Diango", "Gabuku", "Gadam", "Gamadadi", "Habuja", "Jabla", "Jore", "Kalajanga", "Komfulata", "Kwami", "Roddo", "Sabon Gari", "Shongo", "Tappi", "Zangoma Gaji", "Alagarno", "Daban Fulani", "Doho", "Gafara Madaki", "Galadima Kadiri", "Gamji", "Guiwa", "Jambalu", "Jammari", "Jerkwami", "Jokkire", "Jurara", "Kalagari", "Kolori", "Kufayi", "Maiko", "Maleri", "Malko", "Tita", "Wuro Abba", "Yame", "Zangoma Kyari"]
         },
         "9": {
             "name": "Nafada",
             "official": "Nafada Local Government",
-            "areas": []
+            "areas": ["Nafada", "Borwo", "Danya", "Diga", "Doho", "Dondole Lewe", "Gadum", "Garin Bulomo", "Gube", "Jigawa", "Jolle", "Kiyayo", "Kuka", "Lafiyawo", "Langa", "Mada", "Maru", "Papa", "Shole", "Shonganawo", "Suka", "Tondi", "Wokollu", "Zindir"]
         },
         "10": {
             "name": "Shongom",
             "official": "Shongom Local Government",
-            "areas": []
+            "areas": ["Boh", "Bangunji", "Burak", "Filiya", "Gundale", "Gwandum", "Kushi", "Bango", "Bikutture", "Bikwala", "Bishiwai", "Dilange", "Kalo", "Kulan", "Laluwa", "Najeji", "Suli", "Yelchen-Yelchen", "Dabuki", "Lasanjang", "Pirim", "Shemyam", "Chengun", "Disga", "Farin-Kasa", "Yapandi", "Yarana", "Bebulo", "Gurwa", "Kambuluk", "Marke", "Sakram", "Swaja", "Dankunni", "Dirang", "Gomle", "Kaure", "Kommo", "Kugwayam", "Ladongor", "Lapandintai", "Kalishen", "Karel", "Kulishin", "Lalaipido", "Lapan"]
         },
         "11": {
             "name": "Yamaltu/Deba",
             "official": "Yamaltu/Deba Local Government",
-            "areas": []
+            "areas": ["Deba", "Baltongo", "Baure", "Boltongoyel", "Dangar", "Dumbu", "Jannawo", "Kakkau", "Kanawa", "Kunnuwal", "Kuri", "Lambam", "Lano", "Nasarawo", "Nono", "Poli", "Saruje", "Wajari Jodoma", "Wudil", "Yelwa Kuri", "Zagaina", "Zamfarawa", "Beguwa", "Dakum", "Difa", "Gadawo", "Garin Kudi", "Gwani", "Hinna", "Kalo", "Kulau", "Kwadon", "Kwali", "Laleko", "Liji", "Lubo", "Ruwa Biri", "Shinga", "Shuwari", "Tsando", "Wade", "Zambuk", "Dadin Kowa", "Dahirma", "Jagali", "Jarawa", "Jigawa", "Kadi", "Kurjale", "Maikaho", "Pata", "Tudun Wada"]
         }
     }
 }
-
