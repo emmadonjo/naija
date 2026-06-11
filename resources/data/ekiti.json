@@ -12,7 +12,8 @@
         "female": 1705203
     },
     "website": "https://ekitistate.gov.ng/",
-    "logo": "../logos/ekiti.png",
+    "logo": "/images/logos/ekiti.png",
+    "flag": "",
     "demonym": "Ekitian",
     "nick_name": "Land of Honour and Integrity",
     "languages": {
@@ -23,82 +24,82 @@
         "1": {
             "name": "Ado-Ekiti",
             "official": "Ado-Ekiti Local Government",
-            "areas": []
+            "areas": ["Ado-Ekiti", "Ago Araromi", "Ago Aduloju", "Ajebamidele", "Asa", "Ategbado", "Igim Okogo", "Igirigiri", "Ika", "Ikewo", "Ilamuo", "Ilokun", "Iranse", "Ireje", "Oke-Aso", "Oke Epa", "Ureje", "Esunmo", "Emirin"]
         },
         "2": {
             "name": "Efon",
             "official": "Efon Local Government",
-            "areas": []
+            "areas": ["Efon Alaiye", "Abeta", "Agboro", "Aladura", "Alagba", "Alawaye", "Araromi", "Etisun", "Ido-Ajegunle", "Igbo-Aba", "Irunshin", "Ita Awure", "Ita Ido", "Iwaji", "Mesan", "Oba Ayetoro", "Obake", "Oke Agemo", "Oko Adagba", "Orisunbare", "Oro"]
         },
         "3": {
             "name": "Emure",
             "official": "Emure Local Government",
-            "areas": []
+            "areas": ["Emure-Ekiti", "Aba Adewale", "Aba Adeyemo", "Aba Ajiboye", "Aba Ajireni", "Agbanimu", "Eporo Ekiti", "Ibeji Adu", "Igbo Owa", "Ilu", "Oge Oke", "Ogbontioro", "Ose", "Owode", "Owosi", "Seri", "Sasere"]
         },
         "4": {
             "name": "Ilejemeje",
             "official": "Ilejemeje Local Government",
-            "areas": []
+            "areas": ["Iye-Ekiti", "Eda Oniyo", "Epe", "Ira", "Iro", "Isaoye", "Osan", "Osun", "Otun", "Ayeoja", "Igogo", "Ikun", "Kosu", "Ewu", "Iludun", "Ipere", "Iye", "Iyesa Modu", "Obada"]
         },
         "5": {
             "name": "Ikere",
             "official": "Ikere Local Government",
-            "areas": []
+            "areas": ["Ikere-Ekiti", "Ajebandeele", "Agesin", "Ajaka", "Alonge", "Asae", "Atoka", "Agamo", "Ajejuloye", "Elekanran", "Ekuasa", "Edemo", "Alake", "Eree Oke", "Ejide", "Oka-Oye", "Odolofin", "Oisa", "Ojomo", "Oke Oye", "Olona", "Olukere", "Olumilua", "Olowolagba", "Ugbo-Iyan", "Ugbo-Oje", "Ugbo-Uro"]
         },
         "6": {
-            "name": "Ekiti East ",
-            "official": "Ekiti East Local Government"
+            "name": "Ekiti East",
+            "official": "Ekiti East Local Government",
+            "areas": ["Omuo-Ekiti", "Ilasa", "Isinbode", "Araromi Oke", "Eda-Ile", "Ikun-Oba", "Eremiji", "Igbole", "Suru", "Ikun", "Ile", "Omuooke", "Kota"]
         },
         "7": {
             "name": "Ido-Osi",
             "official": "Ido-Osi Local Government",
-            "areas": []
+            "areas": ["Ido-Ekiti", "Ayetoro-Ekiti", "Usi-Ekiti", "Osi-Ekiti", "Ilogbo Ekiti", "Ifaki", "Igbole Ekiti", "Ipole", "Abaoko Esu", "Agubi", "Akufo", "Araromi", "Idi Oro"]
         },
         "8": {
             "name": "Irepodun/Ifelodun",
             "official": "Irepodun/Ifelodun Local Government",
-            "areas": []
+            "areas": ["Igede-Ekiti", "Iyin-Ekiti", "Igbemo-Ekiti", "Awo-Ekiti", "Afao", "Are", "Awo", "Araromi-Obo", "Ayepe Awo", "Esure", "Eyio", "Iropora", "Iworoko", "Iyin"]
         },
         "9": {
             "name": "Oye",
             "official": "Oye Local Government",
-            "areas": []
+            "areas": ["Oye-Ekiti", "Ilupeju", "Ayegbaju", "Ire", "Itapa", "Osin", "Ayede", "Itaji", "Imojo", "Ilafon", "Isan", "Ilemeso", "Omu", "Ijelu", "Oloje", "Ayede", "Ilupeju", "Iyemero", "Odogba", "Olomolowa"]
         },
         "10": {
             "name": "Ekiti South-West",
             "official": "Ekiti South-West Local Government",
-            "areas": []
+            "areas": ["Ilawe-Ekiti", "Ogotun", "Igbara-Odo", "Bolorunduro", "Edetode", "Ejio", "Erita", "Geleje", "Igunurin", "Ilupeju Alatere", "Ilupeju Edetedo", "Kajola", "Oka", "Oka-Ijebu", "Olomide", "Odopa", "Odoka", "Orisunbare", "Subulade"]
         },
         "11": {
             "name": "Ijero",
             "official": "Ijero Local Government",
-            "areas": []
+            "areas": ["Ijero-Ekiti", "Ikoro", "Ipoti", "Iloro", "Ijunrin", "Odo-Owa", "Ekamarun", "Idao", "Ilukuno", "Irako", "Irapa", "Iroko", "Okelogbo", "Okoto", "Ologunja", "Omolewa", "Saloro"]
         },
         "12": {
             "name": "Ise/Orun",
             "official": "Ise/Orun Local Government",
-            "areas": []
+            "areas": ["Ise-Ekiti", "Orun", "Afolu", "Agbe", "Ajebamidele", "Ajegunle", "Alabi", "Araromi", "Aratu", "Aro", "Arola", "Erinwa", "Odo Ise", "Oraye"]
         },
         "13": {
             "name": "Aiyekire (Gbonyin)",
             "official": "Aiyekire (Gbonyin) Local Government",
-            "areas": []
+            "areas": ["Ode-Ekiti", "Agbado", "Imesi", "Aisegba", "Egbe", "Ijan", "Iluomoba", "Iro", "Abejere", "Agbingbin", "Agbonkoji", "Egede", "Igbegede", "Ilupeju Ijan", "Ipole-Agbado", "Olorunda", "Omuo", "Ugboeku"]
         },
         "14": {
             "name": "Ekiti West",
             "official": "Ekiti West Local Government",
-            "areas": []
+            "areas": ["Aramoko-Ekiti", "Egede", "Erinijiyan", "Ido-Ajinare", "Ikogosi", "Isokowa", "Kajola", "Okemesi", "Orokuta", "Osemo", "Ipole Iloro", "Are", "Esure Ekiti", "Iloba Igedera"]
         },
         "15": {
             "name": "Ikole",
             "official": "Ikole Local Government",
-            "areas": []
+            "areas": ["Ikole-Ekiti", "Agere", "Ajileye", "Apadie", "Ara", "Araromi", "Ire", "Ijesha-Isu", "Ijebu-Agege", "Ikosi", "Ilamo", "Isaba", "Itapaji", "Iyemero", "Ikunri", "Oke-Ako", "Ootunja", "Odo-Oro", "Ipao", "Ayebode"]
         },
         "16": {
             "name": "Moba",
             "official": "Moba Local Government",
-            "areas": []
+            "areas": ["Otun-Ekiti", "Igogo", "Ikun", "Osun", "Erinmope", "Aaye-Oja", "Ikosu", "Isaoye", "Osan", "Epe", "Iro", "Ira", "Alaye", "Aworo", "Ayetoro", "Elesunsun", "Erio", "Ido Ajinmare", "Ileyigbo", "Ikogosi", "Ipole", "Ireju", "Isokowa", "Itape", "Kajola", "Oko-Owa", "Osemo"]
         }
     }
 }
-

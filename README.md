@@ -186,6 +186,24 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Owan_East](https://en.wikipedia.org/wiki/Owan_East)
     -   [https://en.wikipedia.org/wiki/Owan_West](https://en.wikipedia.org/wiki/Owan_West)
     -   [https://en.wikipedia.org/wiki/Uhunmwonde](https://en.wikipedia.org/wiki/Uhunmwonde)
+    -   [https://en.wikipedia.org/wiki/Ekiti_State](https://en.wikipedia.org/wiki/Ekiti_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Ekiti_State](https://en.wikipedia.org/wiki/List_of_villages_in_Ekiti_State)
+    -   [https://en.wikipedia.org/wiki/Ado_Ekiti](https://en.wikipedia.org/wiki/Ado_Ekiti)
+    -   [https://en.wikipedia.org/wiki/Ekiti_East](https://en.wikipedia.org/wiki/Ekiti_East)
+    -   [https://en.wikipedia.org/wiki/Omuo](https://en.wikipedia.org/wiki/Omuo)
+    -   [https://en.wikipedia.org/wiki/Ekiti_South-West](https://en.wikipedia.org/wiki/Ekiti_South-West)
+    -   [https://en.wikipedia.org/wiki/Ekiti_West](https://en.wikipedia.org/wiki/Ekiti_West)
+    -   [https://en.wikipedia.org/wiki/Emure](https://en.wikipedia.org/wiki/Emure)
+    -   [https://en.wikipedia.org/wiki/Ido-Osi](https://en.wikipedia.org/wiki/Ido-Osi)
+    -   [https://en.wikipedia.org/wiki/Ijero_Ekiti](https://en.wikipedia.org/wiki/Ijero_Ekiti)
+    -   [https://en.wikipedia.org/wiki/Ikere-Ekiti](https://en.wikipedia.org/wiki/Ikere-Ekiti)
+    -   [https://en.wikipedia.org/wiki/Ikole](https://en.wikipedia.org/wiki/Ikole)
+    -   [https://en.wikipedia.org/wiki/Ilejemeje](https://en.wikipedia.org/wiki/Ilejemeje)
+    -   [https://en.wikipedia.org/wiki/Irepodun/Ifelodun](https://en.wikipedia.org/wiki/Irepodun/Ifelodun)
+    -   [https://en.wikipedia.org/wiki/Ise/Orun](https://en.wikipedia.org/wiki/Ise/Orun)
+    -   [https://en.wikipedia.org/wiki/Gbonyin](https://en.wikipedia.org/wiki/Gbonyin)
+    -   [https://en.wikipedia.org/wiki/Oye,_Ekiti](https://en.wikipedia.org/wiki/Oye,_Ekiti)
+    -   [https://en.wikipedia.org/wiki/Moba,_Nigeria](https://en.wikipedia.org/wiki/Moba,_Nigeria)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
@@ -204,6 +222,7 @@ Then you can access the assets as follows:
     -   [https://www.nigeriahousingmarket.com/guides/cross-river/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/cross-river/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters)
+    -   [https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ekiti/local-government-list-headquarters-2026)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -212,6 +231,9 @@ Then you can access the assets as follows:
 -   **Media Nigeria**
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-bekwarra-cross-river-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-bekwarra-cross-river-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-yala-cross-river-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-yala-cross-river-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-emure-l-g-a-ekiti-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-emure-l-g-a-ekiti-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-oye-l-g-a-ekiti-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-oye-l-g-a-ekiti-state/)
+    -   [https://www.medianigeria.com/history-of-moba-lga-ekiti-state/](https://www.medianigeria.com/history-of-moba-lga-ekiti-state/)
 
 -   **Current Affairs NG**
     -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
@@ -224,6 +246,14 @@ Then you can access the assets as follows:
 
 -   **Geo MyCyber**
     -   [https://geo.mycyber.org/nigeria/anambra-west/](https://geo.mycyber.org/nigeria/anambra-west/)
+    -   [https://geo.mycyber.org/nigeria/ado-ekiti-lga/](https://geo.mycyber.org/nigeria/ado-ekiti-lga/)
+    -   [https://geo.mycyber.org/nigeria/efon-alaaye-lga/](https://geo.mycyber.org/nigeria/efon-alaaye-lga/)
+    -   [https://geo.mycyber.org/nigeria/ijero-ekiti-lga/](https://geo.mycyber.org/nigeria/ijero-ekiti-lga/)
+    -   [https://geo.mycyber.org/nigeria/ikere-ekiti-town-arean/](https://geo.mycyber.org/nigeria/ikere-ekiti-town-arean/)
+    -   [https://geo.mycyber.org/nigeria/ikole-lga/](https://geo.mycyber.org/nigeria/ikole-lga/)
+    -   [https://geo.mycyber.org/nigeria/ise-orun-lga/](https://geo.mycyber.org/nigeria/ise-orun-lga/)
+    -   [https://geo.mycyber.org/nigeria/moba-lga/](https://geo.mycyber.org/nigeria/moba-lga/)
+    -   [https://geo.mycyber.org/nigeria/oye-lga/](https://geo.mycyber.org/nigeria/oye-lga/)
 
 -   **Cross River Hub**
     -   [https://www.crossriverhub.com/about-yakurr-local-government-area/](https://www.crossriverhub.com/about-yakurr-local-government-area/)
@@ -242,6 +272,9 @@ Then you can access the assets as follows:
 
 -   **Edo State Government**
     -   [https://edostate.gov.ng](https://edostate.gov.ng)
+
+-   **Ekiti State Government**
+    -   [https://www.ekitistate.gov.ng/about-ekiti/local-government](https://www.ekitistate.gov.ng/about-ekiti/local-government)
 
 -   **Vanguard Nigeria**
     -   [https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/](https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/)
