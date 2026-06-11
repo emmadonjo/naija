@@ -24,132 +24,96 @@
         "1": {
             "name": "Aiyedaade",
             "official": "Aiyedaade Local Government",
-            "areas": [
-                "Aba Dorcas", "Aba Ibadan", "Aba Oba", "Abewela", "Abimbola", "Abinu Alakinde", "Adam", "Ademuyiwa", "Adetunji", "Afeleke-Dabongbo", "Afonle", "Agbeja", "Akinjobi", "Ajegunle", "Ajule", "Alagbede", "Alakan", "Alaguntan Village", "Anlugbua", "Anjorin", "Araromi Owu", "Atoba Village", "Awaye", "Baba Jakan", "Bolarinwa-ladinni", "Ejemu", "Elegbeje", "Fetubori", "Fowosere Village", "Gbaja", "Gbeke", "Gbongan", "Gbonna", "Idi-Iroko", "Idi Roke", "Kegunnode", "More Owode", "Moso Alagba", "Motakola", "Obalufon", "Ode-Omu", "Ogbagba", "Ojetunde Village", "Oloba", "Olosi Village", "Oniwe Aporo", "Oogi", "Oosa Aro", "Opakunle", "Orile Owu", "Osunwale", "Sangodiran", "Sesa Alila", "Supori-Village", "Timi Village",  "Toka","Wakajaiye"
-            ]
+            "areas": ["Aba Dorcas", "Aba Ibadan", "Aba Oba", "Abewela", "Abimbola", "Abinu Alakinde", "Adam", "Ademuyiwa", "Adetunji", "Afeleke-Dabongbo", "Afonle", "Agbeja", "Akinjobi", "Ajegunle", "Ajule", "Alagbede", "Alakan", "Alaguntan Village", "Anlugbua", "Anjorin", "Araromi Owu", "Atoba Village", "Awaye", "Baba Jakan", "Bolarinwa-ladinni", "Ejemu", "Elegbeje", "Fetubori", "Fowosere Village", "Gbaja", "Gbeke", "Gbongan", "Gbonna", "Idi-Iroko", "Idi Roke", "Kegunnode", "More Owode", "Moso Alagba", "Motakola", "Obalufon", "Ode-Omu", "Ogbagba", "Ojetunde Village", "Oloba", "Olosi Village", "Oniwe Aporo", "Oogi", "Oosa Aro", "Opakunle", "Orile Owu", "Osunwale", "Sangodiran", "Sesa Alila", "Supori-Village", "Timi Village", "Toka", "Wakajaiye"]
         },
         "2": {
             "name": "Aiyedire",
             "official": "Aiyedire Local Government",
-            "areas": [
-                "Aba Akan", "Aba Alaya", "Aba Baale", "Aba Igbira", "Aba Jagun", "Abani Kanda", "Aba Olodo", "Abi-Ilu", "Abimbola", "Aderibigbe", "Adogba", "Agba", "Agbanda", "Agbodowu", "Ajadi", "Ajagbangba", "Ajegbendele", "Ajigbagun", "Akiru", "Alabata", "Alagbaa", "Alagbade", "Alakeji", "Alalubosa", "Alamo", "Alatise", "Alawo", "Alawusa", "Alaya", "Akuru", "Aragba", "Arindu", "Aro Tarapin", "Arugbede", "Asipa Elefon", "Baase", "Babalawo", "Balogun", "Bole", "Dalemo", "Edoro", "Ekerin", "Eleegun", "Eleja", "Eleji Oweeru", "Elesin", "Fagbolu", "Gbojona", "Gboyi", "Idi-Iroko", "Idi Ogun", "Igberinwo", "Igboawu", "Ile Eran", "Ile Ogbo", "Jagun labu Akinbami", "Konko", "Kuta", "Lagesin", "Lanye", "Lemomu", "Molamoyin", "Molosu", "Monfu", "Moye", "Odoogun", "Odunfa", "Ojegeba", "Okeelu", "Oke Osun", "Olodo", "Ologiri", "Olokun", "Oloosa", "Oloro", "Olosokun", "Olota", "Olota Baale", "Olowu", "Olubooku", "Olubu", "Olukohun", "Olukotun", "Olupona", "Onigangan", "Onigbongbo", "Onilete", "Oosa Awoyale", "Osolo", "Osunwoyin", "Otaawodi", "Owotoroka", "Segbodile", "Seke", "Songba", "Telemu"
-            ]
+            "areas": ["Aba Akan", "Aba Alaya", "Aba Baale", "Aba Igbira", "Aba Jagun", "Abani Kanda", "Aba Olodo", "Abi-Ilu", "Abimbola", "Aderibigbe", "Adogba", "Agba", "Agbanda", "Agbodowu", "Ajadi", "Ajagbangba", "Ajegbendele", "Ajigbagun", "Akiru", "Alabata", "Alagbaa", "Alagbade", "Alakeji", "Alalubosa", "Alamo", "Alatise", "Alawo", "Alawusa", "Alaya", "Akuru", "Aragba", "Arindu", "Aro Tarapin", "Arugbede", "Asipa Elefon", "Baase", "Babalawo", "Balogun", "Bole", "Dalemo", "Edoro", "Ekerin", "Eleegun", "Eleja", "Eleji Oweeru", "Elesin", "Fagbolu", "Gbojona", "Gboyi", "Idi-Iroko", "Idi Ogun", "Igberinwo", "Igboawu", "Ile Eran", "Ile Ogbo", "Jagun labu Akinbami", "Konko", "Kuta", "Lagesin", "Lanye", "Lemomu", "Molamoyin", "Molosu", "Monfu", "Moye", "Odoogun", "Odunfa", "Ojegeba", "Okeelu", "Oke Osun", "Olodo", "Ologiri", "Olokun", "Oloosa", "Oloro", "Olosokun", "Olota", "Olota Baale", "Olowu", "Olubooku", "Olubu", "Olukohun", "Olukotun", "Olupona", "Onigangan", "Onigbongbo", "Onilete", "Oosa Awoyale", "Osolo", "Osunwoyin", "Otaawodi", "Owotoroka", "Segbodile", "Seke", "Songba", "Telemu"]
         },
         "3": {
             "name": "Atakunmosa East",
             "official": "Atakunmosa East Local Government",
-            "areas": [
-               "Aiyetoro", "Ajebamidele", "Ajido", "Alarere", "Araromi", "Arewa", "Atorin", "Ayinrin", "Bello Alaka", "Bolorunduro", "Eti-Oni", "Fadahunsi-Ogundele", "Faforiji", "Faro", "Igangan", "Iperindo", "Ipole", "Ise", "Itaapa", "Iwara", "Iwikun", "Iyinta", "Lapaede", "Number", "Odo", "Odogbo", "Oko Aogo", "Olowu", "Onigbogi", "Otokobo", "Sokoto"
-            ]
+            "areas": ["Aiyetoro", "Ajebamidele", "Ajido", "Alarere", "Araromi", "Arewa", "Atorin", "Ayinrin", "Bello Alaka", "Bolorunduro", "Eti-Oni", "Fadahunsi-Ogundele", "Faforiji", "Faro", "Igangan", "Iperindo", "Ipole", "Ise", "Itaapa", "Iwara", "Iwikun", "Iyinta", "Lapaede", "Number", "Odo", "Odogbo", "Oko Aogo", "Olowu", "Onigbogi", "Otokobo", "Sokoto"]
         },
         "4": {
             "name": "Atakunmosa West",
             "official": "Atakunmosa West Local Government",
-            "areas": [
-                "Aba Anu", "Abebeyun", "Akola", "Alaba", "Aladura", "Alakowe", "Alusekere", "Araromi", "Aro-Aji", "Ayorunbo", "Balogun", "Bara", "Bowale", "Epe", "Ibodi", "Ifeware", "Igbadae", "Igila", "Igun", "Ijana", "Ilaa", "Iloba", "Imelu", "Isaobi", "Isireyun", "Isolo", "Isotun", "Itagunmodi", "Itamerin", "Itaosin", "Iwaro", "Iyenmogun", "Kajola", "Lala", "Muroko", "Odesomi", "Ogogo Akaro", "Okebode", "Oke-Osin", "Olorombo", "Orogo", "Osu", "Owena", "Salau"
-            ]
+            "areas": ["Aba Anu", "Abebeyun", "Akola", "Alaba", "Aladura", "Alakowe", "Alusekere", "Araromi", "Aro-Aji", "Ayorunbo", "Balogun", "Bara", "Bowale", "Epe", "Ibodi", "Ifeware", "Igbadae", "Igila", "Igun", "Ijana", "Ilaa", "Iloba", "Imelu", "Isaobi", "Isireyun", "Isolo", "Isotun", "Itagunmodi", "Itamerin", "Itaosin", "Iwaro", "Iyenmogun", "Kajola", "Lala", "Muroko", "Odesomi", "Ogogo Akaro", "Okebode", "Oke-Osin", "Olorombo", "Orogo", "Osu", "Owena", "Salau"]
         },
         "5": {
             "name": "Boluwaduro",
             "official": "Boluwaduro Local Government",
-            "areas": [
-                "Alafara", "Agofulani", "Eripa", "Gbeleru", "Gbonko", "Igbajo", "Igbodu", "Iloro", "Iresi", "Morakinyo", "Obaala", "Obanla", "Obuke", "Oke Oba", "Oke Opa", "Okerun", "Osolo"
-            ]
+            "areas": ["Alafara", "Agofulani", "Eripa", "Gbeleru", "Gbonko", "Igbajo", "Igbodu", "Iloro", "Iresi", "Morakinyo", "Obaala", "Obanla", "Obuke", "Oke Oba", "Oke Opa", "Okerun", "Osolo"]
         },
         "6": {
             "name": "Boripe",
             "official": "Boripe Local Government",
-            "areas": [
-                "Aagba", "Ada", "Alomi", "Amola", "Aromadu", "Aru", "Aweda", "Banji Elegun", "Egbeda", "Egbejoda", "Elemo", "Elere", "Erinwo", "Esa", "Fadele", "Goregun", "Idi Osan", "Iloko", "Imuleke", "Inurin", "Iragbiji", "Iree", "Loba", "Morifin", "Obada", "Odebudo", "Okeigbo", "Olukosin", "Ororuwa", "Otake", "Oyo"
-            ]
+            "areas": ["Aagba", "Ada", "Alomi", "Amola", "Aromadu", "Aru", "Aweda", "Banji Elegun", "Egbeda", "Egbejoda", "Elemo", "Elere", "Erinwo", "Esa", "Fadele", "Goregun", "Idi Osan", "Iloko", "Imuleke", "Inurin", "Iragbiji", "Iree", "Loba", "Morifin", "Obada", "Odebudo", "Okeigbo", "Olukosin", "Ororuwa", "Otake", "Oyo"]
         },
         "7": {
             "name": "Ede North",
             "official": "Ede North Local Government",
-            "areas": [
-                "Abogunde", "Adejuwon", "Araromi", "Atapara", "Atoyebi", "Bara", "Doba", "Ede Township", "Egbejoda", "Elero", "Faosun", "Kajola", "Lasiyi", "Oloba", "Tomoni"
-            ]
+            "areas": ["Abogunde", "Adejuwon", "Araromi", "Atapara", "Atoyebi", "Bara", "Doba", "Ede Township", "Egbejoda", "Elero", "Faosun", "Kajola", "Lasiyi", "Oloba", "Tomoni"]
         },
         "8": {
             "name": "Ede South",
             "official": "Ede South Local Government",
-            "areas": [
-                "Adekolu", "Agbeinpa", "Agboopa", "Akoda", "Alajue", "Aminiwon", "Arola", "Awoo", "Bara", "Dauda", "Denu", "Ededimeji", "Elewure", "Idi-Oro", "Idiagbon", "Isale-Ofa", "Kusi", "Laogun Araromi", "Laogun Isemi", "Obanase", "Ogbaagbaa", "Olodan", "Oloki", "Owode", "Owojun", "Popoola", "Sekona"
-            ]
+            "areas": ["Adekolu", "Agbeinpa", "Agboopa", "Akoda", "Alajue", "Aminiwon", "Arola", "Awoo", "Bara", "Dauda", "Denu", "Ededimeji", "Elewure", "Idi-Oro", "Idiagbon", "Isale-Ofa", "Kusi", "Laogun Araromi", "Laogun Isemi", "Obanase", "Ogbaagbaa", "Olodan", "Oloki", "Owode", "Owojun", "Popoola", "Sekona"]
         },
        
         "9": {
             "name": "Egbedore",
             "official": "Egbedore Local Government",
-            "areas": [
-                "Aba Agberi", "Aba Ajao", "Aba-Ope", "Abe-Ade", "Abere", "Abogunde", "Abudo", "Adeniran", "Adewolu", "Adeyeyi", "Adeyi", "Aigbagbon", "Aigbe", "Ajeja", "Ajo", "Akinlade", "Akogun", "Alaadota", "Alagbaa", "Alapupu", "Alaro Elemo", "Alasan", "Alate", "Alokolejere", "Ara", "Areago", "Aro", "Aronwa", "Arun", "Asalu", "Asipa", "Ateri", "Awaro", "Awo", "Awo-Alara", "Ayidina", "Baale", "Balogun", "Bara", "Ebunla", "Ebunlaope", "Egbedi", "Ekerin", "Ekuro", "Ekusa", "Eleran", "Eniso", "Falansa", "Fulani", "Ga Fulani", "Gbanla", "Iddo", "Idi-Mangoro", "Igbokiti I", "Igbokiti II", "Ijagemo", "Ikepa", "Ilawe", "Ile-Iya-Agba", "Ile-Oku", "Iloba", "Ilora", "Imofo", "Iragberi", "Iseki", "Iwoye", "Iya Agba", "Iyalode", "Jagun", "Jakoto", "Kuleogbo", "Lado", "Lamokun", "Laroyan", "Obadon", "Obanisuwa", "Ofatedo", "Ogbagada", "Ojisum", "Ojutu", "Oke-Agunbelewo", "Oke-Osun", "Olobu Ara", "Olokisa", "Olojo", "Oloode", "Olope", "Olorunsogo", "Oloso", "Olufiran", "Olufinran-Isale", "Olufiran-Oke", "Onadimu", "Onilai", "Oni-Malu", "Onipara", "Oose", "Ooye", "Origo", "Otun", "Ponpola", "Seriki", "Woru", "Yemope"
-            ]
+            "areas": ["Aba Agberi", "Aba Ajao", "Aba-Ope", "Abe-Ade", "Abere", "Abogunde", "Abudo", "Adeniran", "Adewolu", "Adeyeyi", "Adeyi", "Aigbagbon", "Aigbe", "Ajeja", "Ajo", "Akinlade", "Akogun", "Alaadota", "Alagbaa", "Alapupu", "Alaro Elemo", "Alasan", "Alate", "Alokolejere", "Ara", "Areago", "Aro", "Aronwa", "Arun", "Asalu", "Asipa", "Ateri", "Awaro", "Awo", "Awo-Alara", "Ayidina", "Baale", "Balogun", "Bara", "Ebunla", "Ebunlaope", "Egbedi", "Ekerin", "Ekuro", "Ekusa", "Eleran", "Eniso", "Falansa", "Fulani", "Ga Fulani", "Gbanla", "Iddo", "Idi-Mangoro", "Igbokiti I", "Igbokiti II", "Ijagemo", "Ikepa", "Ilawe", "Ile-Iya-Agba", "Ile-Oku", "Iloba", "Ilora", "Imofo", "Iragberi", "Iseki", "Iwoye", "Iya Agba", "Iyalode", "Jagun", "Jakoto", "Kuleogbo", "Lado", "Lamokun", "Laroyan", "Obadon", "Obanisuwa", "Ofatedo", "Ogbagada", "Ojisum", "Ojutu", "Oke-Agunbelewo", "Oke-Osun", "Olobu Ara", "Olokisa", "Olojo", "Oloode", "Olope", "Olorunsogo", "Oloso", "Olufiran", "Olufinran-Isale", "Olufiran-Oke", "Onadimu", "Onilai", "Oni-Malu", "Onipara", "Oose", "Ooye", "Origo", "Otun", "Ponpola", "Seriki", "Woru", "Yemope"]
         },
         "10": {
             "name": "Ejigbo",
             "official": "Ejigbo Local Government",
-            "areas": [
-                "Aato", "Abogunde", "Adegeedo", "Adori-Oke", "Afake", "Agurodo", "Aponla", "Aye", "Ayegunle", "Ayegbogbo", "Ejigbo", "Idigba", "Ife-Odan", "Igbon", "Ijinibota", "Ika", "Ike", "Ilawo", "Inisa I", "Inisha II", "Isoko", "Isundunrin", "Iwata", "Masifa", "Oguro", "Olla", "Ologege", "Olorin", "Olosinmo", "Osuntedo", "Songbe", "Owu"
-            ]
+            "areas": ["Aato", "Abogunde", "Adegeedo", "Adori-Oke", "Afake", "Agurodo", "Aponla", "Aye", "Ayegunle", "Ayegbogbo", "Ejigbo", "Idigba", "Ife-Odan", "Igbon", "Ijinibota", "Ika", "Ike", "Ilawo", "Inisa I", "Inisha II", "Isoko", "Isundunrin", "Iwata", "Masifa", "Oguro", "Olla", "Ologege", "Olorin", "Olosinmo", "Osuntedo", "Songbe", "Owu"]
         },
         "11": {
             "name": "Ife Central",
             "official": "Ife Central Local Government",
-            "areas": [
-                "Eleyele", "Ilare", "O.A.U", "Oranmiyan Shrine", "Ikoyi", "Okerewe", "Opa", "More", "Ilode", "Aba Coker", "Iremo"
-            ]
+            "areas": ["Eleyele", "Ilare", "O.A.U", "Oranmiyan Shrine", "Ikoyi", "Okerewe", "Opa", "More", "Ilode", "Aba Coker", "Iremo"]
         },
         "12": {
             "name": "Ife East",
             "official": "Ife East Local Government",
-            "areas": [
-                "Ashipa ", "Akinlalu", "Edunabon", "Famia", "Ipetumodu","Yakoyo", "Moro", "Oyere I", "Oyere II"
-            ]
+            "areas": ["Ashipa ", "Akinlalu", "Edunabon", "Famia", "Ipetumodu", "Yakoyo", "Moro", "Oyere I", "Oyere II"]
         },
         "13": {
             "name": "Ife North",
             "official": "Ife North Local Government",
-            "areas": [
-                "Aba Adetipe", "Aba Anubidi", "Aba Dejo", "Aba gbadamu", "Aba Igbira", "Aba Keesa Baje", "Aba Kendere", "Aba Moro", "Aba Obalara", "Aba Ode", "Aba Onigbo", "Aba Osunremi", "Aba Salami", "Aba Tiamiyu", "Aborisade", "Adara", "Adanrin", "Ade", "Adedeji", "Adekunmi", "Adesina", "Afon", "Agada", "Agbe Baale-Idowu", "Agbe Oosa-Egbeniyi", "Agbonni", "Agboro", "Agidi", "Agodo", "Aiyetutu", "Ajala", "Ajiboye", "Akande", "Akinobu", "Akunra", "Aladanla", "Akibiti", "Akinalu", "Akingbade", "Akire", "Alabameta", "Alagba", "Alafa", "Alalara-Anusun", "Alapata", "Alasa", "Alawiye", "Amoloye", "Amina", "Amugba", "Amula Orile", "Amukegun", "Aniwe", "Apaana", "Apamu", "Apata Oloko", "Apesibiti", "Areago", "Arileyansi", "Arinola", "Arojo", "Asabi", "Asamu", "Asalu", "Ashipa Town", "Asujo", "Ata Mogaji", "Atula", "Atuwo Amu", "Awere", "Awotinde", "Awotunbi", "Ayankunle", "Baadofin", "Baala", "Baale", "Baale Sango", "Baba Ebe", "Bale Alebiosu", "Balogun Aderibigbe", "Balogun-Obiribiri", "Dado Olokotun", "Dagbolu", "Dairo", "Dare", "Dooya", "Edunabon", "Egbirin", "Eiyentanle", "Ejemu", "Eleeru", "Eleesan", "Elegudugbe", "Elemu-Alagba", "Elerin", "Elewa", "Erinle", "Fabemi", "Fadehan", "Fadipe", "Fagbemiro", "Fagbesa", "Fagbore", "Fagunwa", "Famia", "Famia Ayegunle", "Famia Oja", "Fanikun", "Fasanu", "Fawei Baale", "Gbodowe", "Gorogoro", "Idi Asa", "Idi-Iroko", "Idioro", "Idi Seke", "Idita", "Ige", "Igbira", "Igbira Iwaro", "Ilabami", "Isaleye", "Isanlu", "Isule", "Ita Agbede", "Iyekere", "Jabata", "Jatina-Egbeda", "Ladapo", "Lamba-Agbere", "Lamiriki", "Lemomu", "Loode Olokuta", "Kereja", "Kilanko", "Kilibi", "Kinkinyinun", "Majarayomi", "Makinde", "Mojalao", "Morakinyo", "Morayin", "Moro", "Oba", "Oba-Giun", "Obalejugbe", "Obeyin", "Odan Asun", "Ode Awosun", "Odelade", "Odogbon", "Oduranin", "Ogangan", "Ogbaagba-Alagbede", "Ogun", "Ogundijo", "Oguntoyinbo", "Ogunwale", "Ojurejo Olorjo", "Oke", "Oke-Ladugbo", "Okuomoni", "Ologbo", "Ologede", "Ologiri", "Ologungun", "Olookun", "Olooyo", "Olorode Ageye", "Olorombo", "Olorombo-Gboloku", "Olu-Igbodo", "Olunle", "Olunloye/Akinwowo", "Omikoto", "Onibambu", "Onikan", "Onikooko", "Onipasan", "Onirugbon", "Onisoro", "Oriokuta", "Osifila", "Osun", "Otun Akala", "Otunode", "Owode", "Oyo", "Oyo Onikeke", "Pakolo", "Peleyeju", "Rogborogbo", "Salako", "Segi", "Tafa", "Titus Aba-Store", "Toro", "Wasinmi", "Womonle", "Yakoyo"
-            ]
+            "areas": ["Aba Adetipe", "Aba Anubidi", "Aba Dejo", "Aba gbadamu", "Aba Igbira", "Aba Keesa Baje", "Aba Kendere", "Aba Moro", "Aba Obalara", "Aba Ode", "Aba Onigbo", "Aba Osunremi", "Aba Salami", "Aba Tiamiyu", "Aborisade", "Adara", "Adanrin", "Ade", "Adedeji", "Adekunmi", "Adesina", "Afon", "Agada", "Agbe Baale-Idowu", "Agbe Oosa-Egbeniyi", "Agbonni", "Agboro", "Agidi", "Agodo", "Aiyetutu", "Ajala", "Ajiboye", "Akande", "Akinobu", "Akunra", "Aladanla", "Akibiti", "Akinalu", "Akingbade", "Akire", "Alabameta", "Alagba", "Alafa", "Alalara-Anusun", "Alapata", "Alasa", "Alawiye", "Amoloye", "Amina", "Amugba", "Amula Orile", "Amukegun", "Aniwe", "Apaana", "Apamu", "Apata Oloko", "Apesibiti", "Areago", "Arileyansi", "Arinola", "Arojo", "Asabi", "Asamu", "Asalu", "Ashipa Town", "Asujo", "Ata Mogaji", "Atula", "Atuwo Amu", "Awere", "Awotinde", "Awotunbi", "Ayankunle", "Baadofin", "Baala", "Baale", "Baale Sango", "Baba Ebe", "Bale Alebiosu", "Balogun Aderibigbe", "Balogun-Obiribiri", "Dado Olokotun", "Dagbolu", "Dairo", "Dare", "Dooya", "Edunabon", "Egbirin", "Eiyentanle", "Ejemu", "Eleeru", "Eleesan", "Elegudugbe", "Elemu-Alagba", "Elerin", "Elewa", "Erinle", "Fabemi", "Fadehan", "Fadipe", "Fagbemiro", "Fagbesa", "Fagbore", "Fagunwa", "Famia", "Famia Ayegunle", "Famia Oja", "Fanikun", "Fasanu", "Fawei Baale", "Gbodowe", "Gorogoro", "Idi Asa", "Idi-Iroko", "Idioro", "Idi Seke", "Idita", "Ige", "Igbira", "Igbira Iwaro", "Ilabami", "Isaleye", "Isanlu", "Isule", "Ita Agbede", "Iyekere", "Jabata", "Jatina-Egbeda", "Ladapo", "Lamba-Agbere", "Lamiriki", "Lemomu", "Loode Olokuta", "Kereja", "Kilanko", "Kilibi", "Kinkinyinun", "Majarayomi", "Makinde", "Mojalao", "Morakinyo", "Morayin", "Moro", "Oba", "Oba-Giun", "Obalejugbe", "Obeyin", "Odan Asun", "Ode Awosun", "Odelade", "Odogbon", "Oduranin", "Ogangan", "Ogbaagba-Alagbede", "Ogun", "Ogundijo", "Oguntoyinbo", "Ogunwale", "Ojurejo Olorjo", "Oke", "Oke-Ladugbo", "Okuomoni", "Ologbo", "Ologede", "Ologiri", "Ologungun", "Olookun", "Olooyo", "Olorode Ageye", "Olorombo", "Olorombo-Gboloku", "Olu-Igbodo", "Olunle", "Olunloye/Akinwowo", "Omikoto", "Onibambu", "Onikan", "Onikooko", "Onipasan", "Onirugbon", "Onisoro", "Oriokuta", "Osifila", "Osun", "Otun Akala", "Otunode", "Owode", "Oyo", "Oyo Onikeke", "Pakolo", "Peleyeju", "Rogborogbo", "Salako", "Segi", "Tafa", "Titus Aba-Store", "Toro", "Wasinmi", "Womonle", "Yakoyo"]
         },
         "14": {
             "name": "Ife South",
             "official": "Ife South Local Government",
-            "areas": [
-                "Aba Aafa", "Aba Abe", "Aba Aderibe", "Aba Andrew", "Aba Aladie", "Aba Alaja", "Aba Aliyu", "Aba Atiba", "Aba Baale", "Aba D.F. Kolajo", "Aba Dada", "Aba Edunabon", "Aba Faro", "Aba Golu", "Aba Ife", "Aba Ijesha", "Aba Iresi", "Aba Kajola", "Aba Lowa-Ada", "Aba Lowa-Iyelomo", "Aba Mama", "Aba Mathew", "Aba Natha", "Aba Oba", "Aba Ode", "Aba Odeyemi (Jaiyeoba)", "Aba Ojo", "Aba Oni", "Aba Ouda", "Aba Oyalode", "Aba Oyinbo", "Aba Pastor", "Aba Raji", "Aba Semolu", "Aba Stephen", "Aba Titus", "Aba Titun-Balogun", "Aba T.O. (Fede)", "Abewale", "Abiri Lasore", "Adereti", "Adesigbin", "Afolabi", "Agbaje", "Agbele", "Agbiri", "Agbombiti", "Agbonkuta", "Agbon Paul", "Ago Oluwu", "Aiyetorojera", "Ajabandele", "Ajebandele-Dadehan", "Aje Bandele-Lukosi", "Ajagbegun", "Ajegunle", "Ajegbinrin", "Akinitioke", "Akinyele", "Alabameta", "Alapadi", "Alatere", "Albert", "Aleahanran", "Alutierin", "Amu Fagbewesa", "Amu-Igbo", "Amula odunlade", "Amula Saliu", "Amusan", "Anrodo", "Apata", "Apata Oloko", "Apoje", "Ara Akinloye", "Ara Joshua", "Ara Oosa", "Araromi", "Arode", "Arugbosegbe", "Asawure", "Atere", "Atetedaye", "Atoba", "Awosiyan", "Awurele", "Aye Isale", "Aye Amodu", "Ayeoba", "Aye Oke", "Baba Eko", "Baba Ibadan", "Bolajoko", "Bolorunduro", "Camp-Obele", "Dagbolu", "Daranjo", "Ebgejoda", "Eeelu", "Elegberun", "Eleweran", "Elewure Oke", "Elewure-Isale", "Ere", "Erinoke", "Esena", "Fabamira", "Fadaka", "Fadeyi", "Falola", "Fasure", "Garage Olode", "Gbengbeleku", "Gborogboro",  "Idi Ako", "Idi-Obi", "Idi Ogun", "Idi Ogun-Adedire", "Idi Ogun Sanni", "Idi Ogun-Wogun", "Ifetedo Township", "Ijimakin", "Ikeketu", "Ilako Oko Ere", "Imolengbalafia", "Iponrin", "Isoyo", "Ita Agba", "Ita Orunto", "Iyalode", "Jaaran", "Jackson", "Jagilegbo", "Jagun Osin", "Kaledun", "Kere", "Kole Akinjola", "Kongo", "Labata", "Lusoye", "Mode", "Moro", "Natha", "Obafari-Ayeteju", "Obajida", "Obere", "Obgagba", "Odebunmi", "Odemuyiwa", "Odesan", "Odo Ibule", "Ogbon Ayesan", "Ogedengbe", "Ogudu", "Ogudu Famole", "Ogunsakin", "Oke-Odo", "Oke Owena", "Okesoda", "Okoro Elusoji", "Okoro-Isaiah", "Okusu Isale", "Okusuoke", "Olode", "Ologbenla", "Ologede", "Ologiri", "Olokemeji", "Olomidudu", "Olomuoba", "Olomuoja", "Oloparun", "Oloromobo", "Olorunda", "Omidi Onipetesi", "Omidire", "Omifunfun", "Omosebi", "Onigbodogi", "Onikanga", "Onikoto Esera", "Opa Aje", "Orafidiya", "Oragbade", "Oriola", "Orisunbare", "Oru-Alayinde", "Oshogbo", "Osi Luobe", "Osi Sooko", "Osiokero", "Osogun", "Owusunmomi", "Mefoworade", "Poso Obutu", "Posu Adedire", "Poyika Adewumi", "Poyika Ogunleye", "Poyika Onikoko", "Sekunde", "Sekunde Isanlu", "Sekunde-Ibadan", "Sukulubi", "Sunbere", "Surulere", "Taroko", "Walode", "Yakoyo", "Yinmi", "Yinmi Oja"
-            ]
+            "areas": ["Aba Aafa", "Aba Abe", "Aba Aderibe", "Aba Andrew", "Aba Aladie", "Aba Alaja", "Aba Aliyu", "Aba Atiba", "Aba Baale", "Aba D.F. Kolajo", "Aba Dada", "Aba Edunabon", "Aba Faro", "Aba Golu", "Aba Ife", "Aba Ijesha", "Aba Iresi", "Aba Kajola", "Aba Lowa-Ada", "Aba Lowa-Iyelomo", "Aba Mama", "Aba Mathew", "Aba Natha", "Aba Oba", "Aba Ode", "Aba Odeyemi (Jaiyeoba)", "Aba Ojo", "Aba Oni", "Aba Ouda", "Aba Oyalode", "Aba Oyinbo", "Aba Pastor", "Aba Raji", "Aba Semolu", "Aba Stephen", "Aba Titus", "Aba Titun-Balogun", "Aba T.O. (Fede)", "Abewale", "Abiri Lasore", "Adereti", "Adesigbin", "Afolabi", "Agbaje", "Agbele", "Agbiri", "Agbombiti", "Agbonkuta", "Agbon Paul", "Ago Oluwu", "Aiyetorojera", "Ajabandele", "Ajebandele-Dadehan", "Aje Bandele-Lukosi", "Ajagbegun", "Ajegunle", "Ajegbinrin", "Akinitioke", "Akinyele", "Alabameta", "Alapadi", "Alatere", "Albert", "Aleahanran", "Alutierin", "Amu Fagbewesa", "Amu-Igbo", "Amula odunlade", "Amula Saliu", "Amusan", "Anrodo", "Apata", "Apata Oloko", "Apoje", "Ara Akinloye", "Ara Joshua", "Ara Oosa", "Araromi", "Arode", "Arugbosegbe", "Asawure", "Atere", "Atetedaye", "Atoba", "Awosiyan", "Awurele", "Aye Isale", "Aye Amodu", "Ayeoba", "Aye Oke", "Baba Eko", "Baba Ibadan", "Bolajoko", "Bolorunduro", "Camp-Obele", "Dagbolu", "Daranjo", "Ebgejoda", "Eeelu", "Elegberun", "Eleweran", "Elewure Oke", "Elewure-Isale", "Ere", "Erinoke", "Esena", "Fabamira", "Fadaka", "Fadeyi", "Falola", "Fasure", "Garage Olode", "Gbengbeleku", "Gborogboro", "Idi Ako", "Idi-Obi", "Idi Ogun", "Idi Ogun-Adedire", "Idi Ogun Sanni", "Idi Ogun-Wogun", "Ifetedo Township", "Ijimakin", "Ikeketu", "Ilako Oko Ere", "Imolengbalafia", "Iponrin", "Isoyo", "Ita Agba", "Ita Orunto", "Iyalode", "Jaaran", "Jackson", "Jagilegbo", "Jagun Osin", "Kaledun", "Kere", "Kole Akinjola", "Kongo", "Labata", "Lusoye", "Mode", "Moro", "Natha", "Obafari-Ayeteju", "Obajida", "Obere", "Obgagba", "Odebunmi", "Odemuyiwa", "Odesan", "Odo Ibule", "Ogbon Ayesan", "Ogedengbe", "Ogudu", "Ogudu Famole", "Ogunsakin", "Oke-Odo", "Oke Owena", "Okesoda", "Okoro Elusoji", "Okoro-Isaiah", "Okusu Isale", "Okusuoke", "Olode", "Ologbenla", "Ologede", "Ologiri", "Olokemeji", "Olomidudu", "Olomuoba", "Olomuoja", "Oloparun", "Oloromobo", "Olorunda", "Omidi Onipetesi", "Omidire", "Omifunfun", "Omosebi", "Onigbodogi", "Onikanga", "Onikoto Esera", "Opa Aje", "Orafidiya", "Oragbade", "Oriola", "Orisunbare", "Oru-Alayinde", "Oshogbo", "Osi Luobe", "Osi Sooko", "Osiokero", "Osogun", "Owusunmomi", "Mefoworade", "Poso Obutu", "Posu Adedire", "Poyika Adewumi", "Poyika Ogunleye", "Poyika Onikoko", "Sekunde", "Sekunde Isanlu", "Sekunde-Ibadan", "Sukulubi", "Sunbere", "Surulere", "Taroko", "Walode", "Yakoyo", "Yinmi", "Yinmi Oja"]
         },
         "15": {
             "name": "Ifedayo",
             "official": "Ifedayo Local Government",
-            "areas": [
-                "Abanju Akesin", "Aganju Asaoni", "Aworo Ayedaade", "Balogun", "Ejemu", "Idi Awere", "Ilupeju", "Obaale", "Obaloja", "Obanla", "Oyi Araromi", "Temidire"
-            ]
+            "areas": ["Abanju Akesin", "Aganju Asaoni", "Aworo Ayedaade", "Balogun", "Ejemu", "Idi Awere", "Ilupeju", "Obaale", "Obaloja", "Obanla", "Oyi Araromi", "Temidire"]
         }
         ,
         "16": {
             "name": "Ifelodun",
             "official": "Ifelodun Local Government",
-            "areas": [
-                "Ekoende", "Iba", "Ikirun", "Obagun", "Otan Aiye -Gaaju"
-            ]
+            "areas": ["Ekoende", "Iba", "Ikirun", "Obagun", "Otan Aiye -Gaaju"]
         }
         ,
         "17": {
             "name": "Ila",
             "official": "Ila Local Government",
-            "areas": [
-                "Aba Ododo", "Abalagemo", "Ajaba", "Alagbede", "Ayetoro Obaaro", "Edemosi", "Ejigbo-Orangun", "Gaa Fulani", "Idi Odan", "Idi Ogbagbara", "Ila", "Isinmi Olootu", "Oore", "Oyi Adunni", "Oyi Araromi", "Oyi Ayegunle"
-            ]
+            "areas": ["Aba Ododo", "Abalagemo", "Ajaba", "Alagbede", "Ayetoro Obaaro", "Edemosi", "Ejigbo-Orangun", "Gaa Fulani", "Idi Odan", "Idi Ogbagbara", "Ila", "Isinmi Olootu", "Oore", "Oyi Adunni", "Oyi Araromi", "Oyi Ayegunle"]
         }
         ,
         "18": {
             "name": "Ilesa East",
             "official": "Ilesa East Local Government",
-            "areas": [
-                "Araromi Okesa", "Ayeso", "Egbeide", "Odundun", "Ibala", "Idasa", "Ijoka", "Isida", "Isokuh", "Oke Ese", "Oke Iro", "Okeiyin", "Okeola", "Oke omiru", "Palace", "Oke Ooye"
-            ]
+            "areas": ["Araromi Okesa", "Ayeso", "Egbeide", "Odundun", "Ibala", "Idasa", "Ijoka", "Isida", "Isokuh", "Oke Ese", "Oke Iro", "Okeiyin", "Okeola", "Oke omiru", "Palace", "Oke Ooye"]
         }
         
         ,
@@ -168,45 +132,33 @@
         "21": {
             "name": "Irewole",
             "official": "Irewole Local Government",
-            "areas": [
-                "Arinkin", "Ayetoro", "Balogun", "Bamgbola", "Bamidele", "Fidiwo", "Ikire Township", "Majeroku", "Molarere", "Odeyinka", "Oloowa", "Wasinmi"
-            ]
+            "areas": ["Arinkin", "Ayetoro", "Balogun", "Bamgbola", "Bamidele", "Fidiwo", "Ikire Township", "Majeroku", "Molarere", "Odeyinka", "Oloowa", "Wasinmi"]
         }  ,
         "22": {
             "name": "Isokan",
             "official": "Isokan Local Government",
-            "areas": [
-                "Abelebiyi", "Abidemi", "Afijogba", "Afolu", "Afoluoba", "Ajebamidele", "Ajolode", "Akoogun", "Alabamejo", "Alagbede", "Alahun", "Alakeji", "Alamo", "Alara", "Apomu", "Aro Kekere", "Aronla", "Awala", "Awala Japo", "Baare", "Bodunde", "Bodundekoro", "Elebanla", "Idi Eeegu", "Ikoyi", "Kagbadanla", "Kajola", "Katesan", "Kekere", "Labu", "Ladaru", "Mogun", "Mowo Ejemu", "Odofin", "Ogundiran", "Oju-Ona", "Olaleye", "Olokuta", "Olonjo", "Oloya", "Omolowo", "Onilewo", "Opelade", "Oran Eemu", "Otun Ojeyemi", "Pannu", "Riti Egbeda", "Sakotun", "Sunbare"
-            ]
+            "areas": ["Abelebiyi", "Abidemi", "Afijogba", "Afolu", "Afoluoba", "Ajebamidele", "Ajolode", "Akoogun", "Alabamejo", "Alagbede", "Alahun", "Alakeji", "Alamo", "Alara", "Apomu", "Aro Kekere", "Aronla", "Awala", "Awala Japo", "Baare", "Bodunde", "Bodundekoro", "Elebanla", "Idi Eeegu", "Ikoyi", "Kagbadanla", "Kajola", "Katesan", "Kekere", "Labu", "Ladaru", "Mogun", "Mowo Ejemu", "Odofin", "Ogundiran", "Oju-Ona", "Olaleye", "Olokuta", "Olonjo", "Oloya", "Omolowo", "Onilewo", "Opelade", "Oran Eemu", "Otun Ojeyemi", "Pannu", "Riti Egbeda", "Sakotun", "Sunbare"]
         }  ,
         "23": {
             "name": "Iwo",
             "official": "Iwo Local Government",
-            "areas": [
-                "Adana", "Afiku", "Afingba", "Agbede", "Agberire", "Agbodan", "Agbona", "Akinde", "Alapo", "Alebiosu", "Ameree", "Anaru", "Ape", "Arusa", "Awuje", "Elemi", "Elemo", "Fagbayibi", "Idi-Iroko", "Ikire Ile", "Ikolaba", "Iwara", "Iwo", "Iyangan", "Jagun", "Kanna", "Kekere", "Lemomu", "Molare", "Motunase", "Obajoko", "Obutu", "Ofisan", "Ogburo", "Ogede", "Ogundangogo", "Ogunju", "Ologun Ogunjana", "Olokodudu", "Olubusan", "Olupo Jolu", "Omoba", "Omosan-Igbo", "Osa Ogunala", "Osunjobi", "Papa", "Sade", "Tantan", "Yakoyo"
-            ]
+            "areas": ["Adana", "Afiku", "Afingba", "Agbede", "Agberire", "Agbodan", "Agbona", "Akinde", "Alapo", "Alebiosu", "Ameree", "Anaru", "Ape", "Arusa", "Awuje", "Elemi", "Elemo", "Fagbayibi", "Idi-Iroko", "Ikire Ile", "Ikolaba", "Iwara", "Iwo", "Iyangan", "Jagun", "Kanna", "Kekere", "Lemomu", "Molare", "Motunase", "Obajoko", "Obutu", "Ofisan", "Ogburo", "Ogede", "Ogundangogo", "Ogunju", "Ologun Ogunjana", "Olokodudu", "Olubusan", "Olupo Jolu", "Omoba", "Omosan-Igbo", "Osa Ogunala", "Osunjobi", "Papa", "Sade", "Tantan", "Yakoyo"]
         }  ,
         "24": {
             "name": "Obokun",
             "official": "Obokun Local Government",
-            "areas": [
-                "Ada Owode", "Afolabi", "Ajegunle", "Ajioku", "Alafon", "Amele", "Apalara", "Atanra", "Coker", "Eesun", "Egigun", "Ere", "Eriro", "Esa Odo", "Esa-Oke", "Farm-Settlement", "Gbogidigbo", "Ibala", "Ibokun", "Idi-Oko", "Ido Ayegunle", "Idoka", "Idominasi", "Igogo", "Igun", "Ijana", "Ikinyinwa", "Ilahun", "Ilare", "Ilase", "Ilowa", "Imesi-Ile", "Ipetu Ile", "Iponda", "Iregun", "Itiya", "Matawin", "Odo-Opa", "Okegun", "Oke-Opa", "Oke-Oro", "Oke Osun", "Olobe", "Olorunda", "Oniyere", "Oota", "Otan-Ile", "Owasanmi", "Saloro", "Sawe", "Ase-Ijesa"
-            ]
+            "areas": ["Ada Owode", "Afolabi", "Ajegunle", "Ajioku", "Alafon", "Amele", "Apalara", "Atanra", "Coker", "Eesun", "Egigun", "Ere", "Eriro", "Esa Odo", "Esa-Oke", "Farm-Settlement", "Gbogidigbo", "Ibala", "Ibokun", "Idi-Oko", "Ido Ayegunle", "Idoka", "Idominasi", "Igogo", "Igun", "Ijana", "Ikinyinwa", "Ilahun", "Ilare", "Ilase", "Ilowa", "Imesi-Ile", "Ipetu Ile", "Iponda", "Iregun", "Itiya", "Matawin", "Odo-Opa", "Okegun", "Oke-Opa", "Oke-Oro", "Oke Osun", "Olobe", "Olorunda", "Oniyere", "Oota", "Otan-Ile", "Owasanmi", "Saloro", "Sawe", "Ase-Ijesa"]
         }  ,
         "25": {
             "name": "Odo Otin",
             "official": "Odo Otin Local Government",
-            "areas": [
-                "Adegbite", "Ago Ayo", "Agbeye", "Alapata", "Asaba", "Asi", "Oyan", "EIesin-Funfun", "Ekosin", "Ekusa", "Faji", "Idiroko", "Igbaye", "Igbotele", "Ijabe", "Ila-Odo", "Imuleke", "Inisa",  "Iyeku", "Kosemani", "Oiakunmodu", "Okua", "Okuku", "Olokumodo", "Opete", "Opanda", "Ore"
-            ]
+            "areas": ["Adegbite", "Ago Ayo", "Agbeye", "Alapata", "Asaba", "Asi", "Oyan", "EIesin-Funfun", "Ekosin", "Ekusa", "Faji", "Idiroko", "Igbaye", "Igbotele", "Ijabe", "Ila-Odo", "Imuleke", "Inisa", "Iyeku", "Kosemani", "Oiakunmodu", "Okua", "Okuku", "Olokumodo", "Opete", "Opanda", "Ore"]
         }
         ,
         "26": {
             "name": "Ola Oluwa",
             "official": "Ola Oluwa Local Government",
-            "areas": [
-                "Aba Ajuba", "Aba Ayo", "Aba Gogoru", "Aba Junadu", "Aba Lemomu", "Aba Odan", "Aba Onju", "Abegunde", "Adebiopon", "Adunmode", "Afingba", "Afiku", "Afingba", "Agbede", "Agbodan", "Agbowu", "Agogo Ogun", "Aigbede", "Aguntan", "Ajagba", "Ajagunlase", "Ajala", "Ajegunle", "Akinde", "Akoti", "Aladorin", "Aladorun", "Alagbon", "Alapo", "Alawoloko", "Alebiosu", "Aliyu", "Aloro", "Ameree", "Aminu", "Amusun", "Apabo", "Ape", "Apeke", "Aro Elemo", "Aromole", "Arusa", "Asa", "Asamu", "Awokunle", "Awoyale", "Ayede", "Asati", "Balogun Oja", "Bode Osi", "Dagbelu", "Dagbolu", "Eeleke", "Elemi", "Elemo", "Elepo", "Elere", "Elesu", "Elewedu", "Elewure", "Esa", "Fagbayibi", "Feesu", "Folarin", "Fulani Jagun", "Idi Ape", " Idi-Iroko", "Idi Osan", "Idiya", "Idi Oro", "Ibadan", "Igege", "Ikalaba", "Ikire Ile", "Ikolaba", "Ikonifin", "Ilamodu", "Ile Ajo",  "Ile Kuta", "Ile Ogo", "Imoru", "Isero", "Iwara", "Iwo Oke", "Iyangan", "Jagun", "Jagunode Ofa", "Kadiri", "Kanna", "Kekere", "Kinko", "Laafe", "Lemomu", "Mogaji", "Mogbelerin", "Mogbidun", "Molare", "Molaye", "Molosayowo", "Nka", "Obamore", "Obamoro", "Odesola", "Ododo", "Odofin", "Ofisan", "Ogbaagba", "Ogede", "Ogundangogo", "Ogundele", "Ojomu", "Ogunoja", "Oke", "Oke Igan", "Okemole", "Oke Ogun", "Okoro", "Olobaile", "Oloba Oke", "Olala", "Olokodudu", "Olopalamba", "Oloparun", "Olorunda", "Olota", "Olowo", "Olubusan", "Olukotun", "Oluode", "Olupe", "Oluponia", "Olusenwo", "Omoba", "Omosan-Igbo", "Onigiloro", "Oniyangi", "Oodi", "Orilende", "Orilowo", "Orisasa", "Osolo", "Osunjobi", "Otunjagun", "Paku Odan", "Parakoyi", "Saba", "Sade", "Tankoda", "Tantan", "Tarapin", "Telemu", "Toto", "Yamganmu", "Yemoja"
-            ]
+            "areas": ["Aba Ajuba", "Aba Ayo", "Aba Gogoru", "Aba Junadu", "Aba Lemomu", "Aba Odan", "Aba Onju", "Abegunde", "Adebiopon", "Adunmode", "Afingba", "Afiku", "Afingba", "Agbede", "Agbodan", "Agbowu", "Agogo Ogun", "Aigbede", "Aguntan", "Ajagba", "Ajagunlase", "Ajala", "Ajegunle", "Akinde", "Akoti", "Aladorin", "Aladorun", "Alagbon", "Alapo", "Alawoloko", "Alebiosu", "Aliyu", "Aloro", "Ameree", "Aminu", "Amusun", "Apabo", "Ape", "Apeke", "Aro Elemo", "Aromole", "Arusa", "Asa", "Asamu", "Awokunle", "Awoyale", "Ayede", "Asati", "Balogun Oja", "Bode Osi", "Dagbelu", "Dagbolu", "Eeleke", "Elemi", "Elemo", "Elepo", "Elere", "Elesu", "Elewedu", "Elewure", "Esa", "Fagbayibi", "Feesu", "Folarin", "Fulani Jagun", "Idi Ape", " Idi-Iroko", "Idi Osan", "Idiya", "Idi Oro", "Ibadan", "Igege", "Ikalaba", "Ikire Ile", "Ikolaba", "Ikonifin", "Ilamodu", "Ile Ajo", "Ile Kuta", "Ile Ogo", "Imoru", "Isero", "Iwara", "Iwo Oke", "Iyangan", "Jagun", "Jagunode Ofa", "Kadiri", "Kanna", "Kekere", "Kinko", "Laafe", "Lemomu", "Mogaji", "Mogbelerin", "Mogbidun", "Molare", "Molaye", "Molosayowo", "Nka", "Obamore", "Obamoro", "Odesola", "Ododo", "Odofin", "Ofisan", "Ogbaagba", "Ogede", "Ogundangogo", "Ogundele", "Ojomu", "Ogunoja", "Oke", "Oke Igan", "Okemole", "Oke Ogun", "Okoro", "Olobaile", "Oloba Oke", "Olala", "Olokodudu", "Olopalamba", "Oloparun", "Olorunda", "Olota", "Olowo", "Olubusan", "Olukotun", "Oluode", "Olupe", "Oluponia", "Olusenwo", "Omoba", "Omosan-Igbo", "Onigiloro", "Oniyangi", "Oodi", "Orilende", "Orilowo", "Orisasa", "Osolo", "Osunjobi", "Otunjagun", "Paku Odan", "Parakoyi", "Saba", "Sade", "Tankoda", "Tantan", "Tarapin", "Telemu", "Toto", "Yamganmu", "Yemoja"]
         }
         ,
         "27": {
@@ -220,23 +172,17 @@
         "28": {
             "name": "Oriade",
             "official": "Oriade Local Government",
-            "areas": [
-                "Aba Lawani", "Adedeji", "Afinbiokin", "Akeji", "Alabameta", "Alajale", "Alagbe", "Akunrin", "Apoti", "Asalu", "Bolorunduro", "Dagbaja", "Erinmo", "Eti Oni", "Erin-Ijesa", "Erin-Oke", "Igbelajewa", "Ijaregbe", "Ijeda", "Ijimo", "Ikeji Arakeji", "Ikeji-Ile", "Ilo Ayegunle", "Ipetu Jesa", "Itegun", "Iloko", "Iwaraja", "Iwoye", "Igbo Reserve", "Ita Ata", "Lawaye", "Odo Ipo", "Oiyo", "Oju Oja", "Ogbon Oyo", "Oke-Ana Ijesa", "Oko", "Oko Orisakeji", "Olobe-Ide", "Olori-Oko", "Oloruntedo", "Omo Afa", "Omo-Ijesha",  "Onikoko", "Orisunbare", "Owena Ijesa", "Sawe"
-            ]
+            "areas": ["Aba Lawani", "Adedeji", "Afinbiokin", "Akeji", "Alabameta", "Alajale", "Alagbe", "Akunrin", "Apoti", "Asalu", "Bolorunduro", "Dagbaja", "Erinmo", "Eti Oni", "Erin-Ijesa", "Erin-Oke", "Igbelajewa", "Ijaregbe", "Ijeda", "Ijimo", "Ikeji Arakeji", "Ikeji-Ile", "Ilo Ayegunle", "Ipetu Jesa", "Itegun", "Iloko", "Iwaraja", "Iwoye", "Igbo Reserve", "Ita Ata", "Lawaye", "Odo Ipo", "Oiyo", "Oju Oja", "Ogbon Oyo", "Oke-Ana Ijesa", "Oko", "Oko Orisakeji", "Olobe-Ide", "Olori-Oko", "Oloruntedo", "Omo Afa", "Omo-Ijesha", "Onikoko", "Orisunbare", "Owena Ijesa", "Sawe"]
         }  ,
         "29": {
             "name": "Orolu",
             "official": "Orolu Local Government",
-            "areas": [
-                "Abegunde", "Ajala", "Ajegunle", "Aliyu", "Aminu", "Amusun", "Aro Elemo", "Asalu", "Awokunle", "Awoniyi", "Awoyale", "Bara", "Barohun", "Basorun", "Bolorunduro", "Egan Aje", "Elemo", "Esa", "Folarin", "Idi Ape", "Idi Iroko", "Idi Osan", "Idiape", "Idiya", "Ifon", "Ikimo", "Jagun", "Kajola", "Laarope", "Molufon", "Odesola", "Odofin", "Ofe Bolo", "Ogundele", "Ogunkeye", "Ojomu", "Oke", "Okemole", "Oloba Oke", "Olobaile", "Ologede", "Olorunda", "Olukutun", "Oluode", "Onigari", "Onigiloro", "Onsokun", "Osolo", "Osun Esa", "Owode", "Saba"
-            ]
+            "areas": ["Abegunde", "Ajala", "Ajegunle", "Aliyu", "Aminu", "Amusun", "Aro Elemo", "Asalu", "Awokunle", "Awoniyi", "Awoyale", "Bara", "Barohun", "Basorun", "Bolorunduro", "Egan Aje", "Elemo", "Esa", "Folarin", "Idi Ape", "Idi Iroko", "Idi Osan", "Idiape", "Idiya", "Ifon", "Ikimo", "Jagun", "Kajola", "Laarope", "Molufon", "Odesola", "Odofin", "Ofe Bolo", "Ogundele", "Ogunkeye", "Ojomu", "Oke", "Okemole", "Oloba Oke", "Olobaile", "Ologede", "Olorunda", "Olukutun", "Oluode", "Onigari", "Onigiloro", "Onsokun", "Osolo", "Osun Esa", "Owode", "Saba"]
         }  ,
         "30": {
             "name": "Osogbo",
             "official": "Osogbo Local Government",
-            "areas": [
-                "Aiyetoro", "Alekuwodo", "Dada Estate", "Ita Olokan", "Oke Oniti", "Ogooluwa", "Okefia", "Fagbewesa", "Kola Balogun", "Odiolowo", "Ota Efun", "Omo West", "Idi Seke", "Ring Rd"
-            ]
+            "areas": ["Aiyetoro", "Alekuwodo", "Dada Estate", "Ita Olokan", "Oke Oniti", "Ogooluwa", "Okefia", "Fagbewesa", "Kola Balogun", "Odiolowo", "Ota Efun", "Omo West", "Idi Seke", "Ring Rd"]
         }
     }
 }

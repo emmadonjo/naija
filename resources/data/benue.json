@@ -26,163 +26,117 @@
         "1": {
             "name": "Ado",
             "official": "Ado Local Government",
-            "areas": [
-                "Igumale", "Agbekpu", "Agila", "New Agila", "Agwu", "Ai-Amidu", "Ai-Ebiega", "Ai-Onazi", "Aikpiliogwu", "Aizu", "Akpa Centre", "Akpoge", "Anjotsu", "Anmeta", "Efoha", "Efofu", "Ibende", "Igbizi", "Ikpeba", "Ikpilogwu", "Ivetse", "Oda", "Ogbegbera", "Ogbilolo", "Ogbokwu", "Ogebee", "Oglede", "Okpakor", "Okpatobo", "Okwo", "Onogwu", "Opwa", "Osalemu", "Osudu", "Otokilo", "Udegu", "Udegu Urisi", "Ukwonyo", "Utonkon", "Abey", "Adaboa", "Adochi", "Atuolo", "Ayaga", "Efelo", "Enjoji", "Igba", "Ijokoro", "Ikpatene", "Ndogaba", "Obe", "Ogedegi", "Ojenyo", "Ojije", "Okari", "Okonoji", "Okpudu", "Okwasi", "Olukpo", "Osiloko", "Rijo", "Royongo", "Ugede", "Ulayi"
-            ]
+            "areas": ["Igumale", "Agbekpu", "Agila", "New Agila", "Agwu", "Ai-Amidu", "Ai-Ebiega", "Ai-Onazi", "Aikpiliogwu", "Aizu", "Akpa Centre", "Akpoge", "Anjotsu", "Anmeta", "Efoha", "Efofu", "Ibende", "Igbizi", "Ikpeba", "Ikpilogwu", "Ivetse", "Oda", "Ogbegbera", "Ogbilolo", "Ogbokwu", "Ogebee", "Oglede", "Okpakor", "Okpatobo", "Okwo", "Onogwu", "Opwa", "Osalemu", "Osudu", "Otokilo", "Udegu", "Udegu Urisi", "Ukwonyo", "Utonkon", "Abey", "Adaboa", "Adochi", "Atuolo", "Ayaga", "Efelo", "Enjoji", "Igba", "Ijokoro", "Ikpatene", "Ndogaba", "Obe", "Ogedegi", "Ojenyo", "Ojije", "Okari", "Okonoji", "Okpudu", "Okwasi", "Olukpo", "Osiloko", "Rijo", "Royongo", "Ugede", "Ulayi"]
         },
         "2": {
             "name": "Agatu",
             "official": "Agatu Local Government",
-            "areas": [
-                "Obagaji", "Abalichi", "Abogbe", "Adagbo", "Adana", "Adum", "Agbachi", "Agbaduma", "Aila", "Akele", "Akolo", "Akpeko", "Akwu", "Ashama", "Atakpa", "Ayele", "Ebete", "Edeje", "Egba", "Egwuma", "Ekwo", "Elo", "Engla", "Enjima", "Enugba", "Obanowa", "Odejo", "Ogam", "Ogbangede", "Ogufa", "Okeji", "Okokolo", "Okpagabi", "Okpokoto", "Oweto", "Ugboju-Ube", "Ukadu", "Usha"
-            ]
+            "areas": ["Obagaji", "Abalichi", "Abogbe", "Adagbo", "Adana", "Adum", "Agbachi", "Agbaduma", "Aila", "Akele", "Akolo", "Akpeko", "Akwu", "Ashama", "Atakpa", "Ayele", "Ebete", "Edeje", "Egba", "Egwuma", "Ekwo", "Elo", "Engla", "Enjima", "Enugba", "Obanowa", "Odejo", "Ogam", "Ogbangede", "Ogufa", "Okeji", "Okokolo", "Okpagabi", "Okpokoto", "Oweto", "Ugboju-Ube", "Ukadu", "Usha"]
         },
         "3": {
             "name": "Apa",
             "official": "Apa Local Government",
-            "areas": [
-                "Ugbokpo", "Achaba", "Adija", "Ahija", "Ajube-Icho", "Ajugbe-Echaje", "Akpaniho", "Akpanta", "Akpete", "Akpoloko", "Alifeti", "Amoke", "Angwa", "Auke", "Bapa", "Ebukodo", "Edikwu-Icho", "Ekela", "Ibadum", "Idada", "Iga-Okpaya", "Iga-Ologbeche", "Igoro", "Ijaha", "Ijege", "Imana", "Inyapu", "Jericho", "Oba", "Obinda", "Ochenmo", "Odejo", "Odugbeho", "Ofoko", "Ogbenegwu", "Ogebe", "Ogodo", "Ohoke", "Otakpa", "Oye"
-            ]
+            "areas": ["Ugbokpo", "Achaba", "Adija", "Ahija", "Ajube-Icho", "Ajugbe-Echaje", "Akpaniho", "Akpanta", "Akpete", "Akpoloko", "Alifeti", "Amoke", "Angwa", "Auke", "Bapa", "Ebukodo", "Edikwu-Icho", "Ekela", "Ibadum", "Idada", "Iga-Okpaya", "Iga-Ologbeche", "Igoro", "Ijaha", "Ijege", "Imana", "Inyapu", "Jericho", "Oba", "Obinda", "Ochenmo", "Odejo", "Odugbeho", "Ofoko", "Ogbenegwu", "Ogebe", "Ogodo", "Ohoke", "Otakpa", "Oye"]
         },
         "4": {
             "name": "Buruku",
             "official": "Buruku Local Government",
-            "areas": [
-                "Buruku", "Ako", "Anshav", "Awange", "M-Ulav", "Nkovul", "Orahii", "Sati", "Shipine", "Tavershima", "Tom-Ataan", "Tomanyiin", "Tse-Abagi", "Tse-Adingi", "Tse-Akaa", "Tse-Gbile", "Tseyuna", "Tyowanye", "Wanvambe", "Abor", "Abwa", "Adyongo", "Agine", "Ajohol", "Akume", "Anchiha", "Anongur", "Ashibi", "Ato", "Bako", "Garuba", "Gbelave", "Gbudu", "Idyua", "Leghem", "Nyamatsor", "Shie", "Tofi", "Upe", "Zua", "Abuku", "Agbengi", "Agyo-Ugbu", "Ajige", "Gbanyam", "Igyu", "Mbager", "Tabe", "Tsende", "Uga"
-            ]
+            "areas": ["Buruku", "Ako", "Anshav", "Awange", "M-Ulav", "Nkovul", "Orahii", "Sati", "Shipine", "Tavershima", "Tom-Ataan", "Tomanyiin", "Tse-Abagi", "Tse-Adingi", "Tse-Akaa", "Tse-Gbile", "Tseyuna", "Tyowanye", "Wanvambe", "Abor", "Abwa", "Adyongo", "Agine", "Ajohol", "Akume", "Anchiha", "Anongur", "Ashibi", "Ato", "Bako", "Garuba", "Gbelave", "Gbudu", "Idyua", "Leghem", "Nyamatsor", "Shie", "Tofi", "Upe", "Zua", "Abuku", "Agbengi", "Agyo-Ugbu", "Ajige", "Gbanyam", "Igyu", "Mbager", "Tabe", "Tsende", "Uga"]
         },
         "5": {
             "name": "Gboko",
             "official": "Gboko Local Government",
-            "areas": [
-                "Gboko", "Ador", "Ahwa", "Akaajime", "Amaladu", "Anikyov", "Anyego", "Bay", "Byer", "Dur", "Eoyum", "Ergum", "Foga", "Gatie", "Gwaza", "Ikyuen", "Ikpenger", "Ikumbul", "Itungwa", "Luga", "Maseje", "Mbaamandev", "Missa", "Mkar", "Naga", "Pika", "Tse-Gatie", "Tse-Kagher", "Uve", "Yandev"
-            ]
+            "areas": ["Gboko", "Ador", "Ahwa", "Akaajime", "Amaladu", "Anikyov", "Anyego", "Bay", "Byer", "Dur", "Eoyum", "Ergum", "Foga", "Gatie", "Gwaza", "Ikyuen", "Ikpenger", "Ikumbul", "Itungwa", "Luga", "Maseje", "Mbaamandev", "Missa", "Mkar", "Naga", "Pika", "Tse-Gatie", "Tse-Kagher", "Uve", "Yandev"]
         },
         "6": {
             "name": "Guma",
             "official": "Guma Local Government",
-            "areas": [
-                "Gbajimba", "Achakpa", "Anakuma", "Angudu", "Antso", "Atawa", "Cheakiyne", "Daudu", "Gogo", "Gyushage", "Ichergbe", "Ijoh", "Ikoanenge", "Iye", "Jugudu", "Kaseyo", "Madaki", "Magum", "Nalegh", "Nyiev", "Ortserga", "Peregh", "Sherev", "Talvough", "Torkula", "Toura", "Tse-Akenyi", "Tse-Tule", "Ubo", "Udei", "Uikpam", "Ukaa", "Umenger", "Yelewatta", "Yeshewe", "Yogbo"
-            ]
+            "areas": ["Gbajimba", "Achakpa", "Anakuma", "Angudu", "Antso", "Atawa", "Cheakiyne", "Daudu", "Gogo", "Gyushage", "Ichergbe", "Ijoh", "Ikoanenge", "Iye", "Jugudu", "Kaseyo", "Madaki", "Magum", "Nalegh", "Nyiev", "Ortserga", "Peregh", "Sherev", "Talvough", "Torkula", "Toura", "Tse-Akenyi", "Tse-Tule", "Ubo", "Udei", "Uikpam", "Ukaa", "Umenger", "Yelewatta", "Yeshewe", "Yogbo"]
         },
         "7": {
             "name": "Gwer East",
             "official": "Gwer East Local Government",
-            "areas": [
-                "Aliade", "Abafakyai", "Ainu", "Boko", "Chia", "Eron", "Gbuka", "Gigi", "Mbaav Oju", "Mbe", "Ndom", "Noal", "Tse-Ogbe", "Ukpute", "Abwa", "Acheche", "Agono", "Ajukum", "Ameche", "Aondoana", "Ate", "Azom", "Dagi", "Dura", "Gaadi", "Gari", "Howe", "Maga", "Mba", "Mbajeri", "Odusho", "Orga", "Ortserga", "Ringa", "Shawa", "Taraku", "Tseboaga", "Tseiko", "Ugee", "Ugesa", "Ukari", "Ukpar", "Unende", "Zauka", "Abiem", "Abinsi", "Agbede", "Agena", "Agute", "Akawe", "Awasir", "Ayar", "Dogo", "Ikpayongo", "Kpam", "Mase", "Mbaayande", "Mbaiyur", "Mbakaha", "Nev", "Yonov"
-            ]
+            "areas": ["Aliade", "Abafakyai", "Ainu", "Boko", "Chia", "Eron", "Gbuka", "Gigi", "Mbaav Oju", "Mbe", "Ndom", "Noal", "Tse-Ogbe", "Ukpute", "Abwa", "Acheche", "Agono", "Ajukum", "Ameche", "Aondoana", "Ate", "Azom", "Dagi", "Dura", "Gaadi", "Gari", "Howe", "Maga", "Mba", "Mbajeri", "Odusho", "Orga", "Ortserga", "Ringa", "Shawa", "Taraku", "Tseboaga", "Tseiko", "Ugee", "Ugesa", "Ukari", "Ukpar", "Unende", "Zauka", "Abiem", "Abinsi", "Agbede", "Agena", "Agute", "Akawe", "Awasir", "Ayar", "Dogo", "Ikpayongo", "Kpam", "Mase", "Mbaayande", "Mbaiyur", "Mbakaha", "Nev", "Yonov"]
         },
         "8": {
             "name": "Gwer West",
             "official": "Gwer West Local Government",
-            "areas": [
-                "Naka", "Achamegh", "Achav", "Achu", "Adizenga", "Adum", "Agbakwa", "Agboveyav", "Akume", "Aondona", "Apenda", "Awambe", "Ayemegh", "Deda", "Gbande", "Ginde", "Jimba", "Kula", "Nyitom", "Oga", "Shaga", "Tom Anyin", "Tom Atar", "Tse-Unzughul", "Tsean", "Uche", "Udam", "Usa", "Abiah", "Adudu", "Agagbe", "Agasha", "Agberagba", "Agusu", "Anyamile", "Api", "Audu", "Avine", "Azon", "Borkem", "Byer", "Chile", "Enyer", "Ewo", "Gbanya", "Gebe", "Ibor", "Ichicadu", "Ikyande", "Nugi", "Senjev", "Tongov", "Tyoatee", "Tyulen", "Ududu", "Yagba"
-            ]
+            "areas": ["Naka", "Achamegh", "Achav", "Achu", "Adizenga", "Adum", "Agbakwa", "Agboveyav", "Akume", "Aondona", "Apenda", "Awambe", "Ayemegh", "Deda", "Gbande", "Ginde", "Jimba", "Kula", "Nyitom", "Oga", "Shaga", "Tom Anyin", "Tom Atar", "Tse-Unzughul", "Tsean", "Uche", "Udam", "Usa", "Abiah", "Adudu", "Agagbe", "Agasha", "Agberagba", "Agusu", "Anyamile", "Api", "Audu", "Avine", "Azon", "Borkem", "Byer", "Chile", "Enyer", "Ewo", "Gbanya", "Gebe", "Ibor", "Ichicadu", "Ikyande", "Nugi", "Senjev", "Tongov", "Tyoatee", "Tyulen", "Ududu", "Yagba"]
         },
         "9": {
             "name": "Katsina-Ala",
             "official": "Katsina-Ala Local Government",
-            "areas": [
-                "Katsina-Ala", "Abaijir", "Abaji", "Amaafu", "Gbor Tongov", "Mbaghon", "Saa", "Tomanyiin", "Tongov", "Tor Donga"
-            ]
+            "areas": ["Katsina-Ala", "Abaijir", "Abaji", "Amaafu", "Gbor Tongov", "Mbaghon", "Saa", "Tomanyiin", "Tongov", "Tor Donga"]
         },
         "10": {
             "name": "Konshisha",
             "official": "Konshisha Local Government",
-            "areas": [
-                "Tse-Agberagba", "Aba", "Abagi", "Achoho", "Aduu", "Agen", "Agera", "Agerega", "Agheede", "Agidi", "Akesa", "Akputu", "Amule", "Ankaaye", "Atingel", "Atorkaan", "Awajir", "Awuhe", "Ayeer", "Azem", "Bonta", "Chia", "Deke", "Dio", "Gbajema", "Gbende", "Gboho", "Igbor", "Iger", "Iku Mbur", "Ikyon", "Ityogbeda", "Jov", "Kuaa", "Ligon", "Manta", "Mbaakpur", "Mbaikyu", "Mbeagh", "Nalegh", "Nenge", "Ortungu", "Selagi", "Shiriki", "Shom", "Talvough", "Tile", "Tor Mkar", "Tsue", "Tyo-Tsar", "Tyoate", "Tyough", "Ugbaikyo", "Unow", "Ya-Akur", "Yande", "Yogbo"
-            ]
+            "areas": ["Tse-Agberagba", "Aba", "Abagi", "Achoho", "Aduu", "Agen", "Agera", "Agerega", "Agheede", "Agidi", "Akesa", "Akputu", "Amule", "Ankaaye", "Atingel", "Atorkaan", "Awajir", "Awuhe", "Ayeer", "Azem", "Bonta", "Chia", "Deke", "Dio", "Gbajema", "Gbende", "Gboho", "Igbor", "Iger", "Iku Mbur", "Ikyon", "Ityogbeda", "Jov", "Kuaa", "Ligon", "Manta", "Mbaakpur", "Mbaikyu", "Mbeagh", "Nalegh", "Nenge", "Ortungu", "Selagi", "Shiriki", "Shom", "Talvough", "Tile", "Tor Mkar", "Tsue", "Tyo-Tsar", "Tyoate", "Tyough", "Ugbaikyo", "Unow", "Ya-Akur", "Yande", "Yogbo"]
         },
         "11": {
             "name": "Kwande",
             "official": "Kwande Local Government",
-            "areas": [
-                "Adikpo", "Achia", "Adagi", "Ada", "Ageraga", "Ahile", "Ahundu", "Ajio", "Amahundu", "Anatio", "Angir Uyough", "Anwase", "Atsortjaki", "Ayaga", "Abo", "Barakur", "Boagundu", "Dio", "Gbajur", "Gever", "Geso", "Gube", "Haanya", "Ichor", "Igon", "Ikurav-ya", "Ikyogen", "Ikyoor", "Ikume", "Injiov", "Inundur", "Iohanga", "Ityough", "Iyon", "Iyon-Mbahav", "Jato-Aka", "Kanem", "Kende", "Kookoko", "Kuhe", "Manayam", "Manor", "Mbaga", "Mbangough", "Nambe", "Nyihemba", "Susu", "Tse-Apera", "Uno", "Upev-Adagi", "Waya", "Yaji", "Yonge", "Zel"
-            ]
+            "areas": ["Adikpo", "Achia", "Adagi", "Ada", "Ageraga", "Ahile", "Ahundu", "Ajio", "Amahundu", "Anatio", "Angir Uyough", "Anwase", "Atsortjaki", "Ayaga", "Abo", "Barakur", "Boagundu", "Dio", "Gbajur", "Gever", "Geso", "Gube", "Haanya", "Ichor", "Igon", "Ikurav-ya", "Ikyogen", "Ikyoor", "Ikume", "Injiov", "Inundur", "Iohanga", "Ityough", "Iyon", "Iyon-Mbahav", "Jato-Aka", "Kanem", "Kende", "Kookoko", "Kuhe", "Manayam", "Manor", "Mbaga", "Mbangough", "Nambe", "Nyihemba", "Susu", "Tse-Apera", "Uno", "Upev-Adagi", "Waya", "Yaji", "Yonge", "Zel"]
         },
         "12": {
             "name": "Logo",
             "official": "Logo Local Government",
-            "areas": [
-                "Ugba", "Zaki Biam", "Abeda", "Agbum", "Anyibe", "Arege", "Ayilamo", "Dooshima", "Ibukur", "Igbogh", "Iyorzua", "Jootar", "Lorja", "Mchia", "Shina", "Tse-Chembe", "Tse-Ighur", "Tse-Jime", "Tse-Ngbian", "Tse-Wande", "Tyoban", "Uze", "Yomatar", "Abaji", "Abako", "Abega", "Ajungwa", "Akella", "Anyom", "Atumbe", "Chenchenji", "Gawa", "Gbise", "Gudu", "Harga", "Imande-Mbakange", "Kenvanger", "Mbakyer", "Nagu", "Ngokem", "Sai", "Tor-Donga", "Tse-Bavel", "Tse-De", "Tse-Hungwa", "Tse-Kyal", "Tse-Mayange", "Vingir", "Abuda", "Ankum", "Gbena", "Gulgul", "Hiitom", "Ikyeagba", "Imande Shikaan", "Kumpa", "Saaku", "Sonko", "Tse-Asongo", "Tse-Bente", "Tse-Igbe", "Tsenongo", "Ucha", "Agahyande", "Agber", "Amber", "Bum", "Kela", "Ngibo", "Tse-Gber"
-            ]
+            "areas": ["Ugba", "Zaki Biam", "Abeda", "Agbum", "Anyibe", "Arege", "Ayilamo", "Dooshima", "Ibukur", "Igbogh", "Iyorzua", "Jootar", "Lorja", "Mchia", "Shina", "Tse-Chembe", "Tse-Ighur", "Tse-Jime", "Tse-Ngbian", "Tse-Wande", "Tyoban", "Uze", "Yomatar", "Abaji", "Abako", "Abega", "Ajungwa", "Akella", "Anyom", "Atumbe", "Chenchenji", "Gawa", "Gbise", "Gudu", "Harga", "Imande-Mbakange", "Kenvanger", "Mbakyer", "Nagu", "Ngokem", "Sai", "Tor-Donga", "Tse-Bavel", "Tse-De", "Tse-Hungwa", "Tse-Kyal", "Tse-Mayange", "Vingir", "Abuda", "Ankum", "Gbena", "Gulgul", "Hiitom", "Ikyeagba", "Imande Shikaan", "Kumpa", "Saaku", "Sonko", "Tse-Asongo", "Tse-Bente", "Tse-Igbe", "Tsenongo", "Ucha", "Agahyande", "Agber", "Amber", "Bum", "Kela", "Ngibo", "Tse-Gber"]
         },
         "13": {
             "name": "Makurdi",
             "official": "Makurdi Local Government",
-            "areas": [
-                "Makurdi", "Adaka", "Adeke", "Agbeshir", "Akpehe", "Alla", "Anter", "Apir", "Azuu", "Beetseh", "Bogo", "Central Ward", "Chekwar", "Eya", "High Level", "Ibume", "Ikan", "Kachi", "New GRA", "Nyiman", "Old GRA", "Ongbo", "Tatyough", "Toighor", "Tsuambu", "Tsuwa", "Tyonambe", "Ubebe", "Uve", "Wadata", "Wamkor", "Wurukum", "Yaiko"
-            ]
+            "areas": ["Makurdi", "Adaka", "Adeke", "Agbeshir", "Akpehe", "Alla", "Anter", "Apir", "Azuu", "Beetseh", "Bogo", "Central Ward", "Chekwar", "Eya", "High Level", "Ibume", "Ikan", "Kachi", "New GRA", "Nyiman", "Old GRA", "Ongbo", "Tatyough", "Toighor", "Tsuambu", "Tsuwa", "Tyonambe", "Ubebe", "Uve", "Wadata", "Wamkor", "Wurukum", "Yaiko"]
         },
         "14": {
             "name": "Obi",
             "official": "Obi Local Government",
-            "areas": [
-                "Obarike-Ito", "Agbadi", "Ibiriku", "Itogo-Ekingo", "Mangel", "Obi", "Okwoyi", "Ukpe"
-            ]
+            "areas": ["Obarike-Ito", "Agbadi", "Ibiriku", "Itogo-Ekingo", "Mangel", "Obi", "Okwoyi", "Ukpe"]
         },
         "15": {
             "name": "Ogbadibo",
             "official": "Ogbadibo Local Government",
-            "areas": [
-                "Otukpa", "Abo", "Adepe", "Adum", "Adum-Oko", "Agbafu", "Ago", "Ai-Ona", "Aikwu", "Akpagidigbo", "Court-Otukpa", "Ebari", "Ebudu", "Efeche", "Efekwo", "Efocho", "Efugo", "Eha-Otukpa", "Ejema", "Elugu", "Enyajuru", "Ibiladu", "Idede", "Idiri", "Ijadoja", "Ikemu", "Imeyi", "Ipari", "Ipole Abo", "Ipole-Adupi", "Ipole-Ako", "Ipole-Iyiru", "Ipole-Oko", "Ipu-Ugbogbo", "Itesi", "Leke", "Obenda", "Ocheje", "Obu", "Oda", "Odoba", "Ofojo", "Ogaje", "Ogene", "Ogonkwu", "Ogwurute", "Olabekpa", "Oladu", "Olagwuche", "Olamago", "Oloche", "Ole-Igwu", "Oleche", "Orido", "Orokam", "Oto", "Oture", "Owoso", "Owukpa", "Owuruwuru", "Ugbagba-Ako", "Ugbamaka", "Ugbogidi", "Ugbogwu", "Ugbokpo", "Ukalegu-Igwu", "Ukporo"
-            ]
+            "areas": ["Otukpa", "Abo", "Adepe", "Adum", "Adum-Oko", "Agbafu", "Ago", "Ai-Ona", "Aikwu", "Akpagidigbo", "Court-Otukpa", "Ebari", "Ebudu", "Efeche", "Efekwo", "Efocho", "Efugo", "Eha-Otukpa", "Ejema", "Elugu", "Enyajuru", "Ibiladu", "Idede", "Idiri", "Ijadoja", "Ikemu", "Imeyi", "Ipari", "Ipole Abo", "Ipole-Adupi", "Ipole-Ako", "Ipole-Iyiru", "Ipole-Oko", "Ipu-Ugbogbo", "Itesi", "Leke", "Obenda", "Ocheje", "Obu", "Oda", "Odoba", "Ofojo", "Ogaje", "Ogene", "Ogonkwu", "Ogwurute", "Olabekpa", "Oladu", "Olagwuche", "Olamago", "Oloche", "Ole-Igwu", "Oleche", "Orido", "Orokam", "Oto", "Oture", "Owoso", "Owukpa", "Owuruwuru", "Ugbagba-Ako", "Ugbamaka", "Ugbogidi", "Ugbogwu", "Ugbokpo", "Ukalegu-Igwu", "Ukporo"]
         },
         "16": {
             "name": "Ohimini",
             "official": "Ohimini Local Government",
-            "areas": [
-                "Idekpa", "Adankari", "Adankali", "Adim", "Agbeke", "Agwa", "Ahanyo", "Aigaji", "Ajegbe", "Akwepa", "Akwete", "Alagblanu", "Allan", "Amoda", "Angue", "Anmaji", "Anwule", "Anonomi", "Atapa", "Atitio", "Atlo", "Aturukpo", "Awulema", "Eboya", "Ebu", "Egbla", "Egbla Ndikwi", "Egbla Nje", "Ehatope", "Ejo", "Elulu", "Enichi", "Enyioji", "Epideru", "Idabi", "Igbeji", "Igbudeke", "Ijaha", "Ikila", "Ikpolle", "Ipiga", "Isoo", "Iyanya", "Nachi", "Obanyo", "Ochobo", "Ochobo-Centre", "Odega", "Odonto", "Ogande", "Ogodu", "Ogofu", "Ofiloko", "Ogwuche", "Ojali", "Ojano", "Ojigo", "Okete", "Okpenen", "Olugbane", "Omajaga", "Omebe", "Ondo", "Onyepa", "Onyuwei", "Otobi Camp", "Otoje", "Otohia", "Ugene", "Ugene-Icho", "Ukploko", "Ukpobi-Echaje"
-            ]
+            "areas": ["Idekpa", "Adankari", "Adankali", "Adim", "Agbeke", "Agwa", "Ahanyo", "Aigaji", "Ajegbe", "Akwepa", "Akwete", "Alagblanu", "Allan", "Amoda", "Angue", "Anmaji", "Anwule", "Anonomi", "Atapa", "Atitio", "Atlo", "Aturukpo", "Awulema", "Eboya", "Ebu", "Egbla", "Egbla Ndikwi", "Egbla Nje", "Ehatope", "Ejo", "Elulu", "Enichi", "Enyioji", "Epideru", "Idabi", "Igbeji", "Igbudeke", "Ijaha", "Ikila", "Ikpolle", "Ipiga", "Isoo", "Iyanya", "Nachi", "Obanyo", "Ochobo", "Ochobo-Centre", "Odega", "Odonto", "Ogande", "Ogodu", "Ogofu", "Ofiloko", "Ogwuche", "Ojali", "Ojano", "Ojigo", "Okete", "Okpenen", "Olugbane", "Omajaga", "Omebe", "Ondo", "Onyepa", "Onyuwei", "Otobi Camp", "Otoje", "Otohia", "Ugene", "Ugene-Icho", "Ukploko", "Ukpobi-Echaje"]
         },
         "17": {
             "name": "Oju",
             "official": "Oju Local Government",
-            "areas": [
-                "Oju", "Abelega", "Abofutu", "Adega", "Adiko", "Adum", "Adum-Okete", "Ainu-Ette", "Akiraba", "Akunda", "Alloma", "Ameka", "Anchim", "Andibilla", "Anyadegwu", "Anwu", "Arigede", "Atekpe", "Ayoye", "Ebenda", "Ebonta", "Echoro", "Edumoga", "Ega", "Eja", "Ekingo", "Ekoti", "Ekpong", "Enugu-Oye", "Esewa", "Ibalakum", "Ibegi", "Ibillalukpo", "Idajo", "Idele", "Ihulam", "Ijegwu", "Ijokwe", "Ikachi", "Ikandiye", "Ikiriye", "Ikomi", "Imoho", "Inyuma", "Irabi", "Itakpa", "Itega", "Itikpala", "Ito", "Iyaho", "Iyeche", "Oba-Ogebe", "Obachita", "Obi", "Obigwe", "Obohu", "Oboru", "Obotu", "Obubu", "Obuza", "Ochimode", "Oduda", "Oga-Olowa", "Ogede", "Ogogo", "Ogoro", "Ohehe", "Ohirigwe", "Ohoho", "Ohuma", "Ohuye", "Ojantile", "Ojinyi", "Ojenya", "Ojor", "Ojuwo", "Okakongo", "Okete", "Okileme", "Okpinya", "Okpirikwu", "Okpokwu", "Okpoma", "Okukukwu", "Omope", "Onyike", "Orihi", "Oshirigwe", "Otakini", "Otakpi", "Otokwe", "Owo", "Oye", "Oyinyi", "Ubeke", "Ubele", "Udebor", "Udegi", "Ugbodom", "Uje", "Ukpa", "Ukpuleru", "Utugboji", "Yeshewe"
-            ]
+            "areas": ["Oju", "Abelega", "Abofutu", "Adega", "Adiko", "Adum", "Adum-Okete", "Ainu-Ette", "Akiraba", "Akunda", "Alloma", "Ameka", "Anchim", "Andibilla", "Anyadegwu", "Anwu", "Arigede", "Atekpe", "Ayoye", "Ebenda", "Ebonta", "Echoro", "Edumoga", "Ega", "Eja", "Ekingo", "Ekoti", "Ekpong", "Enugu-Oye", "Esewa", "Ibalakum", "Ibegi", "Ibillalukpo", "Idajo", "Idele", "Ihulam", "Ijegwu", "Ijokwe", "Ikachi", "Ikandiye", "Ikiriye", "Ikomi", "Imoho", "Inyuma", "Irabi", "Itakpa", "Itega", "Itikpala", "Ito", "Iyaho", "Iyeche", "Oba-Ogebe", "Obachita", "Obi", "Obigwe", "Obohu", "Oboru", "Obotu", "Obubu", "Obuza", "Ochimode", "Oduda", "Oga-Olowa", "Ogede", "Ogogo", "Ogoro", "Ohehe", "Ohirigwe", "Ohoho", "Ohuma", "Ohuye", "Ojantile", "Ojinyi", "Ojenya", "Ojor", "Ojuwo", "Okakongo", "Okete", "Okileme", "Okpinya", "Okpirikwu", "Okpokwu", "Okpoma", "Okukukwu", "Omope", "Onyike", "Orihi", "Oshirigwe", "Otakini", "Otakpi", "Otokwe", "Owo", "Oye", "Oyinyi", "Ubeke", "Ubele", "Udebor", "Udegi", "Ugbodom", "Uje", "Ukpa", "Ukpuleru", "Utugboji", "Yeshewe"]
         },
         "18": {
             "name": "Okpokwu",
             "official": "Okpokwu Local Government",
-            "areas": [
-                "Okpoga", "Acho", "Adum", "Adiga", "Adiga Oyira", "Agado", "Agene", "Agbangwe", "Ai-Anechi", "Ai-Ochokpo", "Aidogodo", "Aiede", "Aiagom", "Ajide", "Akaga", "Akpakpa", "Akpitodo-Akpaya", "Akpodo", "Akpuneje", "Amafu", "Amuju", "Aokete", "Aokpe", "Atekpo", "Ebodahubi", "Ede-Okpaga", "Effion", "Efoyo", "Ejaa", "Ejema", "Ekenobi", "Ichana", "Idiri", "Idobe", "Idoko-Aga", "Igama", "Ijeha", "Ikonijo", "Ipele-Ohebe", "Ipole-Aiagbo", "Ipole-Aiebega", "Ipole-Aikpe", "Ipoya", "Iwewe", "Obotu-Ehaje", "Obotu-Icho", "Obulu", "Odaba", "Ode-Sasa", "Odokpo", "Oduda", "Ogbaga", "Ogblega", "Ogbodo", "Ogene", "Ogodum", "Ogomotu", "Ogwuche Akpa", "Ojigo", "Ojocha", "Ojoga", "Okadoga", "Okana", "Oklenyi", "Okpafie", "Okpale", "Okpilioho", "Okpudu", "Oladegbo", "Olago", "Olaidu", "Olaioleje", "Olanyega", "Oleayidu", "Ollo", "Oma", "Omolokpo", "Omusu", "Otobi", "Ugbokolo", "Ugbokpo"
-            ]
+            "areas": ["Okpoga", "Acho", "Adum", "Adiga", "Adiga Oyira", "Agado", "Agene", "Agbangwe", "Ai-Anechi", "Ai-Ochokpo", "Aidogodo", "Aiede", "Aiagom", "Ajide", "Akaga", "Akpakpa", "Akpitodo-Akpaya", "Akpodo", "Akpuneje", "Amafu", "Amuju", "Aokete", "Aokpe", "Atekpo", "Ebodahubi", "Ede-Okpaga", "Effion", "Efoyo", "Ejaa", "Ejema", "Ekenobi", "Ichana", "Idiri", "Idobe", "Idoko-Aga", "Igama", "Ijeha", "Ikonijo", "Ipele-Ohebe", "Ipole-Aiagbo", "Ipole-Aiebega", "Ipole-Aikpe", "Ipoya", "Iwewe", "Obotu-Ehaje", "Obotu-Icho", "Obulu", "Odaba", "Ode-Sasa", "Odokpo", "Oduda", "Ogbaga", "Ogblega", "Ogbodo", "Ogene", "Ogodum", "Ogomotu", "Ogwuche Akpa", "Ojigo", "Ojocha", "Ojoga", "Okadoga", "Okana", "Oklenyi", "Okpafie", "Okpale", "Okpilioho", "Okpudu", "Oladegbo", "Olago", "Olaidu", "Olaioleje", "Olanyega", "Oleayidu", "Ollo", "Oma", "Omolokpo", "Omusu", "Otobi", "Ugbokolo", "Ugbokpo"]
         },
         "19": {
             "name": "Otukpo",
             "official": "Otukpo Local Government",
-            "areas": [
-                "Otukpo", "Abache", "Adoka", "Aibeli", "Aichene", "Aikolekwu", "Aiobiduwa", "Ajobe", "Ajochoko", "Akpa", "Akpachi", "Akpachi-Ipepe", "Akpachi-Ipole", "Akpegede", "Alaglanu", "Amla-Ehaje", "Amla-Icho", "Angbier", "Anwule", "Aukpa", "Aune", "Ebologba", "Eeko", "Edikwu", "Efa", "Ekantili", "Emichi", "Eyokpa", "Ibaji", "Idabi", "Ife", "Ifete-Enumaje", "Ikobi", "Ipakangwu", "Ipepe", "Ipola-Ehaje", "Ipolo-Ologbe", "Ipom-Icho", "Ipole", "Itoo", "Iwili", "Obaganya", "Obena", "Obo", "Obotu-Ehaje", "Obotu-Icho", "Odaubi", "Oduda", "Odudaje", "Ofiloko", "Ofete-Olobele", "Ogbago", "Ogobia", "Ogodum", "Ogoli", "Ogome", "Ogowu", "Ojakpama", "Ojanowa", "Ojegidigbe", "Ojantelle", "Ojinebe", "Oklenyi-Uga", "Okoto", "Okpaflo", "Okpligwu", "Okpannehe", "Okpeje", "Okpobeka", "Okwudu", "Olachinta", "Olakpoga", "Olegwaneku", "Olekpama", "Oleogwoja", "Olegwaneku", "Oloke", "Olokodeje", "Olooja", "Ombi-Ehaje", "Ombi-Icho", "Ona", "Onaje", "Onipi", "Opah Adoka", "Otada", "Otobi-Otukpo", "Otukpo-Icho", "Otukpo-Nobi", "Owoto", "Udabi", "Uga", "Ukplago", "Umalichi", "Umogidi", "Upu", "Upu London", "Upu-Icho"
-            ]
+            "areas": ["Otukpo", "Abache", "Adoka", "Aibeli", "Aichene", "Aikolekwu", "Aiobiduwa", "Ajobe", "Ajochoko", "Akpa", "Akpachi", "Akpachi-Ipepe", "Akpachi-Ipole", "Akpegede", "Alaglanu", "Amla-Ehaje", "Amla-Icho", "Angbier", "Anwule", "Aukpa", "Aune", "Ebologba", "Eeko", "Edikwu", "Efa", "Ekantili", "Emichi", "Eyokpa", "Ibaji", "Idabi", "Ife", "Ifete-Enumaje", "Ikobi", "Ipakangwu", "Ipepe", "Ipola-Ehaje", "Ipolo-Ologbe", "Ipom-Icho", "Ipole", "Itoo", "Iwili", "Obaganya", "Obena", "Obo", "Obotu-Ehaje", "Obotu-Icho", "Odaubi", "Oduda", "Odudaje", "Ofiloko", "Ofete-Olobele", "Ogbago", "Ogobia", "Ogodum", "Ogoli", "Ogome", "Ogowu", "Ojakpama", "Ojanowa", "Ojegidigbe", "Ojantelle", "Ojinebe", "Oklenyi-Uga", "Okoto", "Okpaflo", "Okpligwu", "Okpannehe", "Okpeje", "Okpobeka", "Okwudu", "Olachinta", "Olakpoga", "Olegwaneku", "Olekpama", "Oleogwoja", "Olegwaneku", "Oloke", "Olokodeje", "Olooja", "Ombi-Ehaje", "Ombi-Icho", "Ona", "Onaje", "Onipi", "Opah Adoka", "Otada", "Otobi-Otukpo", "Otukpo-Icho", "Otukpo-Nobi", "Owoto", "Udabi", "Uga", "Ukplago", "Umalichi", "Umogidi", "Upu", "Upu London", "Upu-Icho"]
         },
         "20": {
             "name": "Tarka",
             "official": "Tarka Local Government",
-            "areas": [
-                "Wannune", "Akoodo", "Akpa-Agudo", "Akpa-Ambajir", "Amo", "Asukunya", "Chia", "Iche Amazwa", "Jingir", "Kamken", "Mbakor", "Nyambee", "Tarhembe", "Tasbo", "Uchi", "Uku", "Ukyo", "Zango-Wannune"
-            ]
+            "areas": ["Wannune", "Akoodo", "Akpa-Agudo", "Akpa-Ambajir", "Amo", "Asukunya", "Chia", "Iche Amazwa", "Jingir", "Kamken", "Mbakor", "Nyambee", "Tarhembe", "Tasbo", "Uchi", "Uku", "Ukyo", "Zango-Wannune"]
         },
         "21": {
             "name": "Ukum",
             "official": "Ukum Local Government",
-            "areas": [
-                "Sankera", "Zaki Biam", "Afia", "Amuta", "Gbeji", "Gyenku", "Korwua Agbatar", "Tse-Abenga", "Tse-Abuul", "Tse-Aliutse", "Tse-Anchagbel", "Tse-Anonogo-Or", "Tse-Atsanga", "Tse-Ayali", "Tse-Azawe", "Tse-Choko", "Tse-Goji", "Tse-Gube", "Tse-Kulevbe", "Tse-Kyenge", "Tse-Mela", "Tse-Oryango", "Tse-Truga", "Tse-Tyondo", "Tse-Ukende", "Vaase"
-            ]
+            "areas": ["Sankera", "Zaki Biam", "Afia", "Amuta", "Gbeji", "Gyenku", "Korwua Agbatar", "Tse-Abenga", "Tse-Abuul", "Tse-Aliutse", "Tse-Anchagbel", "Tse-Anonogo-Or", "Tse-Atsanga", "Tse-Ayali", "Tse-Azawe", "Tse-Choko", "Tse-Goji", "Tse-Gube", "Tse-Kulevbe", "Tse-Kyenge", "Tse-Mela", "Tse-Oryango", "Tse-Truga", "Tse-Tyondo", "Tse-Ukende", "Vaase"]
         },
         "22": {
             "name": "Ushongo",
             "official": "Ushongo Local Government",
-            "areas": [
-                "Lessel", "Abayol", "Abuul", "Adeeger", "Adiga", "Adikipo Mbaagwa", "Agoyo", "Akoko", "Alu", "Ameraga", "Antyu", "Atuuku", "Banji", "Ber-Agbum", "Boor", "Chubu", "Danji", "Dughen", "Gbaka", "Gbatse", "Gbinde", "Ge-Mbayem", "Gege", "Hegha", "Hiitom Orbiam", "Igbor", "Ikpakpam", "Ikyobo", "Kartyo", "Korinjo", "Kwabula", "Laadi", "Lessel", "Madugwu", "Manor", "Mbai-Igbaikyor", "Moti", "Msa", "Mtsenan", "Nor", "Posu", "Sati", "Tarungwa", "Tema", "Terna", "Tse-Abada", "Tse-Gbinde", "Tse-Nyagba", "Tse-Pan-Anum", "Tse-Sokpo", "Tsedum", "Uazande", "Ude", "Uga", "Ugondo", "Uker", "Uso", "Ushongo", "Wajir", "Wuha", "Yaji", "Yam"
-            ]
+            "areas": ["Lessel", "Abayol", "Abuul", "Adeeger", "Adiga", "Adikipo Mbaagwa", "Agoyo", "Akoko", "Alu", "Ameraga", "Antyu", "Atuuku", "Banji", "Ber-Agbum", "Boor", "Chubu", "Danji", "Dughen", "Gbaka", "Gbatse", "Gbinde", "Ge-Mbayem", "Gege", "Hegha", "Hiitom Orbiam", "Igbor", "Ikpakpam", "Ikyobo", "Kartyo", "Korinjo", "Kwabula", "Laadi", "Lessel", "Madugwu", "Manor", "Mbai-Igbaikyor", "Moti", "Msa", "Mtsenan", "Nor", "Posu", "Sati", "Tarungwa", "Tema", "Terna", "Tse-Abada", "Tse-Gbinde", "Tse-Nyagba", "Tse-Pan-Anum", "Tse-Sokpo", "Tsedum", "Uazande", "Ude", "Uga", "Ugondo", "Uker", "Uso", "Ushongo", "Wajir", "Wuha", "Yaji", "Yam"]
         },
         "23": {
             "name": "Vandeikya",
             "official": "Vandeikya Local Government",
-            "areas": [
-                "Vandeikya", "Adeiyongo", "Adigi-Mbakena", "Adonai", "Agirgba", "Aginde", "Aginde", "Agra", "Ahile Jime", "Ako Abwa", "Ankar", "Anongo", "Anza Tokuyo", "Atayo", "Bako", "Betse", "Branch Atser", "Chenge", "Dagba", "Dav", "Gbagbongom", "Gbe", "Gbegba", "Gorkem", "Guba", "Gude", "Hembe", "Ifan", "Ihugh", "Ikpoikpo", "Ivenge", "Jape", "Kaamem", "Kiishi", "Korinya", "Koti-Yough", "Kpamor", "Labe", "Lijam Mue", "Mandun", "Mbaakon", "Mbayongo", "Mde", "Mfor", "Moji", "Naa", "Ndete", "Nor-Gemaityo", "Nyaro", "Pev", "Sambe", "Sati", "Shan", "Shangbum", "Taatihi", "Tile", "Timbir", "Tsar", "Tsambe", "Tse-Atuul", "Tse-Dabo", "Tse-Gedege", "Tse-Isua", "Tse-Ji", "Tse-Kase Nor", "Tse-Kpum", "Tse-Mker", "Tse-Nduul", "Tse-Sho", "Tse-Wande", "Tyemimongo", "Uganden", "Uka", "Yaaya"
-            ]
+            "areas": ["Vandeikya", "Adeiyongo", "Adigi-Mbakena", "Adonai", "Agirgba", "Aginde", "Aginde", "Agra", "Ahile Jime", "Ako Abwa", "Ankar", "Anongo", "Anza Tokuyo", "Atayo", "Bako", "Betse", "Branch Atser", "Chenge", "Dagba", "Dav", "Gbagbongom", "Gbe", "Gbegba", "Gorkem", "Guba", "Gude", "Hembe", "Ifan", "Ihugh", "Ikpoikpo", "Ivenge", "Jape", "Kaamem", "Kiishi", "Korinya", "Koti-Yough", "Kpamor", "Labe", "Lijam Mue", "Mandun", "Mbaakon", "Mbayongo", "Mde", "Mfor", "Moji", "Naa", "Ndete", "Nor-Gemaityo", "Nyaro", "Pev", "Sambe", "Sati", "Shan", "Shangbum", "Taatihi", "Tile", "Timbir", "Tsar", "Tsambe", "Tse-Atuul", "Tse-Dabo", "Tse-Gedege", "Tse-Isua", "Tse-Ji", "Tse-Kase Nor", "Tse-Kpum", "Tse-Mker", "Tse-Nduul", "Tse-Sho", "Tse-Wande", "Tyemimongo", "Uganden", "Uka", "Yaaya"]
         }
     }
 }

@@ -24,149 +24,107 @@
         "1": {
             "name": "Aguata",
             "official": "Aguata Local Government",
-            "areas": [
-                "Ekwulobia", "Achina", "Akpo", "Amesi", "Ezinifite", "Igbo-Ukwu", "Ikenga", "Isuofia", "Mgboji", "Nkpologwu", "Oraeri", "Uga", "Umuchu", "Umuona"
-            ]
+            "areas": ["Ekwulobia", "Achina", "Akpo", "Amesi", "Ezinifite", "Igbo-Ukwu", "Ikenga", "Isuofia", "Mgboji", "Nkpologwu", "Oraeri", "Uga", "Umuchu", "Umuona"]
         },
         "2": {
             "name": "Awka North",
             "official": "Awka North Local Government",
-            "areas": [
-                "Achalla", "Amansea", "Amanuke", "Awba Ofemili", "Ebenebe", "Isu-Aniocha", "Mgbakwu", "Ugbene", "Ugbenu", "Urum"
-            ]
+            "areas": ["Achalla", "Amansea", "Amanuke", "Awba Ofemili", "Ebenebe", "Isu-Aniocha", "Mgbakwu", "Ugbene", "Ugbenu", "Urum"]
         },
         "3": {
             "name": "Awka South",
             "official": "Awka South Local Government",
-            "areas": [
-                "Awka", "Amawbia", "Isiagu", "Mbaukwu", "Nibo", "Nise", "Okpuno", "Umuawulu"
-            ]
+            "areas": ["Awka", "Amawbia", "Isiagu", "Mbaukwu", "Nibo", "Nise", "Okpuno", "Umuawulu"]
         },
         "4": {
             "name": "Anambra East",
             "official": "Anambra East Local Government",
-            "areas": [
-                "Otuocha", "Aguleri", "Anam", "Enugwu Aguleri", "Enugwu Otu", "Eziagulu Otu", "Igbariam", "Nando", "Nsugbe", "Umueri"
-            ]
+            "areas": ["Otuocha", "Aguleri", "Anam", "Enugwu Aguleri", "Enugwu Otu", "Eziagulu Otu", "Igbariam", "Nando", "Nsugbe", "Umueri"]
         },
         "5": {
             "name": "Anambra West",
             "official": "Anambra West Local Government",
-            "areas": [
-                "Nzam", "Ezianam", "Ifite Anam", "Olumbanasa", "Oroma Etiti", "Umuenwelum Anam", "Umueze Anam"
-            ]
+            "areas": ["Nzam", "Ezianam", "Ifite Anam", "Olumbanasa", "Oroma Etiti", "Umuenwelum Anam", "Umueze Anam"]
         },
         "6": {
             "name": "Anaocha",
             "official": "Anaocha Local Government",
-            "areas": [
-                "Neni", "Adazi Ani", "Adazi Enu", "Adazi-Nnukwu", "Agukwu Nri", "Agulu", "Aguluzigbo", "Akwaeze", "Ichida", "Nri", "Obeledu"
-            ]
+            "areas": ["Neni", "Adazi Ani", "Adazi Enu", "Adazi-Nnukwu", "Agukwu Nri", "Agulu", "Aguluzigbo", "Akwaeze", "Ichida", "Nri", "Obeledu"]
         },
         "7": {
             "name": "Ayamelum",
             "official": "Ayamelum Local Government",
-            "areas": [
-                "Anaku", "Ifite Ogwari", "Igbakwu", "Omasi", "Omor", "Umumbo", "Umueje", "Umuerum"
-            ]
+            "areas": ["Anaku", "Ifite Ogwari", "Igbakwu", "Omasi", "Omor", "Umumbo", "Umueje", "Umuerum"]
         },
         "8": {
             "name": "Dunukofia",
             "official": "Dunukofia Local Government",
-            "areas": [
-                "Ukpo", "Ifitedunu", "Nawgu", "Ukwulu", "Umudioka", "Umunnachi"
-            ]
+            "areas": ["Ukpo", "Ifitedunu", "Nawgu", "Ukwulu", "Umudioka", "Umunnachi"]
         },
         "9": {
             "name": "Ekwusigo",
             "official": "Ekwusigo Local Government",
-            "areas": [
-                "Ozubulu", "Ichi", "Ihembosi", "Oraifite"
-            ]
+            "areas": ["Ozubulu", "Ichi", "Ihembosi", "Oraifite"]
         },
         "10": {
             "name": "Idemili North",
             "official": "Idemili North Local Government",
-            "areas": [
-                "Ogidi", "Abacha", "Abatete", "Eziowelle", "Ideani", "Nkpor", "Obosi", "Oraukwu", "Uke", "Umuoji"
-            ]
+            "areas": ["Ogidi", "Abacha", "Abatete", "Eziowelle", "Ideani", "Nkpor", "Obosi", "Oraukwu", "Uke", "Umuoji"]
         },
         "11": {
             "name": "Idemili South",
             "official": "Idemili South Local Government",
-            "areas": [
-                "Ojoto", "Akwu-Ukwu", "Alor", "Awka-Etiti", "Nnobi", "Nnokwa", "Oba"
-            ]
+            "areas": ["Ojoto", "Akwu-Ukwu", "Alor", "Awka-Etiti", "Nnobi", "Nnokwa", "Oba"]
         },
         "12": {
             "name": "Ihiala",
             "official": "Ihiala Local Government",
-            "areas": [
-                "Ihiala", "Amorka", "Azia", "Isseke", "Lilu", "Mbosi", "Okija", "Orsumoghu", "Ubuluisuzor", "Uli"
-            ]
+            "areas": ["Ihiala", "Amorka", "Azia", "Isseke", "Lilu", "Mbosi", "Okija", "Orsumoghu", "Ubuluisuzor", "Uli"]
         },
         "13": {
             "name": "Njikoka",
             "official": "Njikoka Local Government",
-            "areas": [
-                "Abagana", "Abba", "Enugwu-Agidi", "Enugwu-Ukwu", "Nawfia", "Nimo"
-            ]
+            "areas": ["Abagana", "Abba", "Enugwu-Agidi", "Enugwu-Ukwu", "Nawfia", "Nimo"]
         },
         "14": {
             "name": "Nnewi North",
             "official": "Nnewi North Local Government",
-            "areas": [
-                "Nnewi", "Nnewichi", "Otolo", "Umudim", "Uruagu"
-            ]
+            "areas": ["Nnewi", "Nnewichi", "Otolo", "Umudim", "Uruagu"]
         },
         "15": {
             "name": "Nnewi South",
             "official": "Nnewi South Local Government",
-            "areas": [
-                "Ukpor", "Akwaihedi", "Amichi", "Azigbo", "Ebenator", "Ekwulumili", "Ezinifite", "Osumenyi", "Unubi", "Utuh"
-            ]
+            "areas": ["Ukpor", "Akwaihedi", "Amichi", "Azigbo", "Ebenator", "Ekwulumili", "Ezinifite", "Osumenyi", "Unubi", "Utuh"]
         },
         "16": {
             "name": "Ogbaru",
             "official": "Ogbaru Local Government",
-            "areas": [
-                "Atani", "Akili Ogidi", "Akili Ozizor", "Amiyi", "Mputu", "Obeagwe", "Ochuche", "Ochuche Umuodu", "Odekpe", "Ogbakuba", "Ogwu Aniocha", "Ogwu Ikpele", "Ohita", "Okpoko", "Oluta", "Ossomala", "Umunankwo", "Umuzu"
-            ]
+            "areas": ["Atani", "Akili Ogidi", "Akili Ozizor", "Amiyi", "Mputu", "Obeagwe", "Ochuche", "Ochuche Umuodu", "Odekpe", "Ogbakuba", "Ogwu Aniocha", "Ogwu Ikpele", "Ohita", "Okpoko", "Oluta", "Ossomala", "Umunankwo", "Umuzu"]
         },
         "17": {
             "name": "Onitsha North",
             "official": "Onitsha North Local Government",
-            "areas": [
-                "Onitsha", "Akpaka", "GRA", "Inland Town", "Iyawu", "Ogbe-Ozala", "Ogboli", "Omagba", "Umuaroli", "Umuasele", "Umuikem", "Umudei", "Isiokwe"
-            ]
+            "areas": ["Onitsha", "Akpaka", "GRA", "Inland Town", "Iyawu", "Ogbe-Ozala", "Ogboli", "Omagba", "Umuaroli", "Umuasele", "Umuikem", "Umudei", "Isiokwe"]
         },
         "18": {
             "name": "Onitsha South",
             "official": "Onitsha South Local Government",
-            "areas": [
-                "Fegge", "Awada", "Ochanja", "Odoakpu", "Upper Iweka", "Woliwo"
-            ]
+            "areas": ["Fegge", "Awada", "Ochanja", "Odoakpu", "Upper Iweka", "Woliwo"]
         },
         "19": {
             "name": "Orumba North",
             "official": "Orumba North Local Government",
-            "areas": [
-                "Ajalli", "Awa", "Awgbu", "Amaetiti", "Amaokpala", "Nanka", "Ndikelionwu", "Ndiokolo", "Ndiokpalaeze", "Ndiowu", "Ndiukwuenu", "Okoh", "Okpeze", "Omogho", "Oko", "Ufuma"
-            ]
+            "areas": ["Ajalli", "Awa", "Awgbu", "Amaetiti", "Amaokpala", "Nanka", "Ndikelionwu", "Ndiokolo", "Ndiokpalaeze", "Ndiowu", "Ndiukwuenu", "Okoh", "Okpeze", "Omogho", "Oko", "Ufuma"]
         },
         "20": {
             "name": "Orumba South",
             "official": "Orumba South Local Government",
-            "areas": [
-                "Umunze", "Akpu", "Eziagu", "Ezira", "Ihite", "Isulo", "Nawfija", "Nkerehi", "Ogboji", "Ogbunka", "Onneh", "Owerre-Ezukala", "Umuomaku"
-            ]
+            "areas": ["Umunze", "Akpu", "Eziagu", "Ezira", "Ihite", "Isulo", "Nawfija", "Nkerehi", "Ogboji", "Ogbunka", "Onneh", "Owerre-Ezukala", "Umuomaku"]
         },
         "21": {
             "name": "Oyi",
             "official": "Oyi Local Government",
-            "areas": [
-                "Nteje", "Awkuzu", "Nkwelle Ezunaka", "Ogbunike", "Umunya"
-            ]
+            "areas": ["Nteje", "Awkuzu", "Nkwelle Ezunaka", "Ogbunike", "Umunya"]
         }
     }
 }

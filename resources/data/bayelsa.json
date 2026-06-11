@@ -24,58 +24,42 @@
         "1": {
             "name": "Brass",
             "official": "Brass Local Government",
-            "areas": [
-                "Twon-Brass", "Akassa", "Egwema", "Ewoama", "Fantuo", "Kongho", "Minibie", "Odioma", "Oginibiri", "Okpoama", "Sangana"
-            ]
+            "areas": ["Twon-Brass", "Akassa", "Egwema", "Ewoama", "Fantuo", "Kongho", "Minibie", "Odioma", "Oginibiri", "Okpoama", "Sangana"]
         },
         "2": {
             "name": "Ekeremor",
             "official": "Ekeremor Local Government",
-            "areas": [
-                "Ekeremor", "Aghoro", "Aleibiri", "Amabulour", "Ananagbene", "Angalawei", "Azagbene", "Bown-Adagbabiri", "Ebikeme-Gbene", "Eduwini", "Egbemo-Angalabiri", "Feremoama", "Fontoru-Gbene", "Isampou", "Lalagbene", "Ndoro", "Obrigbene", "Ogbogbene", "Ogbotobo", "Ogbosuwar", "Oporoma", "Oyiakiri", "Peretou-Gbene", "Tamogbene", "Tamu-Gbene", "Tarakiri", "Tietiegbene", "Toru-Foutorugbene"
-            ]
+            "areas": ["Ekeremor", "Aghoro", "Aleibiri", "Amabulour", "Ananagbene", "Angalawei", "Azagbene", "Bown-Adagbabiri", "Ebikeme-Gbene", "Eduwini", "Egbemo-Angalabiri", "Feremoama", "Fontoru-Gbene", "Isampou", "Lalagbene", "Ndoro", "Obrigbene", "Ogbogbene", "Ogbotobo", "Ogbosuwar", "Oporoma", "Oyiakiri", "Peretou-Gbene", "Tamogbene", "Tamu-Gbene", "Tarakiri", "Tietiegbene", "Toru-Foutorugbene"]
         },
         "3": {
             "name": "Kolokuma/Opokuma",
             "official": "Kolokuma/Opokuma Local Government",
-            "areas": [
-                "Tombia", "Abadaba", "Kaiama", "Kolokuma", "Konbowei", "Okorokon", "Opokuma", "Sampou"
-            ]
+            "areas": ["Tombia", "Abadaba", "Kaiama", "Kolokuma", "Konbowei", "Okorokon", "Opokuma", "Sampou"]
         },
         "4": {
             "name": "Nembe",
             "official": "Nembe Local Government",
-            "areas": [
-                "Nembe", "Bassambiri", "Igbeta-Ewoama", "Ikensi", "Mini", "Odi", "Odioama", "Ogbolomabiri", "Okoroma", "Oluasiri"
-            ]
+            "areas": ["Nembe", "Bassambiri", "Igbeta-Ewoama", "Ikensi", "Mini", "Odi", "Odioama", "Ogbolomabiri", "Okoroma", "Oluasiri"]
         },
         "5": {
             "name": "Ogbia",
             "official": "Ogbia Local Government",
-            "areas": [
-                "Ogbia", "Abobiri", "Anyama", "Ayakoro", "Ebelebiri", "Elebele", "Emadike", "Emeyal", "Epebu", "Ewoma", "Imiringi", "Kolo", "Okodi", "Ologi", "Oloibiri", "Onuebum", "Opume", "Oruema", "Otabi", "Otakeme", "Otuedu", "Otuagbagi", "Otuasega", "Otueke", "Otuobhi", "Otuogidi", "Otuogori", "Otuokpoti"
-            ]
+            "areas": ["Ogbia", "Abobiri", "Anyama", "Ayakoro", "Ebelebiri", "Elebele", "Emadike", "Emeyal", "Epebu", "Ewoma", "Imiringi", "Kolo", "Okodi", "Ologi", "Oloibiri", "Onuebum", "Opume", "Oruema", "Otabi", "Otakeme", "Otuedu", "Otuagbagi", "Otuasega", "Otueke", "Otuobhi", "Otuogidi", "Otuogori", "Otuokpoti"]
         },
         "6": {
             "name": "Sagbama",
             "official": "Sagbama Local Government",
-            "areas": [
-                "Sagbama", "Adagbabiri", "Aduku", "Agbere", "Agorogbene", "Agoro", "Akede", "Angalabiri", "Anibeze", "Anyama-Ibeni", "Asamabiri", "Bolou Orua", "Dagana", "Ebedebiri", "Egbepulugbene", "Ekperiware", "Elemebiri", "Eriama", "Ewegbene", "Isokenike", "Isoni", "Odoni", "Ogbokiri", "Ogbonugbene", "Ogobiri", "Okumbiri", "Osiama", "Toru Angiama", "Toru-Ebeni", "Trofani", "Tungbabiri", "Tungbo"
-            ]
+            "areas": ["Sagbama", "Adagbabiri", "Aduku", "Agbere", "Agorogbene", "Agoro", "Akede", "Angalabiri", "Anibeze", "Anyama-Ibeni", "Asamabiri", "Bolou Orua", "Dagana", "Ebedebiri", "Egbepulugbene", "Ekperiware", "Elemebiri", "Eriama", "Ewegbene", "Isokenike", "Isoni", "Odoni", "Ogbokiri", "Ogbonugbene", "Ogobiri", "Okumbiri", "Osiama", "Toru Angiama", "Toru-Ebeni", "Trofani", "Tungbabiri", "Tungbo"]
         },
         "7": {
             "name": "Southern Ijaw",
             "official": "Southern Ijaw Local Government",
-            "areas": [
-                "Toru-Orua", "Amassoma", "Angiama", "Arikaripo", "Aziama", "Diebu", "Eniwari", "Foropa", "Igbomotoro", "Koluama", "Olodiama", "Ondewari", "Opuama", "Otuan", "Peremabiri", "Ukubie"
-            ]
+            "areas": ["Toru-Orua", "Amassoma", "Angiama", "Arikaripo", "Aziama", "Diebu", "Eniwari", "Foropa", "Igbomotoro", "Koluama", "Olodiama", "Ondewari", "Opuama", "Otuan", "Peremabiri", "Ukubie"]
         },
         "8": {
             "name": "Yenagoa",
             "official": "Yenagoa Local Government",
-            "areas": [
-                "Yenagoa", "Agbia", "Agbobiri", "Agudama", "Akenfa", "Amarata", "Atissa", "Azikoro", "Biogbolo", "Biseni", "Ekeki", "Epie", "Etegwe", "Freetown", "Gbarain", "Ikarama", "Imgbi", "Kalaba", "Kilama", "Korama", "Kpansia", "Okaka", "Okordia", "Onopa", "Opolo", "Ovom", "Swali", "Zarama"
-            ]
+            "areas": ["Yenagoa", "Agbia", "Agbobiri", "Agudama", "Akenfa", "Amarata", "Atissa", "Azikoro", "Biogbolo", "Biseni", "Ekeki", "Epie", "Etegwe", "Freetown", "Gbarain", "Ikarama", "Imgbi", "Kalaba", "Kilama", "Korama", "Kpansia", "Okaka", "Okordia", "Onopa", "Opolo", "Ovom", "Swali", "Zarama"]
         }
     }
 }
