@@ -6,13 +6,14 @@
     },
     "capital": "Owerri",
     "political_zone": "South East",
-    "date_created": "03-02-s1976",
+    "date_created": "03-02-1976",
     "population": {
         "male": 2940779,
         "female": 2825455
     },
     "website": "https://imostate.gov.ng",
-    "logo": "../logos/imo.png",
+    "logo": "/images/logos/imo.png",
+    "flag": "",
     "demonym": "Imolite",
     "nick_name": "Eastern Heartland",
     "languages": {
@@ -23,132 +24,137 @@
         "1": {
             "name": "Aboh Mbaise",
             "official": "Aboh Mbaise Local Government",
-            "areas": []
+            "areas": ["Aboh", "Amohuru", "Eziala", "Ezuhu", "Umaumadi", "Egberede", "Nguru", "Uvuru", "Mbutu", "Okwuato", "Lorji", "Amuzu", "Enyiogugu", "Okwu", "Okwula", "Omuabazu", "Umouguge", "Umoukere", "Umuba", "Umubazu-Eziama", "Umunaga", "Umunoke", "Umuobazu", "Umuofuga"]
         },
         "2": {
             "name": "Ahiazu Mbaise",
             "official": "Ahiazu Mbaise Local Government",
-            "areas": []
+            "areas": ["Afor Oru", "Mpam", "Ihitte Afor", "Opara-Nadim", "Akabor", "Ogwuama", "Amuzi", "Obodo-Ujichi", "Otulu", "Aguneze", "Umu-Okrika", "Obohia", "Ekwereazu", "Obodo-Ahiara", "Lude", "Nnara-Mbia", "Ogbe", "Oru-Ahiara"]
         },
         "3": {
             "name": "Ehime Mbano",
             "official": "Ehime Mbano Local Government",
-            "areas": []
+            "areas": ["Umuezeala", "Umueze", "Umueleke", "Nsu", "Agbagbara", "Ikpe", "Umuakagu", "Umuanunu", "Abosi", "Umealuwaka", "Umuanigo", "Umuawuchi", "Umuihim", "Umunanom", "Umuodu", "Ezeoke", "Ihitte", "Umuopala", "Amazi", "Ofeokwe", "Okpaziza", "Umuele", "Umueli", "Umuerim", "Umugolo", "Umuja", "Umuola"]
         },
         "4": {
             "name": "Ezinihitte Mbaise",
             "official": "Ezinihitte Mbaise Local Government",
-            "areas": []
+            "areas": ["Itu", "Achi", "Afor", "Anaga", "Isiama", "Otutu", "Obibo", "Oboama", "Umunama", "Ife na Owutu", "Akpoku na Umudim", "Ihitte", "Umuchoko", "Umueze", "Eziagbogu", "Okpuofe", "Amaumara", "Eziudo", "Onicha", "Udo", "Obizi"]
         },
         "5": {
             "name": "Ideato North",
             "official": "Ideato North Local Government",
-            "areas": []
+            "areas": ["Urualla", "Umualaoma", "Obodoukwu", "Akokwa", "Uzii", "Osina", "Akpulu", "Arondiizuogu", "Isiokpo"]
         },
         "6": {
             "name": "Ideato South",
-            "official": "Ideato South Local Government"
+            "official": "Ideato South Local Government",
+            "areas": ["Dikenafai", "Nchoke", "Nneato Ogwugwu", "Isiekenesi", "Dimagu", "Obiohia", "Umuaghobe", "Awalla", "Umuakam", "Umuago", "Umuobom", "Umuezedike", "Duruahurunwa", "Umucheke", "Umumaisiaku", "Amanator", "Umueshi", "Ntueke", "Umuchima", "Ugbelle", "Umulewe", "Ogwume", "Umuezealla-Ogboko", "Ogboko"]
         },
         "7": {
             "name": "Ihitte/Uboma",
             "official": "Ihitte/Uboma Local Government",
-            "areas": []
+            "areas": ["Isinweke", "Amakohia", "Nnacheru", "Umuode", "Ato-Werem", "Omuchienta", "Emekengwe", "Atekenta", "Umuezeokwa", "Umuezegwu", "Abuke", "Umuoma", "Amainyi", "Awuchinumo", "Umuihi", "Ezimba", "Onichi-Uboma"]
         },
         "8": {
             "name": "Ikeduru",
             "official": "Ikeduru Local Government",
-            "areas": []
+            "areas": ["Iho", "Abasu", "Akabo", "Amaimo", "Amakohia", "Amatta", "Atta", "Avuvu", "Ezima", "Inyishi", "Amaeke", "Eziama", "Umuofor", "Umuiri", "Okwu", "Umudim", "Ngugo", "Atta West", "Ikembara", "Ugirike", "Umuonyeukwu", "Abazu", "Iho-Dimeze", "Ebikoro", "Uzoagba"]
         },
         "9": {
             "name": "Isiala Mbano",
             "official": "Isiala Mbano Local Government",
-            "areas": []
+            "areas": ["Umuelemai", "Anara", "Osu Owerre", "Ezumoha", "Ezihe", "Umuozu", "Amaraku", "Umuenyi", "Ibeme", "Umuduruehie", "Umuelejiaku", "Amukwuru", "Okwudor", "Umuezegwu", "Osuama", "Umuduru", "Ikwuano", "Isiama", "Umunchi", "Nneato-Nweafor", "Ogbor", "Umunkwo", "Amato-Amaraku", "Aku-Amaraku", "Amauzari"]
         },
         "10": {
             "name": "Isu",
             "official": "Isu Local Government",
-            "areas": []
+            "areas": ["Umundugba", "Isunjaba", "Amandugba", "Ekwe", "Amurie Amanze", "Ihokporo", "Umuelem", "Uburu Ekwe", "Ebenator Ekwe", "Oboro Amurie", "Umuchoko", "Umudike", "Umuezeala", "Ndiaba", "Umudishi", "Amunike", "Ebenano", "Ibeama", "Amaeze", "Diojiaku", "Umudieke", "Amato", "Araku", "Umuchima"]
         },
         "11": {
             "name": "Mbaitoli",
             "official": "Mbaitoli Local Government",
-            "areas": []
+            "areas": ["Nwaorieubi", "Mbieri", "Ifakala", "Ubomiri", "Ogbaku", "Eziama-Obiato", "Umunoha", "Orodo", "Afara", "Ogwa"]
         },
         "12": {
             "name": "Ngor Okpala",
             "official": "Ngor Okpala Local Government",
-            "areas": []
+            "areas": ["Umuneke Ngor", "Oburu", "Obokwe", "Eziama", "Ohekelem", "Nnorie", "Umuhu", "Ihite-Okwe", "Obike", "Elelem", "Umuohiagu", "Imerienwe", "Nguru-Umuaro", "Orishieze", "Upe", "Eziala", "Obiangwu", "Ntu", "Ihite", "Logara"]
         },
         "13": {
             "name": "Njaba",
             "official": "Njaba Local Government",
-            "areas": []
+            "areas": ["Nnenasa", "Umuaka", "Amazano", "Isiozi", "Ugbelle", "Achara", "Ibelle", "Okwudor", "Nkume", "Attah", "Amucha", "Egwedu"]
         },
         "14": {
             "name": "Nkwerre",
             "official": "Nkwerre Local Government",
-            "areas": []
+            "areas": ["Nkwerre", "Amaigbo", "Nnanano", "Nnanato", "Obinocha", "Obinuhu", "Onusa", "Owerre Nkworji", "Eziama", "Obaire", "Amaokpara", "Umunwala", "Umuduru"]
         },
         "15": {
             "name": "Nwangele",
             "official": "Nwangele Local Government",
-            "areas": []
+            "areas": ["Amaigbo", "Isu", "Abajah", "Umunakara", "Umuozu", "Dim Na Nume", "Umudurunna Abba", "Ogwuaga Abba", "Ekitiafor Abba", "Umuopara Abba", "Abba", "Umuezeala", "Ebikpe", "Ezeobolo"]
         },
         "16": {
             "name": "Obowo",
             "official": "Obowo Local Government",
-            "areas": []
+            "areas": ["Otoko", "Achara", "Amanze", "Umuariam", "Umunachi", "Umuagu", "Ehume", "Umungwa", "Umulogho", "Odenkwume", "Okwuohia", "Amuzi", "Alike", "Avutu", "Umuosochie", "Umuoke"]
         },
         "17": {
             "name": "Oguta",
             "official": "Oguta Local Government",
-            "areas": []
+            "areas": ["Oguta", "Agwa", "Orsu Obodo", "Egwe", "Nnebukwu", "Egbuoma", "Awa", "Akabor", "Mgbelle", "Ezi Orsu", "Nkwesi", "Izombe"]
         },
         "18": {
             "name": "Ohaji/Egbema",
             "official": "Ohaji/Egbema Local Government",
-            "areas": []
+            "areas": ["Mmahu-Egbema", "Egbema", "Umuagwo", "Oloshi", "Umunkwaku", "Obile", "Obitti", "Mgbirichi", "Alakuru", "Opuoma", "Assa", "Awarra", "Ikwerede", "Umuokanne", "Obiakpu", "Ohaba", "Obosima", "Mmahu", "Obuomadike"]
         },
         "19": {
             "name": "Okigwe",
             "official": "Okigwe Local Government",
-            "areas": []
+            "areas": ["Okigwe", "Ezinachi", "Ikigwu", "Otanzu", "Amuro", "Umulolo", "Ihube", "Otan-Chara"]
         },
         "20": {
             "name": "Onuimo",
             "official": "Onuimo Local Government",
-            "areas": []
+            "areas": ["Okwe", "Okwelle", "Umuduru-Egbeaguru", "Umuna", "Ofeahia", "Umuanumeze", "Alaike", "Umuodumodu", "Uhi", "Umuduru", "Ezelu", "Diakuma", "Umuduruodu", "Umumbo", "Umuoji", "Amaedo"]
         },
         "21": {
             "name": "Orlu",
             "official": "Orlu Local Government",
-            "areas": []
+            "areas": ["Orlu", "Umuzike", "Umuowa", "Umutanze", "Umuna", "Umudioka", "Okporo", "Ogberuru", "Mgbee", "Ihitte-Owerre", "Ihioma", "Ebe", "Eziachi", "Amaifeke", "Amaike", "Obinugwu", "Owerre-Ebeiri", "Amike"]
         },
         "22": {
             "name": "Orsu",
             "official": "Orsu Local Government",
-            "areas": []
+            "areas": ["Awo-Idemili", "Ihitenansa", "Amaruru", "Amazu", "Amaebu", "Amannachi", "Asaa Ubirielem", "Eziawa", "Umuhu Okabia", "Orsu Ihiteukwa", "Okwu Ufuruaku", "Okwu Amaraihe", "Okwu Etiti", "Ebenator", "Ihitte-Nasa", "Ihitte-Ukwu", "Isieke", "Amaimo", "Ezeogwu", "Ubahaeze", "Obibi", "Amadi", "Ahaba", "Ohukabia", "Amaokwu", "Edenta"]
         },
         "23": {
             "name": "Oru East",
             "official": "Oru East Local Government",
-            "areas": []
+            "areas": ["Omuma", "Akatta", "Akuma", "Amagu", "Amiri", "Ofekatai", "Eziawo", "Awo-Omamma", "Akwa", "Etim", "Ibah", "Ichina", "Amaka", "Ura", "Abamba", "Ezi Akuma", "Ezioha", "Ihitte-Akum", "Ihitte-Amagu", "Ulabia-Akuma", "Isieke", "Ubaeze", "Umuejike", "Umuezukwe", "Obibi", "Ohuba", "Omuokwe", "Umulu", "Ubogwu", "Umueme", "Umuezeala"]
         },
         "24": {
-            "name": "Owerri Municipal",
-            "official": "Owerri Municipal Local Government",
-            "areas": []
+            "name": "Oru West",
+            "official": "Oru West Local Government",
+            "areas": ["Mgbidi", "Aji", "Ibiaso Egbe", "Isseke", "Ohakpu", "Otulu", "Ozara", "Nempi", "Eleh", "Ibiasuegbe", "Akataa", "Ubulu", "Awo Omama", "Imeoha", "Ihite", "Uzinaumu", "Ugbele", "Okwudor", "Umuorji", "Umuehi", "Umuabiahu", "Eziala", "Umuokpara", "Umuaguma"]
         },
         "25": {
-            "name": "Owerri North",
-            "official": "Owerri North Local Government",
-            "areas": []
+            "name": "Owerri Municipal",
+            "official": "Owerri Municipal Local Government",
+            "areas": ["Owerri", "Umuororonjo", "Amawom", "Umuonyeche", "Umuodu", "Umuoyima"]
         },
         "26": {
+            "name": "Owerri North",
+            "official": "Owerri North Local Government",
+            "areas": ["Orie Uratta", "Avu", "Ugwuagbu", "Ubohaji"]
+        },
+        "27": {
             "name": "Owerri West",
             "official": "Owerri West Local Government",
-            "areas": []
+            "areas": ["Umuguma", "Nekede", "Ihiagwa"]
         }
     }
 }
-

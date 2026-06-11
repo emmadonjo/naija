@@ -244,6 +244,36 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Nafada](https://en.wikipedia.org/wiki/Nafada)
     -   [https://en.wikipedia.org/wiki/Shongom](https://en.wikipedia.org/wiki/Shongom)
     -   [https://en.wikipedia.org/wiki/Yamaltu/Deba](https://en.wikipedia.org/wiki/Yamaltu/Deba)
+    -   [https://en.wikipedia.org/wiki/Imo_State](https://en.wikipedia.org/wiki/Imo_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State)
+    -   [https://en.wikipedia.org/wiki/Aboh_Mbaise](https://en.wikipedia.org/wiki/Aboh_Mbaise)
+    -   [https://en.wikipedia.org/wiki/Ahiazu_Mbaise](https://en.wikipedia.org/wiki/Ahiazu_Mbaise)
+    -   [https://en.wikipedia.org/wiki/Ehime_Mbano](https://en.wikipedia.org/wiki/Ehime_Mbano)
+    -   [https://en.wikipedia.org/wiki/Ezinihitte_Mbaise](https://en.wikipedia.org/wiki/Ezinihitte_Mbaise)
+    -   [https://en.wikipedia.org/wiki/Ideato_North](https://en.wikipedia.org/wiki/Ideato_North)
+    -   [https://en.wikipedia.org/wiki/Ideato_South](https://en.wikipedia.org/wiki/Ideato_South)
+    -   [https://en.wikipedia.org/wiki/Ihitte/Uboma](https://en.wikipedia.org/wiki/Ihitte/Uboma)
+    -   [https://en.wikipedia.org/wiki/Ikeduru](https://en.wikipedia.org/wiki/Ikeduru)
+    -   [https://en.wikipedia.org/wiki/Isiala_Mbano](https://en.wikipedia.org/wiki/Isiala_Mbano)
+    -   [https://en.wikipedia.org/wiki/Isu,_Imo](https://en.wikipedia.org/wiki/Isu,_Imo)
+    -   [https://en.wikipedia.org/wiki/Mbaitoli](https://en.wikipedia.org/wiki/Mbaitoli)
+    -   [https://en.wikipedia.org/wiki/Ngor_Okpala](https://en.wikipedia.org/wiki/Ngor_Okpala)
+    -   [https://en.wikipedia.org/wiki/Njaba](https://en.wikipedia.org/wiki/Njaba)
+    -   [https://en.wikipedia.org/wiki/Nkwerre](https://en.wikipedia.org/wiki/Nkwerre)
+    -   [https://en.wikipedia.org/wiki/Nwangele](https://en.wikipedia.org/wiki/Nwangele)
+    -   [https://en.wikipedia.org/wiki/Obowo](https://en.wikipedia.org/wiki/Obowo)
+    -   [https://en.wikipedia.org/wiki/Oguta](https://en.wikipedia.org/wiki/Oguta)
+    -   [https://en.wikipedia.org/wiki/Ohaji/Egbema](https://en.wikipedia.org/wiki/Ohaji/Egbema)
+    -   [https://en.wikipedia.org/wiki/Okigwe](https://en.wikipedia.org/wiki/Okigwe)
+    -   [https://en.wikipedia.org/wiki/Onuimo](https://en.wikipedia.org/wiki/Onuimo)
+    -   [https://en.wikipedia.org/wiki/Orlu,_Imo](https://en.wikipedia.org/wiki/Orlu,_Imo)
+    -   [https://en.wikipedia.org/wiki/Orsu](https://en.wikipedia.org/wiki/Orsu)
+    -   [https://en.wikipedia.org/wiki/Oru_East](https://en.wikipedia.org/wiki/Oru_East)
+    -   [https://en.wikipedia.org/wiki/Oru_West](https://en.wikipedia.org/wiki/Oru_West)
+    -   [https://en.wikipedia.org/wiki/Mgbidi,_Imo](https://en.wikipedia.org/wiki/Mgbidi,_Imo)
+    -   [https://en.wikipedia.org/wiki/Owerri_Municipal](https://en.wikipedia.org/wiki/Owerri_Municipal)
+    -   [https://en.wikipedia.org/wiki/Owerri_North](https://en.wikipedia.org/wiki/Owerri_North)
+    -   [https://en.wikipedia.org/wiki/Owerri_West](https://en.wikipedia.org/wiki/Owerri_West)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
@@ -251,6 +281,7 @@ Then you can access the assets as follows:
     -   [https://www.nipc.gov.ng/nigeria-states/ebonyi-state/](https://www.nipc.gov.ng/nigeria-states/ebonyi-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/edo-state/](https://www.nipc.gov.ng/nigeria-states/edo-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/gombe-state/](https://www.nipc.gov.ng/nigeria-states/gombe-state/)
+    -   [https://www.nipc.gov.ng/nigeria-states/imo-state2/](https://www.nipc.gov.ng/nigeria-states/imo-state2/)
 
 -   **INEC Nigeria**
     -   [https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf](https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf)
@@ -269,6 +300,7 @@ Then you can access the assets as follows:
     -   [https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/enugu/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters](https://www.nigeriahousingmarket.com/abuja/area-councils-abuja-list-headquarters)
     -   [https://www.nigeriahousingmarket.com/guides/local-government-gombe-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-gombe-list-headquarters)
+    -   [https://www.nigeriahousingmarket.com/guides/local-government-imo-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-imo-list-headquarters)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -291,6 +323,9 @@ Then you can access the assets as follows:
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-kwami-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-kwami-l-g-a-gombe-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-nafada-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-nafada-l-g-a-gombe-state/)
     -   [https://www.medianigeria.com/list-of-towns-and-villages-in-yamaltu-deba-l-g-a-gombe-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-yamaltu-deba-l-g-a-gombe-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-nkwerre-l-g-a-imo-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-nkwerre-l-g-a-imo-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-onuimo-l-g-a-imo-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-onuimo-l-g-a-imo-state/)
+    -   [https://www.medianigeria.com/list-of-towns-and-villages-in-oru-east-l-g-a-imo-state/](https://www.medianigeria.com/list-of-towns-and-villages-in-oru-east-l-g-a-imo-state/)
 
 -   **Current Affairs NG**
     -   [https://currentaffairs.ng/state/](https://currentaffairs.ng/state/)
@@ -349,6 +384,9 @@ Then you can access the assets as follows:
 
 -   **Gombe State Government**
     -   [https://gombestate.gov.ng](https://gombestate.gov.ng)
+
+-   **Imo State Government**
+    -   [https://imostate.gov.ng](https://imostate.gov.ng)
 
 -   **Premium Times Nigeria**
     -   [https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html](https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html)
