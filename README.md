@@ -166,21 +166,44 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Ohaozara](https://en.wikipedia.org/wiki/Ohaozara)
     -   [https://en.wikipedia.org/wiki/Ohaukwu](https://en.wikipedia.org/wiki/Ohaukwu)
     -   [https://en.wikipedia.org/wiki/Onicha,_Ebonyi](https://en.wikipedia.org/wiki/Onicha,_Ebonyi)
+    -   [https://en.wikipedia.org/wiki/Edo_State](https://en.wikipedia.org/wiki/Edo_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Edo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Edo_State)
+    -   [https://en.wikipedia.org/wiki/Akoko_Edo](https://en.wikipedia.org/wiki/Akoko_Edo)
+    -   [https://en.wikipedia.org/wiki/Egor](https://en.wikipedia.org/wiki/Egor)
+    -   [https://en.wikipedia.org/wiki/Esan_Central](https://en.wikipedia.org/wiki/Esan_Central)
+    -   [https://en.wikipedia.org/wiki/Esan_North-East](https://en.wikipedia.org/wiki/Esan_North-East)
+    -   [https://en.wikipedia.org/wiki/Esan_South-East](https://en.wikipedia.org/wiki/Esan_South-East)
+    -   [https://en.wikipedia.org/wiki/Esan_West](https://en.wikipedia.org/wiki/Esan_West)
+    -   [https://en.wikipedia.org/wiki/Etsako_Central](https://en.wikipedia.org/wiki/Etsako_Central)
+    -   [https://en.wikipedia.org/wiki/Etsako_East](https://en.wikipedia.org/wiki/Etsako_East)
+    -   [https://en.wikipedia.org/wiki/Etsako_West](https://en.wikipedia.org/wiki/Etsako_West)
+    -   [https://en.wikipedia.org/wiki/Igueben](https://en.wikipedia.org/wiki/Igueben)
+    -   [https://en.wikipedia.org/wiki/Ikpoba_Okha](https://en.wikipedia.org/wiki/Ikpoba_Okha)
+    -   [https://en.wikipedia.org/wiki/Oredo](https://en.wikipedia.org/wiki/Oredo)
+    -   [https://en.wikipedia.org/wiki/Orhionmwon](https://en.wikipedia.org/wiki/Orhionmwon)
+    -   [https://en.wikipedia.org/wiki/Ovia_North-East](https://en.wikipedia.org/wiki/Ovia_North-East)
+    -   [https://en.wikipedia.org/wiki/Ovia_South-West](https://en.wikipedia.org/wiki/Ovia_South-West)
+    -   [https://en.wikipedia.org/wiki/Owan_East](https://en.wikipedia.org/wiki/Owan_East)
+    -   [https://en.wikipedia.org/wiki/Owan_West](https://en.wikipedia.org/wiki/Owan_West)
+    -   [https://en.wikipedia.org/wiki/Uhunmwonde](https://en.wikipedia.org/wiki/Uhunmwonde)
 
 -   **NIPC** (Nigerian Investment Promotion Commission)
     -   [https://www.nipc.gov.ng/nigeria-states/abia-state/](https://www.nipc.gov.ng/nigeria-states/abia-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/adamawa-state/](https://www.nipc.gov.ng/nigeria-states/adamawa-state/)
     -   [https://www.nipc.gov.ng/nigeria-states/ebonyi-state/](https://www.nipc.gov.ng/nigeria-states/ebonyi-state/)
+    -   [https://www.nipc.gov.ng/nigeria-states/edo-state/](https://www.nipc.gov.ng/nigeria-states/edo-state/)
 
 -   **INEC Nigeria**
     -   [https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf](https://inecnigeria.org/wp-content/uploads/2019/02/ADAMAWA-LGA.pdf)
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Akwa_Ibom.pdf)
     -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/PU_Directory_Revised_January_2015_Ebonyi.pdf)
+    -   [https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf](https://www.inecnigeria.org/wp-content/uploads/2019/02/EDO-STATE-LGA.pdf)
 
 -   **Nigeria Housing Market**
     -   [https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-adamawa-list-headquarters)
     -   [https://www.nigeriahousingmarket.com/guides/cross-river/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/cross-river/local-government-list-headquarters-2026)
     -   [https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026](https://www.nigeriahousingmarket.com/guides/ebonyi/local-government-list-headquarters-2026)
+    -   [https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters](https://www.nigeriahousingmarket.com/guides/local-government-edo-list-headquarters)
 
 -   **Legit.ng**
     -   [https://www.legit.ng/1210013-local-governments-anambra-state-towns.html](https://www.legit.ng/1210013-local-governments-anambra-state-towns.html)
@@ -216,6 +239,9 @@ Then you can access the assets as follows:
 
 -   **Ebonyi State Government**
     -   [https://ebonyistate.gov.ng](https://ebonyistate.gov.ng)
+
+-   **Edo State Government**
+    -   [https://edostate.gov.ng](https://edostate.gov.ng)
 
 -   **Vanguard Nigeria**
     -   [https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/](https://www.vanguardngr.com/2023/05/renaming-of-afikpo-south-lga-remains-significant-feat-ukpai/)

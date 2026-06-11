@@ -5,109 +5,114 @@
         "short_code": "ED"
     },
     "capital": "Benin City",
-    "political_zone": "South East",
-    "date_created": "26-08-1991",
+    "political_zone": "South South",
+    "date_created": "27-08-1991",
     "population": {
         "male": 2280008,
         "female": 2190596
     },
     "website": "https://edostate.gov.ng/",
-    "logo": "../logos/edo.png",
-    "demonym": "",
+    "logo": "/images/logos/edo.png",
+    "flag": "",
+    "demonym": "Edonite",
     "nick_name": "Heartbeat of Nigeria",
     "languages": {
-        "english": "English"
+        "english": "English",
+        "edo": "Edo",
+        "esan": "Esan",
+        "etsako": "Etsako",
+        "owan": "Owan"
     },
     "lga": {
         "1": {
             "name": "Akoko-Edo",
             "official": "Akoko-Edo Local Government",
-            "areas": []
+            "areas": ["Igarra", "Ibillo", "Ososo", "Uneme-Nekhua", "Okpekpe", "Atte", "Enwan", "Aiyegunle", "Ugboshi-Ele", "Ugboshi-Afe", "Ekpesa", "Ikiran-Ile", "Ikiran Oke", "Ekor", "Somorika", "Lampese", "Imoga", "Ojah", "Uneme-Akiosu", "Akuku", "Ojirami", "Dagbala", "Makeke", "Ekpe", "Ekpedo", "Bekuma", "Okpe", "Ogbe", "Onumu"]
         },
         "2": {
             "name": "Egor",
             "official": "Egor Local Government",
-            "areas": []
+            "areas": ["Uselu", "Okhoro", "Use", "Uwelu", "Iguikpe", "Ugbighoko", "Iguediaye", "Evbougide", "Agidigbi", "Oghokhugbo", "Evbareke"]
         },
         "3": {
             "name": "Esan Central",
             "official": "Esan Central Local Government",
-            "areas": []
+            "areas": ["Irrua", "Ewu", "Opoji", "Ugbegun", "Ebelle", "Ewossa", "Idumebo", "Idumabi", "Usugbenu", "Eidenu", "Adenu", "Ugbalo", "Ibore", "Unogbo", "Idumoza", "Imokano", "Ugbokhare"]
         },
         "4": {
             "name": "Esan North-East",
             "official": "Esan North-East Local Government",
-            "areas": []
+            "areas": ["Uromi", "Uzea", "Obeidu", "Ivue", "Egbele", "Unuwazi", "Utako", "Onewa", "Awo", "Eror", "Idumoza", "Ebhoijie", "Arue", "Ubierumu-Oke", "Ebue", "Ewoyi", "Odigwele", "Eguare", "Oyomon", "Eko-Ibadin", "Efandion", "Atani", "Amedokhian", "Ukoni", "Ewoki"]
         },
         "5": {
             "name": "Esan South-East",
             "official": "Esan South-East Local Government",
-            "areas": []
+            "areas": ["Ubiaja", "Ewohimi", "Ugboha", "Illushi", "Emu", "Oria", "Onog-Holo", "Okhu-Esan", "Udo", "Feku", "Eguare-Ewatto", "Okhodua", "Orowa", "Uroh", "Inyenlen", "Ohordua", "Okede", "Ewatto"]
         },
         "6": {
-            "name": "Esan West ",
-            "official": "Esan West Local Government"
+            "name": "Esan West",
+            "official": "Esan West Local Government",
+            "areas": ["Ekpoma", "Iruekpen", "Ujemen", "Idumebo", "Ihumudumu", "Uhiele", "Emuhi", "Ogwa", "Ekhiro", "Ukpenu", "Ujoelen Eguare", "Emaudo", "Egoro Amede", "Egoro Naoka", "Ebhakuala", "Ukhun", "Idoa", "Urohi", "Akahio", "Illeh", "Ekoh-Ine", "Ujiogba"]
         },
         "7": {
             "name": "Etsako Central",
             "official": "Etsako Central Local Government",
-            "areas": []
+            "areas": ["Fugar", "Okpella", "Ekperi", "Ogbona", "Iraokhor", "Anegbete", "Ape", "Apeabebe", "Atavo", "Awuyemi", "Imiekhuri", "Iviakpela", "Iviochie", "Ogbago", "Sabogida", "Ukhomoduba", "South Uneme"]
         },
         "8": {
             "name": "Etsako East",
             "official": "Etsako East Local Government",
-            "areas": []
+            "areas": ["Agenebode", "Okpella", "Okugbe", "Emokweme", "Otoukhwe", "Iviukhua", "Ukho", "Ekwotsor", "Aviodo", "Imietemegie", "Awuyemi", "Ebelle", "Okeko", "Wanno", "Weppa", "Okpekpe"]
         },
         "9": {
             "name": "Etsako West",
             "official": "Etsako West Local Government",
-            "areas": []
+            "areas": ["Auchi", "Jattu", "Agbede", "Ughiole", "Odighie", "Egho", "Ubiane", "Iyamho", "Iyuku", "Ayogwiri", "Apana", "Iyora", "Afowa", "Afashio", "Ikabigbo", "Irekpai", "Ogbido", "Ayaoghena", "Ikholo", "Uluoke", "Ugbenor", "Idato", "Ayua", "Imeke", "Sabo Iyakpi", "Ibienafe", "Ughieda", "Iyerekhu", "Egbogio", "Ikhwa", "Ewora", "Ama"]
         },
         "10": {
             "name": "Igueben",
             "official": "Igueben Local Government",
-            "areas": []
+            "areas": ["Igueben", "Eguare", "Oyomo", "Afuda", "Idumeka", "Idumonka", "Uhe", "Egbiki", "Ekekhen Idigun", "Idumogbo", "Idumedo", "Idumotutu", "Idumogo", "Ologhe"]
         },
         "11": {
             "name": "Ikpoba-Okha",
             "official": "Ikpoba-Okha Local Government",
-            "areas": []
+            "areas": ["Idogbo", "Okha", "Ologbo", "Evbuomodu", "Uwusan", "Obazagbon", "Agedo", "Evbumufi", "Etiosa", "Obenevbugo", "Obe", "Oghoghobi", "Obanyantor", "Ekae", "Utezi", "Uhie", "Ogheghe", "Obagie Obaretin"]
         },
         "12": {
             "name": "Oredo",
             "official": "Oredo Local Government",
-            "areas": []
+            "areas": ["Benin City", "Gra", "Etete", "Ibiwe", "Iwegie", "Ugbague", "Ihogbe", "Isekhere", "Oreoghene", "Ikpema", "Eguadase", "New Benin", "Ogbe", "Ogbelaka"]
         },
         "13": {
             "name": "Orhionmwon",
             "official": "Orhionmwon Local Government",
-            "areas": []
+            "areas": ["Abudu", "Igbanke", "Oloten", "Ugboko", "Aibiokunla", "Ogan", "Evbuobanosa", "Iduondolor", "Urherue", "Idumodin", "Ottah", "Okuor", "Edummungba", "Egbhuru", "Urhonigbe"]
         },
         "14": {
             "name": "Ovia North-East",
             "official": "Ovia North-East Local Government",
-            "areas": []
+            "areas": ["Okada", "Oluku", "Oghede", "Uhen", "Adolor", "Iguoshodin", "Isiuwa", "Kokhuo", "Oduna", "Uhiere", "Utoka", "Utese", "Okokhuo", "Ekiadolor", "Egbeta", "Ora", "Ogbese"]
         },
         "15": {
             "name": "Ovia South-West",
             "official": "Ovia South-West Local Government",
-            "areas": []
+            "areas": ["Iguobazuwa", "Ora", "Siluko", "Aghobahi", "Igueze", "Usen", "Ugbogui", "Ajakurama", "Ofunama", "Abere", "Inikrogha", "Gbeoba", "Gbolukanga", "Udo"]
         },
         "16": {
             "name": "Owan East",
             "official": "Owan East Local Government",
-            "areas": []
+            "areas": ["Afuze", "Emai", "Igue", "Ake-Ievbu", "Ihievbe", "Ikao", "Ivbi-Mion", "Ive-Ada-Obi", "Otuo", "Uokha"]
         },
         "17": {
             "name": "Owan West",
             "official": "Owan West Local Government",
-            "areas": []
+            "areas": ["Sabongida Ora", "Iuleha", "Ora", "Ozalla", "Aropo", "Avbiognula", "Avbiosi", "Eruere", "Ikpeyan", "Iloje", "Ivbiodohen", "Oah", "Ogha Okpuje", "Eme-Ora", "Igho-Usie", "Ikpafolame", "Ogakha", "Ogbeturu", "Orbiogharin", "Sobe", "Uhomora"]
         },
         "18": {
             "name": "Uhunmwonde",
             "official": "Uhunmwonde Local Government",
-            "areas": []
+            "areas": ["Ehor", "Eyean", "Iguomori", "Ikhoribo", "Egbede", "Uhi", "Irhue", "Igieduma", "Isi", "Obadan", "Iguevbiahiamwen", "Ogheghe", "Ugiamwen", "Igueuwangue"]
         }
     }
 }
-
