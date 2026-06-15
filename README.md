@@ -246,6 +246,18 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Yamaltu/Deba](https://en.wikipedia.org/wiki/Yamaltu/Deba)
     -   [https://en.wikipedia.org/wiki/Imo_State](https://en.wikipedia.org/wiki/Imo_State)
     -   [https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State)
+    -   [https://en.wikipedia.org/wiki/Kano_State](https://en.wikipedia.org/wiki/Kano_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Kano_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kano_State)
+    -   [https://en.wikipedia.org/wiki/Gezawa](https://en.wikipedia.org/wiki/Gezawa)
+    -   [https://en.wikipedia.org/wiki/Gwale](https://en.wikipedia.org/wiki/Gwale)
+    -   [https://en.wikipedia.org/wiki/Fagge](https://en.wikipedia.org/wiki/Fagge)
+    -   [https://en.wikipedia.org/wiki/Dala,_Kano](https://en.wikipedia.org/wiki/Dala,_Kano)
+    -   [https://en.wikipedia.org/wiki/Tarauni](https://en.wikipedia.org/wiki/Tarauni)
+    -   [https://en.wikipedia.org/wiki/Kano_Municipal](https://en.wikipedia.org/wiki/Kano_Municipal)
+    -   [https://en.wikipedia.org/wiki/Kumbotso](https://en.wikipedia.org/wiki/Kumbotso)
+    -   [https://en.wikipedia.org/wiki/Ungogo](https://en.wikipedia.org/wiki/Ungogo)
+    -   [https://en.wikipedia.org/wiki/Kano_(city)](https://en.wikipedia.org/wiki/Kano_(city))
+    -   [https://en.wikipedia.org/wiki/Albasu](https://en.wikipedia.org/wiki/Albasu)
     -   [https://en.wikipedia.org/wiki/Kaduna_State](https://en.wikipedia.org/wiki/Kaduna_State)
     -   [https://en.wikipedia.org/wiki/List_of_villages_in_Kaduna_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kaduna_State)
     -   [https://en.wikipedia.org/wiki/Birnin_Gwari](https://en.wikipedia.org/wiki/Birnin_Gwari)
@@ -423,6 +435,9 @@ Then you can access the assets as follows:
 
 -   **Jigawa State Government**
     -   [https://jigawastate.gov.ng](https://jigawastate.gov.ng)
+
+-   **Kano State Government**
+    -   [https://www.kanostate.gov.ng](https://www.kanostate.gov.ng)
 
 -   **Kaduna State Government**
     -   [https://kdsg.gov.ng](https://kdsg.gov.ng)
