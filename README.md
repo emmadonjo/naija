@@ -246,6 +246,32 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Yamaltu/Deba](https://en.wikipedia.org/wiki/Yamaltu/Deba)
     -   [https://en.wikipedia.org/wiki/Imo_State](https://en.wikipedia.org/wiki/Imo_State)
     -   [https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State)
+    -   [https://en.wikipedia.org/wiki/Kaduna_State](https://en.wikipedia.org/wiki/Kaduna_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Kaduna_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kaduna_State)
+    -   [https://en.wikipedia.org/wiki/Birnin_Gwari](https://en.wikipedia.org/wiki/Birnin_Gwari)
+    -   [https://en.wikipedia.org/wiki/Chikun](https://en.wikipedia.org/wiki/Chikun)
+    -   [https://en.wikipedia.org/wiki/Kauru](https://en.wikipedia.org/wiki/Kauru)
+    -   [https://en.wikipedia.org/wiki/Kudan,_Kaduna](https://en.wikipedia.org/wiki/Kudan,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Kubau](https://en.wikipedia.org/wiki/Kubau)
+    -   [https://en.wikipedia.org/wiki/Kajuru](https://en.wikipedia.org/wiki/Kajuru)
+    -   [https://en.wikipedia.org/wiki/Kachia](https://en.wikipedia.org/wiki/Kachia)
+    -   [https://en.wikipedia.org/wiki/Kagarko](https://en.wikipedia.org/wiki/Kagarko)
+    -   [https://en.wikipedia.org/wiki/Jema%27a](https://en.wikipedia.org/wiki/Jema%27a)
+    -   [https://en.wikipedia.org/wiki/Jaba,_Kaduna](https://en.wikipedia.org/wiki/Jaba,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Kaura,_Kaduna](https://en.wikipedia.org/wiki/Kaura,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Igabi](https://en.wikipedia.org/wiki/Igabi)
+    -   [https://en.wikipedia.org/wiki/Ikara](https://en.wikipedia.org/wiki/Ikara)
+    -   [https://en.wikipedia.org/wiki/Lere,_Kaduna](https://en.wikipedia.org/wiki/Lere,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Makarfi](https://en.wikipedia.org/wiki/Makarfi)
+    -   [https://en.wikipedia.org/wiki/Sabon_Gari,_Kaduna](https://en.wikipedia.org/wiki/Sabon_Gari,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Sanga,_Kaduna](https://en.wikipedia.org/wiki/Sanga,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Soba,_Kaduna](https://en.wikipedia.org/wiki/Soba,_Kaduna)
+    -   [https://en.wikipedia.org/wiki/Zangon_Kataf](https://en.wikipedia.org/wiki/Zangon_Kataf)
+    -   [https://en.wikipedia.org/wiki/Zonkwa](https://en.wikipedia.org/wiki/Zonkwa)
+    -   [https://en.wikipedia.org/wiki/Kafanchan](https://en.wikipedia.org/wiki/Kafanchan)
+    -   [https://en.wikipedia.org/wiki/Zaria](https://en.wikipedia.org/wiki/Zaria)
+    -   [https://en.wikipedia.org/wiki/Kaduna_North](https://en.wikipedia.org/wiki/Kaduna_North)
+    -   [https://en.wikipedia.org/wiki/Kaduna_South](https://en.wikipedia.org/wiki/Kaduna_South)
     -   [https://en.wikipedia.org/wiki/Jigawa_State](https://en.wikipedia.org/wiki/Jigawa_State)
     -   [https://en.wikipedia.org/wiki/List_of_villages_in_Jigawa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Jigawa_State)
     -   [https://en.wikipedia.org/wiki/Dutse](https://en.wikipedia.org/wiki/Dutse)
@@ -397,6 +423,9 @@ Then you can access the assets as follows:
 
 -   **Jigawa State Government**
     -   [https://jigawastate.gov.ng](https://jigawastate.gov.ng)
+
+-   **Kaduna State Government**
+    -   [https://kdsg.gov.ng](https://kdsg.gov.ng)
 
 -   **Premium Times Nigeria**
     -   [https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html](https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html)
