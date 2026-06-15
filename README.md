@@ -246,6 +246,13 @@ Then you can access the assets as follows:
     -   [https://en.wikipedia.org/wiki/Yamaltu/Deba](https://en.wikipedia.org/wiki/Yamaltu/Deba)
     -   [https://en.wikipedia.org/wiki/Imo_State](https://en.wikipedia.org/wiki/Imo_State)
     -   [https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Imo_State)
+    -   [https://en.wikipedia.org/wiki/Jigawa_State](https://en.wikipedia.org/wiki/Jigawa_State)
+    -   [https://en.wikipedia.org/wiki/List_of_villages_in_Jigawa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Jigawa_State)
+    -   [https://en.wikipedia.org/wiki/Dutse](https://en.wikipedia.org/wiki/Dutse)
+    -   [https://en.wikipedia.org/wiki/Hadejia](https://en.wikipedia.org/wiki/Hadejia)
+    -   [https://en.wikipedia.org/wiki/Birniwa](https://en.wikipedia.org/wiki/Birniwa)
+    -   [https://en.wikipedia.org/wiki/Birnin_Kudu](https://en.wikipedia.org/wiki/Birnin_Kudu)
+    -   [https://en.wikipedia.org/wiki/Malam_Madori](https://en.wikipedia.org/wiki/Malam_Madori)
     -   [https://en.wikipedia.org/wiki/Aboh_Mbaise](https://en.wikipedia.org/wiki/Aboh_Mbaise)
     -   [https://en.wikipedia.org/wiki/Ahiazu_Mbaise](https://en.wikipedia.org/wiki/Ahiazu_Mbaise)
     -   [https://en.wikipedia.org/wiki/Ehime_Mbano](https://en.wikipedia.org/wiki/Ehime_Mbano)
@@ -387,6 +394,9 @@ Then you can access the assets as follows:
 
 -   **Imo State Government**
     -   [https://imostate.gov.ng](https://imostate.gov.ng)
+
+-   **Jigawa State Government**
+    -   [https://jigawastate.gov.ng](https://jigawastate.gov.ng)
 
 -   **Premium Times Nigeria**
     -   [https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html](https://www.premiumtimesng.com/news/headlines/858237-analysis-what-makes-abujas-area-councils-different-from-lgas-in-36-states.html)
