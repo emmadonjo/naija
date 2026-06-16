@@ -469,6 +469,16 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Malumfashi](https://en.wikipedia.org/wiki/Malumfashi)
 -   [http://www.katsinastate.gov.ng/](http://www.katsinastate.gov.ng/)
 
+### Kebbi State
+
+-   [https://en.wikipedia.org/wiki/Kebbi_State](https://en.wikipedia.org/wiki/Kebbi_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Kebbi_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kebbi_State)
+-   [https://en.wikipedia.org/wiki/Argungu](https://en.wikipedia.org/wiki/Argungu)
+-   [https://en.wikipedia.org/wiki/Gwandu](https://en.wikipedia.org/wiki/Gwandu)
+-   [https://en.wikipedia.org/wiki/Yauri](https://en.wikipedia.org/wiki/Yauri)
+-   [https://en.wikipedia.org/wiki/Zuru](https://en.wikipedia.org/wiki/Zuru)
+-   [http://www.kebbistate.gov.ng/](http://www.kebbistate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
