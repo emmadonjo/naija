@@ -458,6 +458,17 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Ungogo](https://en.wikipedia.org/wiki/Ungogo)
 -   [https://www.kanostate.gov.ng](https://www.kanostate.gov.ng)
 
+### Katsina State
+
+-   [https://en.wikipedia.org/wiki/Katsina_State](https://en.wikipedia.org/wiki/Katsina_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Katsina_State](https://en.wikipedia.org/wiki/List_of_villages_in_Katsina_State)
+-   [https://en.wikipedia.org/wiki/Daura,_Katsina](https://en.wikipedia.org/wiki/Daura,_Katsina)
+-   [https://en.wikipedia.org/wiki/Funtua](https://en.wikipedia.org/wiki/Funtua)
+-   [https://en.wikipedia.org/wiki/Jibia](https://en.wikipedia.org/wiki/Jibia)
+-   [https://en.wikipedia.org/wiki/Kankara](https://en.wikipedia.org/wiki/Kankara)
+-   [https://en.wikipedia.org/wiki/Malumfashi](https://en.wikipedia.org/wiki/Malumfashi)
+-   [http://www.katsinastate.gov.ng/](http://www.katsinastate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
