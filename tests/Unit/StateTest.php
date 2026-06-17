@@ -30,8 +30,8 @@ test("Retrieve state attributes", function () {
         'igbo' => 'Igbo'
     ]);
     expect(count($state->getLanguages()))->toEqual(2);
-    expect(count($state->getLgas()))->toEqual(14);
-    expect(count($state->getAreas()))->toEqual(253);
+    expect(count($state->getLgas()))->toEqual(17);
+    expect(count($state->getAreas()))->toEqual(545);
 });
 
 test('set an attribute', function () {

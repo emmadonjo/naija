@@ -37,14 +37,14 @@
             "areas": ["Obiene", "Abuma", "Amaebem", "Amaeke", "Amaekpu", "Amaetiti", "Amakofia", "Amankwu", "Amasa", "Amodu", "Arochukwu", "Eziama", "Igbere", "Ikwuano", "Nkpakpi", "Obiagwulu", "Obiakang", "Obialuoko", "Obiaruku", "Obijoma", "Ohafia", "Ohomja", "Ovim", "Ubila", "Ugwuogo", "Ukwuakwu", "Umuahia", "Umuokoro"]
         },
         "4": {
+            "name": "Bende",
+            "official": "Bende Local Government",
+            "areas": ["Amaeke", "Agboakoli", "Amakwu", "Amaukwu", "Umuenyere", "Etiti", "Isiaku", "Isiama", "Umunkalu", "Amankalu", "Amaigwu", "Agbamuzu", "Agbomiri", "Amaoba", "Amaogwu", "Ishimigu", "Isiegbu", "Ndi-Torty", "Ndiekeugo", "Ndiokorukwu", "Nditoli", "Obuohia", "Ogo Ubi Bende", "Okporoenyi", "Okputong", "Onuinyana", "Ukpom", "Umuokoro", "Amaelu", "Amabanta", "Amuta", "Ebguegbubu", "Agbo", "Amaiyi", "Amakpo", "Amaofufe", "Amoji", "Eziama", "Ibinanta", "Ibinaukwu", "Ohumola", "Okafia", "Umuisi", "Akanu", "Akwanu", "Amaekpu", "Amaokwe", "Amaokwo", "Apanu", "Okagwe", "Okayi", "Okoko", "Umuakpa", "Umunnato", "Umuokpo", "Ibom", "Mbukwa", "Ndi-Iwo", "Ntalakwu", "Okpoedi", "Umuokpe", "Amadiaba", "Amaedukwo", "Amaohoro", "Amaokpu", "Eluama", "Muegwu", "Nkporo", "Odua", "Okpobia", "Ugwu", "Umuede", "Amagbo", "Ebem", "Elugwumba", "Idiagbo", "Ihie Mba", "Mgbele", "Ndiaikpakpim", "Ndiobu", "Ndiokoroguodu", "Ndiombe", "Obuofia", "Ofiavu", "Ogboko", "Umukpti", "Umuobia", "Umuokoroali", "Umuolazi", "Amaba", "Amaeze", "Amagu/Amaba", "Amangwu", "Amauta", "Amiyi", "Ezenta", "Ezeukwu", "Ndielu", "Umungwere", "Achi", "Amabo", "Amaugwu", "Amabia", "Amazu", "Umuokwu", "Akoli Imenyi", "Amaoji", "Elu-Lodu", "Lodu", "Lohum", "Agbozu", "Amamba", "Amankwo", "Ngwu"]
+        },
+        "5": {
             "name": "Ikwuano",
             "official": "Ikwuano Local Government",
             "areas": ["Ahaba", "Ahuwa", "Akanu Nchara", "Amaegbu", " Amaoba Ikputu", "Amaoba Ime", "Amawom", "Amizi", "Amuro", "Ariam Ala-Ala", "Ariam Elu-Elu", "Aro Ajatakiri", "Aro Ayama", "Awomukwu", "Azuiyi", "Azunchai", "Ekebedi", "Ekpiri Ala-Ala", "Ekpiri Elu-Elu", "Ekwelu", "Elemaga", "Eleogu", "Etoruo Nchara", "Iberenta", "Ihim", "Inyila", "Isiala", "Itunta", "Iyalu", "Ndieke", "Ndiokoro", "Ndiorie", "Ndoro", "Ngwugwo", "Nkalunta", "Nnono", "Ntalakwu", "Obeama", "Oboni", "Obugwu", "Obuohia", "Obuoru", "Obunta", "Obuohia Okike", "Ogbuebulle", "Okwe", "Oloko", "Umuariaga", "Umudike", "Umugbalu", "Umugo", "Umuigu", "Umuokwo", "Upa", "Usaka Ukwu"]
-        },
-        "5": {
-            "name": "Isuikwuato",
-            "official": "Isuikwuato Local Government",
-            "areas": ["Agbama", "Ama-Ahia", "Amaba", "Amachara", "Amaisisi", "Amake", "Amangwu", "Amune", "Ekebe", "Eluama", "Etiti-Orji", "Igidi-Inyim", "Ndi Ogu", "Obayi", "Obodo", "Oguduasa", "Ohoroho", "Ojonja", "Otampa", "Ozara", "Umuama", "Umuasua", "Umuebere Aja", "Umuebere Nkuma", "Umuerem", "Umuezeoka", "Umuihe", "Umuokogbuo", "Umuokombo", "Umusoo"]
         },
         "6": {
             "name": "Isiala Ngwa North",
@@ -57,40 +57,54 @@
             "areas": ["Amaise", "Amaise-Ahaba", "Ehi-Na-Uguru Nvosi", "Isiala Nvosi", "Mbutu", "Ngwa", "Okporo Ahaba", "Omoba", "Osokwa–Nvosi", "Ovu-Ngwu", "Ovu-Okwu"]
         },
         "8": {
+            "name": "Isuikwuato",
+            "official": "Isuikwuato Local Government",
+            "areas": ["Agbama", "Ama-Ahia", "Amaba", "Amachara", "Amaisisi", "Amake", "Amangwu", "Amune", "Ekebe", "Eluama", "Etiti-Orji", "Igidi-Inyim", "Ndi Ogu", "Obayi", "Obodo", "Oguduasa", "Ohoroho", "Ojonja", "Otampa", "Ozara", "Umuama", "Umuasua", "Umuebere Aja", "Umuebere Nkuma", "Umuerem", "Umuezeoka", "Umuihe", "Umuokogbuo", "Umuokombo", "Umusoo"]
+        },
+        "9": {
             "name": "Obingwa",
             "official": "Obingwa Local Government",
             "areas": ["Abayi Okoroato", "Abala-Ibeme", "Mgboko", "Mgboko Ngwa", "Ndiakata", "Nlagu", "Oberete", "Obete-Ukwu", "Ohanze", "Onicha-Ngwa", "Owoelu", "Umuiroma", "Umuoha"]
         },
-        "9": {
+        "10": {
+            "name": "Ohafia",
+            "official": "Ohafia Local Government",
+            "areas": ["Ameke", "Amogudu", "Agboji", "Ameke Echichi", "Amanta", "Amebelu", "Amuba elu", "Amuba Agbor", "Binyom", "Agboha", "Ndi Okoronta", "Amaja", "Nderim", "Umueso", "Ukpoh", "Umuechuku", "Udanta", "Amamba", "Amangwu", "Ogbur", "Agboji Elu", "Agboji Agbor", "Abayi-Amaugwu", "Ayaba-Umueze", "Umubgasi", "Umuchchi", "Umuchlegbu", "Umule", "Umuocham", "Umuode", "Umuodu-Isiyi", "Umuoru", "Amangu", "Amuma", "Amungu", "Ofiele", "Amaogwuawu", "Amapu", "Amuzu", "Ibeku", "Mbutunta", "Umuagwu", "Umuihima", "Umuihioma", "Umuiimo-Osisiasa", "Umuimo", "Umuimo-Egbelu", "Umuobasi", "Osiloji", "Umudaba", "Umuekpe", "Umunankwoala", "Umuokoroche", "Umuoriaku", "Umuorika", "Umuoyonta", "Obiekwesu", "Okpuala-Aro", "Umuarakpa", "Umuejie", "Umugwua", "Umukaa", "Umukai", "Umuohia", "Umuonyenkwu", "Umuotuo", "Ebem", "Ihenta", "Ndi-Amogu", "Ndi-Anyaori", "Ndi-Okala", "Amaekpu", "Elu", "Ndi-Uduma-Ukwu", "Ndi-Uku", "Nkwebe", "Oboro", "Okagwe", "Okoro", "Agbaja-Nkporo", "Amurie-Nkporo", "Elughu-Nkporo", "Etitiana-Nkporo", "Ndi-Nko-Nkporo", "Obofia-Nkporo", "Okwoko-Nkporo", "Ukwa-Nkporo", "Amuke", "Asaga", "Eziafor", "Ndi-Ibe", "Ndi-Orieke", "Okon-Aku", "Abia", "Akanu", "Isiugwu", "Ndi-Uduma-Awoke"]
+        },
+        "11": {
+            "name": "Osisioma",
+            "official": "Osisioma Local Government",
+            "areas": ["Ariaria", "Asamoka", "Mbutu-Isiahia", "Mbutu-Umuga", "Oberete", "Ogbu", "Umudi", "Umuejijie", "Umuidigha", "Umungbede", "Umuocheala", "Umuojima-Ogbu", "Umuojima-Okereke", "Umuozo", "Amapu", "Amuzu", "Ibeku", "Mbutunta", "Umuagwu", "Umuihima", "Umuihioma", "Umuiimo-Osisiasa", "Umuimo-Amaogwuawu", "Umuimo-Egbelu", "Umuobasi", "Obiekwesu", "Okpuala-Aro", "Umuarakpa", "Umuejie", "Umugwua", "Umukaa", "Umukai", "Umuohia", "Umuonyenkwu", "Umuotuo", "Amauzu", "Mgboko-Umuete", "Umuaba", "Umuaga", "Umuara", "Umuobo", "Uratta/Amaekpu", "Akpa I", "Akpa II", "Akpa III", "Akpa iv", "Amaiyi", "Amankwu I", "Amankwu II", "Amaugha", "Okpalukwu", "Umuaja", "Umuenyikwu", "Umugala", "Umuncheagu", "Umunpata", "Umuobilaha II", "Umuobiloha I", "Umuokerete", "Okpuala", "Umumba", "Amapu-Igbengwo", "Amapu-Ighengwo", "Egbede", "Egbede-Owo", "Egbelu-Owo", "Ibibi", "Obuzor", "Okpokoroala", "Okpokotoala", "Umu-Ocho", "Umuaduru", "Umuagbara", "Umueji", "Umueke", "Umueze 11", "Umueze II", "Umuigwe", "Umuikea", "Umuodu-Ehichie", "Umuokoroegbu"]
+        },
+        "12": {
             "name": "Ugwunagbo",
             "official": "Ugwunagbo Local Government",
             "areas": ["Abayi", "Alaoji", "Akanu", "Amaokpu-Umuitiri", "Amaorji", "Amapu-Ukebe", "Amapu-Umodo", "Amavo", "Amuzu-Amaikoro", "Asa-Amuhi", "Asa-Nnentu", "Asa-Oberie", "Asa-Umunka", "Asaomumakwa", "Obegu", "Obuzor", "Osusu-Aku", "Ozaa-Umuebukwu", "Ngwaiyiekwe", "Nngwa", "Ukebe", "Umuama-Oke", "Umuchewu", "Umugo", "Umule-Osoamadi", "Umunkama", "Umuod", "Umuaja"]
         },
-        "10": {
+        "13": {
             "name": "Ukwa East",
             "official": "Ukwa East Local Government",
             "areas": ["Abayi", "Ala-Ukwu", "Akuma-Imo", "Azumini", "Ibeme", "Ikwueke", "Ikwu-orie", "Ikwuo-Rieator", "Ntigha-uzo", "Obohia", "Umuigbube-Achara", "Umuihu-Eze 2", "Ohuru"]
         },
-        "11": {
+        "14": {
             "name": "Ukwa West",
             "official": "Ukwa West Local Government",
             "areas": ["Asa-North", "Asa-South", "Ipu-East", "Ipu-South", "Ipu-West", "Obokwe", "Ozar-Ukwu", "Ozar West"]
         },
-        "12": {
+        "15": {
             "name": "Umuahia North",
             "official": "Umuahia North Local Government",
             "areas": ["Amafo Ihungwu", "Amafo Isingwu", "Amaogwugwu", "Isingwu Okpuala", "Nkwoegwu", "Ofeme", "Umuagu", "Umuahia", "Umuawa Alaocha", "Umuda Isingwu", "Umuda Okorocha", "Umuekwule", "Umukabia", "Umuoka", "Umuokoro", "Umuoriehi"]
         },
-        "13": {
+        "16": {
             "name": "Umuahia South",
             "official": "Umuahia South Local Government",
             "areas": ["Ahiaukwu", "Amakama", "Ezeleke", "Nsirimo", "Ogbodiukwu", "Ohiaocha", "Old Umuahia", "Omaegwu", "Ubakala"]
         },
-        "14": {
+        "17": {
             "name": "Umunneochi",
             "official": "Umunneochi Local Government",
             "areas": ["Umunneochi", "Okaiuga Nkwoegwu", "Amuda Achara", "Okafia", "Isukwuato", "Achara-Ihechiowa", "Oke-Ikpe", "Umuahia-Ikputu"]
         }
     }
 }
-
