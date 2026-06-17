@@ -520,6 +520,12 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Imeko_Afon](https://en.wikipedia.org/wiki/Imeko_Afon)
 -   [https://ogunstate.gov.ng/](https://ogunstate.gov.ng/)
 
+### Ondo State
+
+-   [https://en.wikipedia.org/wiki/Ondo_State](https://en.wikipedia.org/wiki/Ondo_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Ondo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Ondo_State)
+-   [https://ondostate.gov.ng/](https://ondostate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
