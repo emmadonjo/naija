@@ -556,3 +556,9 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Rivers_State](https://en.wikipedia.org/wiki/Rivers_State)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Rivers_State](https://en.wikipedia.org/wiki/List_of_villages_in_Rivers_State)
 -   [https://www.riversstate.gov.ng/](https://www.riversstate.gov.ng/)
+
+### Sokoto State
+
+-   [https://en.wikipedia.org/wiki/Sokoto_State](https://en.wikipedia.org/wiki/Sokoto_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Sokoto_State](https://en.wikipedia.org/wiki/List_of_villages_in_Sokoto_State)
+-   [https://sokotostate.gov.ng](https://sokotostate.gov.ng)

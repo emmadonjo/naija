@@ -7,7 +7,7 @@
     "capital": "Sokoto",
     "political_zone": "North West",
     "date_created": "03-02-1976",
-    "population":{
+    "population": {
         "male": 2706649,
         "female": 2600506
     },
@@ -23,127 +23,117 @@
         "1": {
             "name": "Binji",
             "official": "Binji Local Government",
-            "areas": []
+            "areas": ["Binji", "Bunkari", "Gwazzai", "Inname", "Jamali", "Maikulki", "S/Gabas", "S/Yamma", "Samama"]
         },
         "2": {
             "name": "Bodinga",
-            "official": "Bodinga  Local Government",
-            "areas": []
+            "official": "Bodinga Local Government",
+            "areas": ["Bodinga", "Garko", "Kaura-Minyo", "Mazar Gari", "Toma", "Badawa", "Dingyadi", "Kulafassa", "Tulluwa", "Badau", "Bindin", "Danguibi", "Dankurmi", "Lukuyawa", "S/Birn", "Sifawa"]
         },
         "3": {
             "name": "Dange Shuni",
             "official": "Dange Shuni Local Government",
-            "areas": []
+            "areas": ["Ba'olere", "Bakwandi", "Bisilan", "Bodai", "Budude", "Bulujiri", "Bungi", "Dali", "Dange", "Fajallu", "G/Kare", "Galma", "Gidan Ratsau", "Hausare", "Helele", "Himasa", "Jurga", "Radama", "Rakwandi", "Salau", "Sokwando", "Wababe", "Wahabi", "Adarawa", "Amanawa", "B/Hausawa", "Bata", "Bayo", "Danbarunji", "Danbua", "Dilungu", "Duma", "Gajara", "Galankawa", "Geera", "Gidado", "K/Kimba", "Kadabali", "Kwanawa", "Kwanbi", "Lofa", "Luga", "Lungu", "Majebela", "Makera", "Monde", "R/Konduna", "Rahen Ali", "Rekina", "Rudu", "Runjin man", "Sabaru", "Shuni", "Tsafanade", "Tsamiya", "Tsefe", "Tuntobe"]
         },
         "4": {
             "name": "Gada",
             "official": "Gada Local Government",
-            "areas": []
+            "areas": ["Duka Maje", "Gada", "Gilbadi", "Holai", "Ilah", "Bigal", "Gidan Fako", "Gidan mani", "Banqas", "Ingabura", "K/Buda", "Kadadi", "Kadassaka", "Kaddi", "Kaffa", "Kiri", "Kwarma", "Kyadawa", "Madawa", "R/doma", "Sagira", "Tsitse", "Wauru"]
         },
         "5": {
             "name": "Goronyo",
             "official": "Goronyo Local Government",
-            "areas": []
+            "areas": ["Awakkala", "Birjingo", "Boyakai", "Danasakko", "Giyawa", "Goronyo", "Kagara", "Kojiyo", "Kwakwazo", "Rimawa", "S/G-dole", "Shinaka", "Takakume", "Tsolawo", "Yarimawa", "Z. Sabara"]
         },
         "6": {
             "name": "Gudu",
-            "official": "Gudu  Local Government",
-            "areas": []
+            "official": "Gudu Local Government",
+            "areas": ["Awalkiti", "Bachaka", "Balle", "Boto", "Chillas", "Gwazanye", "Jurga", "K/Chana", "K/Sarki", "Kurdula", "Makaya", "Marken-Bori", "Salau", "Tsafanade", "Tulun-Doya", "Wababi"]
         },
         "7": {
             "name": "Gwadabawa",
             "official": "Gwadabawa Local Government",
-            "areas": []
+            "areas": ["Alela", "Asara", "Asara Arewa", "Attakwanyo", "Bamana", "Chancha", "Chimmola", "Dan Abba", "Gidan Kaya", "Gigane", "Huchi", "Mammande", "Manmansuka", "Meli", "T/Shanu", "Tudun Doki", "Tambagarka", "Wodai", "Zugana", "Abdalon-Salame", "Bakanta", "Tayyamane", "Bingga", "Dabuwasa", "Bati", "Tungan Maikomo", "Gobiro", "Mayal", "Here", "Yar Tunga", "Kubudawa", "Jilliki", "Tungan Makera", "Tungan Jijje", "Munlela", "Dangero", "Darna-Kilya", "Illela-Baraya", "Kiliya", "Kola", "Jema", "Tungar Zaki"]
         },
         "8": {
             "name": "Illela",
-            "official": "Illela  Local Government",
-            "areas": []
+            "official": "Illela Local Government",
+            "areas": ["Abarura", "Araba", "D/Salau", "Damba", "Dango", "Dauna", "G/Katta", "Gadan", "Garu", "Gidan Hamma", "Illela", "Kalmalo", "Ketti", "R/Gatti", "Sabon Gari", "Tarke", "Tozai", "Tsolawa"]
         },
-      
-       
         "9": {
             "name": "Isa",
             "official": "Isa Local Government",
-            "areas": []
+            "areas": ["Bafarawa", "Bargaja", "Gebe", "Gidan Bawa", "Gidan Dikko", "Isa", "Kurar Mota", "Modaci", "Rijia Mallam Ladan", "Shalla", "Tiddibale", "Tozai", "Tsabare", "Turba", "Yanfako"]
         },
         "10": {
             "name": "Kebbe",
             "official": "Kebbe Local Government",
-            "areas": []
+            "areas": ["Budun", "Dukura", "Fakku", "Garaci", "Girkau", "Gwandi", "Jabga", "Kebbe", "Kuchi", "Margai", "Matseri", "Nasa-Gudu", "San gi", "Ungushi", "Zugu"]
         },
         "11": {
             "name": "Kware",
             "official": "Kware Local Government",
-            "areas": []
+            "areas": ["Kasara", "T/mallamawa", "Tsaki", "Turanka", "Bargeni", "Dundaye", "G/Akwara", "G/Buba", "G/Danga", "G/Gabas", "G/Hamidu", "G/Kaya", "G/Modibbo", "G/Ruga", "G/Yaro", "Galaduntse", "Gandu", "Gumborawa", "Hadarawa", "Marabawa", "R/Samiya", "Bankanu", "Basansan R/Kade", "Gunduga", "K/kede", "Kalalawa", "Kware", "Gebawa", "Lambo", "Saki", "Walakai", "Zamau", "Bassan San", "Gidan Akura", "Hausawa", "More", "R/limma", "Sirijallu", "Ummaruma"]
         },
         "12": {
-            "name": "Bonny",
-            "official": "Bonny Local Government",
-            "areas": []
+            "name": "Rabah",
+            "official": "Rabah Local Government",
+            "areas": ["Gandi", "Gundumar-Bunu", "Kurya", "Tsamiya", "Yar Tsakuwa", "Baraya Zaki", "G/Buwai", "Galadima", "Gawa Kuke", "Goddodi", "Gundumar-Riji", "Mai Kujara", "Rabah", "Rarah", "Tofa", "Tursa", "Yari-Gwaddadi"]
         },
         "13": {
             "name": "Sabon Birni",
             "official": "Sabon Birni Local Government",
-            "areas": []
+            "areas": ["Gangara", "Gatawa", "Kalgo", "Kukawa", "Lajinga", "Makuwana", "Sabon Birni", "Tara", "Tsamaye", "U/Lalle"]
         },
         "14": {
             "name": "Shagari",
-            "official": "Shagari South Local Government",
-            "areas": []
+            "official": "Shagari Local Government",
+            "areas": ["Aggur", "Bulanyaki", "Doruwa", "Gangam", "Kajiji", "Lambara", "Lungu", "Mandera", "Rugga", "Sanyinnawal", "Shagari", "Tunya dole"]
         },
         "15": {
             "name": "Silame",
             "official": "Silame Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Gande", "Katami", "Kubodu", "Labani", "Maji", "Marafa"]
+        },
         "16": {
             "name": "Sokoto North",
             "official": "Sokoto North Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Adar Kwanni", "Dandi", "Karaye", "Mabara Kanti Sani", "Mabera Idi", "Mabera Mujaya", "Magajin-Gari", "Magajin-Rafi", "Mana", "Rujin Sambo", "Sabon Birni", "Salami", "Sarkin Musullumi", "Ungwar Jariri"]
+        },
         "17": {
             "name": "Sokoto South",
             "official": "Sokoto South Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Gagi", "Rijiyar Dorowa", "Sarkin Zamfara", "Tudun-Wada"]
+        },
         "18": {
             "name": "Tambuwal",
             "official": "Tambuwal Local Government",
-            "areas": []
-        }  
-        ,
+            "areas": ["Alasan", "Bagida", "Bashire", "Dogon Marke", "Faga", "Ganuwa", "Garba Magaji", "Kaura Salihu", "Lukingo", "Maikada", "Moradun", "Shimfiri", "Tambawal", "Yagawal", "Zomawa", "Bancho", "Barkeji", "Dogon-Daji", "Gambu", "Nabaguda", "Sabawa", "Salah", "Shabra", "Bakaya", "Barga", "Danmadi", "Gindi", "Kaya", "Madacci", "Barkini", "Chakai", "Jabo", "Kagara", "Modo", "Garam", "Goshe", "Gudum", "Saidah", "Sanyinna"]
+        },
         "19": {
             "name": "Tangaza",
             "official": "Tangaza Local Government",
-            "areas": []
-        }  
-        ,
+            "areas": ["Gidan-Madi", "Gongono", "Gurdam", "Kalanjeni", "Kwachehuro", "Magonho", "Raka", "Ruwan Wuri", "Sakkwai", "Salewa", "Suti", "Tangaza"]
+        },
         "20": {
             "name": "Tureta",
             "official": "Tureta Local Government",
-            "areas": []
-        }  
-        ,
+            "areas": ["Bimasa", "Bimasa Lofa", "Dorawa", "Duma Nasarawa", "Fura-Girke", "G/kare", "Kawara", "Kuruwa", "Kwarare", "Ruga Budda", "Tureta"]
+        },
         "21": {
             "name": "Wamako",
             "official": "Wamako Local Government",
-            "areas": []
-        }  
-        ,
+            "areas": ["Dundaye", "Gidan Buba", "Gidan Hamidu", "Gidan Kaya", "Gidan Yaro", "Gumborawa", "Gumbi", "Kalambaina", "Kasarawa", "Wajake", "Gedawa", "Gwamatse", "K/Kimba", "Kamatta", "Kaura Kamba", "Wammako"]
+        },
         "22": {
             "name": "Wurno",
             "official": "Wurno Local Government",
-            "areas": []
-        }  
-        ,
+            "areas": ["Achida", "Alkanmu", "G/Bango", "Gyalgyal", "Kwasare", "Lalodu", "Sisawa", "Adakela", "Chacho", "Dankemu", "Dinawa", "Dinbiso", "Kwargaba", "Magargaba", "Magarya", "Marafa", "Marnowa", "S/Bazai-Abdu", "Wurno"]
+        },
         "23": {
             "name": "Yabo",
             "official": "Yabo Local Government",
-            "areas": []
-        }  
+            "areas": ["Bakale", "Birni Ruwa", "Kilgori", "Bingaje", "Binji", "Budurega", "Dono", "Fakka", "Kibiyare", "Muza", "Ruggar", "Torankawa", "Yabo"]
+        }
     }
 }
