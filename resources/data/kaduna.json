@@ -42,7 +42,7 @@
         "2": {
             "name": "Chikun",
             "official": "Chikun Local Government",
-            "areas": ["Kujama", "Bagado", "Chikun", "Doga-Maijama", "Gayan", "Kakau", "Kashebo", "Kotarma", "Mafoina", "Matari", "Kujama", "Mai Jama'a", "Narayi", "Rido", "Sabon Tasha", "Sabon Yelwa", "Tsaunin Kura", "Unguwar Sunday", "Buruku", "Gadani", "Gwagwada", "Kasaya", "Katarma", "Kugo", "Kunai", "Kuriga", "Nassarawa", "Karji"]
+            "areas": ["Kujama", "Bagado", "Chikun", "Doga-Maijama", "Gayan", "Kakau", "Kashebo", "Kotarma", "Mafoina", "Matari", "Mai Jama'a", "Narayi", "Rido", "Sabon Tasha", "Sabon Yelwa", "Tsaunin Kura", "Unguwar Sunday", "Buruku", "Gadani", "Gwagwada", "Kasaya", "Katarma", "Kugo", "Kunai", "Kuriga", "Nassarawa", "Karji"]
         },
         "3": {
             "name": "Giwa",
@@ -97,7 +97,7 @@
         "13": {
             "name": "Kaura",
             "official": "Kaura Local Government",
-            "areas": ["Kaura", "Manchok", "Kagoro", "Zaman Dabo", "Apio Kura", "Azente", "Biniki", "Mayigbung", "Me-Bonet", "Tinat Akut", "Tsok-Waney", "Akuku", "Bondong", "Chanshia", "Chikka", "Me-Boye", "Me-Bung", "Me-Kpakpang", "Me-Kura", "Me-Sankwai", "Tsok Adam", "Tsoknbwanu", "Tyekum", "Agafuwat", "Kadau", "Koduak", "Oagun Tsuod", "Zankan", "Fada Cikin Gari", "Fada Dutse", "Khikarak", "Anturung", "Fadan Attakar", "Tachira", "Katsak", "Sakinye", "Tajak", "Aze-Nok", "Gizagwai", "Me-Kukat", "Tsok-Amin", "Kangurung", "Agban", "Kukum", "Malagum", "Kpak", "Kpen", "Makera", "Safiyo", "Sakong", "Turap", "Kafi Tahuwop", "Lawkok", "Tirim", "Tswokwai", "Zakwa", "Aduan", "Kankasa", "Kpiruk", "Kukum Dutse", "Kukum Gida", "Manchok", "Chori Marwa", "Hayin Gora", "Sakan", "Tafan", "Sabon Gari"]
+            "areas": ["Kaura", "Manchok", "Kagoro", "Zaman Dabo", "Apio Kura", "Azente", "Biniki", "Mayigbung", "Me-Bonet", "Tinat Akut", "Tsok-Waney", "Akuku", "Bondong", "Chanshia", "Chikka", "Me-Boye", "Me-Bung", "Me-Kpakpang", "Me-Kura", "Me-Sankwai", "Tsok Adam", "Tsoknbwanu", "Tyekum", "Agafuwat", "Kadau", "Koduak", "Oagun Tsuod", "Zankan", "Fada Cikin Gari", "Fada Dutse", "Khikarak", "Anturung", "Fadan Attakar", "Tachira", "Katsak", "Sakinye", "Tajak", "Aze-Nok", "Gizagwai", "Me-Kukat", "Tsok-Amin", "Kangurung", "Agban", "Kukum", "Malagum", "Kpak", "Kpen", "Makera", "Safiyo", "Sakong", "Turap", "Kafi Tahuwop", "Lawkok", "Tirim", "Tswokwai", "Zakwa", "Aduan", "Kankasa", "Kpiruk", "Kukum Dutse", "Kukum Gida", "Chori Marwa", "Hayin Gora", "Sakan", "Tafan", "Sabon Gari"]
         },
         "14": {
             "name": "Kauru",
@@ -127,7 +127,7 @@
         "19": {
             "name": "Sabon Gari",
             "official": "Sabon Gari Local Government",
-            "areas": ["Samaru", "Basawa", "Bomo", "Dogarawa", "Zabi", "Kwari", "Barashi", "Muchiya", "Palladan", "Chikaji", "Hanwa", "Jushin Waje", "Jama'a", "Unguwar Gabas", "Barashi", "Basawa Tsakiya", "Bauda", "Biso", "Dan Makwarwa", "Galadima", "Gwanda Tsakiya", "Layin Zomo", "Madaki", "Malam Sale", "Palladan Tsakiya", "Rimin Tsiwa", "Sakadadi", "Sarkin Fulani", "Unguwar Amfani", "Unguwar Barau", "Unguwar Makera", "Unguwar Na'inna", "Unguwar Rimi", "Unguwar Yaro", "Unguwar Turaki", "Unguwar Dan Gaiya", "Unguwar Hayin Liman", "Unguwar Sabon Layi", "Unguwar Malam Halilu", "Zangon Dan Baro", "Babban Titi", "Bomo Tsakiya", "Cediyar Bawa", "Daurawa", "Dogon Bauchi", "Dorawar Malami", "Durumin Sabbi", "Gwanda", "Hayin Ojo", "Machiya", "Mangwarori", "Sabon Gari", "Shika Dam", "Tsugugi", "Yan-Awaki"]
+            "areas": ["Samaru", "Basawa", "Bomo", "Dogarawa", "Zabi", "Kwari", "Barashi", "Muchiya", "Palladan", "Chikaji", "Hanwa", "Jushin Waje", "Jama'a", "Unguwar Gabas", "Basawa Tsakiya", "Bauda", "Biso", "Dan Makwarwa", "Galadima", "Gwanda Tsakiya", "Layin Zomo", "Madaki", "Malam Sale", "Palladan Tsakiya", "Rimin Tsiwa", "Sakadadi", "Sarkin Fulani", "Unguwar Amfani", "Unguwar Barau", "Unguwar Makera", "Unguwar Na'inna", "Unguwar Rimi", "Unguwar Yaro", "Unguwar Turaki", "Unguwar Dan Gaiya", "Unguwar Hayin Liman", "Unguwar Sabon Layi", "Unguwar Malam Halilu", "Zangon Dan Baro", "Babban Titi", "Bomo Tsakiya", "Cediyar Bawa", "Daurawa", "Dogon Bauchi", "Dorawar Malami", "Durumin Sabbi", "Gwanda", "Hayin Ojo", "Machiya", "Mangwarori", "Sabon Gari", "Shika Dam", "Tsugugi", "Yan-Awaki"]
         },
         "20": {
             "name": "Sanga",
@@ -137,7 +137,7 @@
         "21": {
             "name": "Soba",
             "official": "Soba Local Government",
-            "areas": ["Maigana", "Soba", "Turawa", "Richifa", "Rahama", "Dan Wata", "Gimba", "Kinkiba", "Garun Gwanki", "Kwassallo", "Gamagira", "Kaware", "Matari", "Yakasai", "Dinya", "Fagachi", "Goirawa", "Hayin Kinkiba", "Kuzai", "Kwai", "Mabirni", "Madaba", "Maferawa", "Magada", "Marwa", "Richifa", "Sabon Kudi", "Sambvirni", "Tamba", "Wanka", "Yalwa Mai Akaranta", "Alhazawa", "Angwar Madaki", "Bakura", "Barwa", "Dan-Isa", "Dan-Jaba", "Dorayi", "Kuyamutsa", "Lungu", "Makoron Lemo", "Marmara", "Taba", "Taka Lafiya", "Tudun Saibu"]
+            "areas": ["Maigana", "Soba", "Turawa", "Richifa", "Rahama", "Dan Wata", "Gimba", "Kinkiba", "Garun Gwanki", "Kwassallo", "Gamagira", "Kaware", "Matari", "Yakasai", "Dinya", "Fagachi", "Goirawa", "Hayin Kinkiba", "Kuzai", "Kwai", "Mabirni", "Madaba", "Maferawa", "Magada", "Marwa", "Sabon Kudi", "Sambvirni", "Tamba", "Wanka", "Yalwa Mai Akaranta", "Alhazawa", "Angwar Madaki", "Bakura", "Barwa", "Dan-Isa", "Dan-Jaba", "Dorayi", "Kuyamutsa", "Lungu", "Makoron Lemo", "Marmara", "Taba", "Taka Lafiya", "Tudun Saibu"]
         },
         "22": {
             "name": "Zangon Kataf",
