@@ -507,6 +507,12 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Nasarawa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Nasarawa_State)
 -   [https://nasarawastate.gov.ng/](https://nasarawastate.gov.ng/)
 
+### Niger State
+
+-   [https://en.wikipedia.org/wiki/Niger_State](https://en.wikipedia.org/wiki/Niger_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Niger_State](https://en.wikipedia.org/wiki/List_of_villages_in_Niger_State)
+-   [https://nigerstate.gov.ng/](https://nigerstate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
