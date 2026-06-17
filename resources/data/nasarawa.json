@@ -18,73 +18,72 @@
     "nick_name": "Home of Solid Minerals",
     "languages": {
         "english": "English"
-        
     },
     "lga": {
         "1": {
-            "name": "Karu",
-            "official": "Karu Local Government",
-            "areas": []
-        },
-        "2": {
-            "name": "Keffi",
-            "official": "Keffi Local Government",
-            "areas": []
-        },
-        "3": {
-            "name": "Kokona",
-            "official": "Kokona Local Government",
-            "areas": []
-        },
-        "4": {
-            "name": "Nasarawa",
-            "official": "Nasarawa Local Government",
-            "areas": []
-        },
-        "5": {
-            "name": "Toto",
-            "official": "Toto Local Government",
-            "areas": []
-        },
-        "6": {
             "name": "Akwanga",
             "official": "Akwanga Local Government",
-            "areas": []
+            "areas": ["Ancho Babba", "Anjagwa", "Andaha", "Gugyar", "Mochu", "Ang Zaria", "Moroa", "Akwandar", "Anjida", "Bakin Kogi", "Boher", "Nigo", "Rija", "Aricha", "Gudi", "Gwadi", "Gbuje", "Gbunchu", "Gwanje", "Kambre", "Kurmin Tagwaye", "Ancho-Nigha'an", "Anji", "Arum", "Beki-Riga", "Katanza", "Nidan", "Numa", "Pam-Pam", "Gbujah", "Goho", "Nunku", "Nunku Chun"]
         },
-        "7": {
-            "name": "Nasarawa Egon",
-            "official": "Nasarawa Egon Local Government",
-            "areas": []
-        },
-        "8": {
-            "name": "Wamba",
-            "official": "Wamba Local Government",
-            "areas": []
-        },
-       
-        "9": {
+        "2": {
             "name": "Awe",
             "official": "Awe Local Government",
-            "areas": []
+            "areas": ["Abuni", "Awe", "Gadadima-Awe", "Kanje", "Kekura", "Kofin Moye", "Madakin Awe", "Magaji M. Awe", "Makwangiji Awe", "Akiri", "Arubagu", "Azara", "Mauakin Azara", "Ribi", "Wuse", "Barkano", "Baure", "Booga", "Gidrin Kadai", "Hassan Gayam", "Jagan Gari", "Jangara", "Tsohon Tunga", "Tunga"]
         },
-        "10": {
+        "3": {
             "name": "Doma",
             "official": "Doma Local Government",
-            "areas": []
+            "areas": ["Adadu", "Aguma", "Agwashi", "Akiwata", "Akptta", "Alagye", "Ana", "Arege", "Burumburum", "Ruru", "Doka", "Gidan Rai", "Yelwa", "Awuse", "Doma", "Gwanshigid", "Kwarra", "Okuba", "Osabonya", "Osote", "Wunge", "Agyema", "Akpanaja", "Ankana", "Equd Adori", "Rukubi"]
         },
-        "11": {
+        "4": {
+            "name": "Karu",
+            "official": "Karu Local Government",
+            "areas": ["Abam", "Abui", "Achak", "Ago", "Agwan Sauyi", "Akwaf", "Ang. Paparo", "Ang. Payasha", "Ang. Wayo", "Anguwa-Ayaba", "Angwa Maje", "Angwan Alura", "Angwan Gyara", "Ankara", "Ankoma", "Ankomaa", "Ankuta", "Auta", "Bagaji", "Bunkusa", "Dakuma", "Dangwa", "Dogon Daji", "Duaro", "Dutsen Gogo", "Gaibo", "Garamba", "Gardi", "Gid Bagobiri", "Gidan Alhassan", "Gidan Bugobiri", "Gidan Dogo", "Gidan Kiso", "Gidan-Allura", "Gunduma", "Gwalaji", "Iatara", "Jaba Panda", "Jemage", "Jimagen Mada", "Kajin", "Kare", "Kawo", "Kogintaro", "Kogon Masha", "Kondoro", "Kondoro-Yeskwa", "Kuban", "Kube", "Kubere", "Kuda", "Kuda-Yeskwa", "Kukan", "Kukok-Gardi", "Kukuri", "Kunan", "Kurmin Giwa", "Kwagiri", "Kwaso", "Lengwanpa Koro", "Padan Gwari", "Panda", "Panigbe", "Paperi", "Rafin Pa'a", "Shadami", "Shinkafa", "Takalafia", "Tanga", "Tudu Uku", "Tudun-wada", "Zang Gitata", "Zungon Gitata", "Ang. Maiganga", "Bakin Kogi", "Dansa", "Jijefe", "Kabeni", "Karshi", "Katal", "Kurafe", "Kwatarma", "Piyanku", "Rafin Kwara", "Sabon Layi", "Ang. Rana", "Anta Ba Laifi", "Aso Pada", "Auta Gurgi", "Bakin Ado I", "Guata", "Gurku", "Jan Kanwa", "Jikwai", "Kabusu", "Kalbo Mada", "Karu", "Katare", "Kofa", "Kucikau", "Kufe", "Kugwaru", "Kurman Daura", "Lakwa", "Liguda", "Mararaban-Gurku", "Masaka", "Nassarawa Bada", "Pakin Ado II", "Timutna", "Yayan Gwandara", "Yelwan Sobo", "Agada", "Ang Bako", "Ang. Chediya", "Ang. Gwandara", "Ang. Jaba", "Ang. Kade", "Ang. Kura", "Ang. Madugu", "Ang. Malam", "Ang. Saka", "Ang. Shaho", "Ang. Shamaki", "Ang. Soji", "Ang. Tandu", "Ang. Toni", "Ang. Tudu", "Ang. Waya", "Ang. Zakara", "Badiko", "Bako", "Dauduwa", "Dorawa", "Dorawan Kunu", "Eshi", "Gidan Biri", "Gidan Kwaro", "Gidan Liman", "Gidan Rai", "Gidan Saka", "Gidan Sarki Noma", "Gidan Shaho", "Gora", "Gwagwa", "K/Gwandara", "Kadaki", "Katun Mada", "Keffi Shanu", "Madubi", "Magajin Gari", "Murai", "Nike", "Roguwa", "Saka", "Shata", "Tsakani", "Tudun Wada", "Tundun Uku", "Uke", "Yelwa"]
+        },
+        "5": {
             "name": "Keana",
             "official": "Keana Local Government",
-            "areas": []
+            "areas": ["Agaza", "Aloshi", "Omogade", "Agbari Agbashu", "Akuna", "Gaskawa", "Giza", "Odapu Ogaji", "Abubakar-Isaleku", "Kadarko", "Kwara", "Keana"]
         },
-        "12": {
+        "6": {
+            "name": "Keffi",
+            "official": "Keffi Local Government",
+            "areas": ["Ang. Salabu", "Anguwan Jaba", "Anguwan Maiganga", "Anguwan-Lambu", "Dan Dabi", "Fagidi", "Ganta", "Gidan-Kare", "Jigwada", "Kaibo Mada", "Sabon Gari", "Saura", "Tila", "Tunayi", "Yar Kadde"]
+        },
+        "7": {
+            "name": "Kokona",
+            "official": "Kokona Local Government",
+            "areas": ["Agwada", "Ajuye", "Akolo", "Akware", "Amaha", "Amba", "Ambase", "Ang. Arume", "Ang. Doka", "Ang. Magaji", "Ang. Mai Nasara", "Ang. Mai Sauri", "Ang. Yaro", "Ang. Zabuwa", "Apawu", "Arusu", "Atama", "Audun Galadima", "Auguwan Kuramai", "Bakin Ayeni", "Bassan Zarangi", "Bazariye", "Dari", "Doma", "Endo", "Garaku", "Gate", "Gidan Sarkin", "Gidan-Mal Ugo", "Gudindi", "Gungu", "Gunka", "Gurgu", "Hadar", "Igwo", "Jama-Agayan", "Jenta", "Kabugu", "Kafanchan Mada", "Kana", "Kandare", "Karu-Mada", "Kodo", "Kokona", "Kubero", "Kufan Gwari", "Kundami", "Kurmin Shinkaf", "Kuture", "Lamingan Janjala", "Lokogoma", "Mahuta", "Marke", "Maro", "Maute", "Ninkoro", "Noma", "Rafin Gabas", "Sabon Gida", "Sakwato", "Shabu", "Tatara Mari", "Uken Bassa", "Yelwan Bassa", "Yelwan Mai-Taba"]
+        },
+        "8": {
+            "name": "Lafia",
+            "official": "Lafia Local Government",
+            "areas": ["Abu", "Achigogo", "Adogi", "Agbulagu", "Akura", "Akuya", "Alawa-Gana", "Ambana", "Andasin", "Aridi", "Arikya", "Arugbadu", "Ashangwa", "Ashige", "Assakio", "Awuwa", "Azuba", "Barikin Abdullahi", "Barkin Kogi", "Danka", "Fefe Ruwa", "Gidan-Aiki Ajiga", "Giddan Akeffi", "Gilan Buka", "Godam Mai", "Gwayaka", "Jibel", "Keffi Wambai", "Kiguna", "Kireyi", "Koro Kuje", "Kwandere", "Mankwar", "Padaman-Bauna", "Padan Bauwa-Alh Audu", "Rafin Ganye", "Randa", "Sabon Gida", "Shabu", "Shimar", "Tunga Nupawa", "Ugah", "Wanza", "Wata", "Wuyi", "Zagyo", "Zambala", "Angbako", "Ashapa", "Awuma", "Awuye", "Bakin-Gudi", "Ruwaya", "Takpa-Ozzi", "Agabija", "Agudu", "Agyarag Yakubu", "Agyaragu To", "Akunza", "Akurba", "Akurba Asanya", "Alakyo", "Angwa Ayaba", "Bassa", "Bukan Allu", "Bukan Buzu", "Bukan Kwato", "Bukan Sidi", "Bukan Tambo", "Chiroma", "Gandu Sarki", "Gayam", "Gimare", "Gudu Sarki", "Kan Ashara", "Kayarda", "Kurikyo", "Lachuce", "Lahuce", "Madagwa", "Mararaba", "Sabo Dale", "Wakwa", "Zanwa"]
+        },
+        "9": {
+            "name": "Nasarawa",
+            "official": "Nasarawa Local Government",
+            "areas": ["Aguba", "Aissa", "Angewa", "Ataga", "Ayele", "Aza", "Bakono", "Dora", "Guto", "Gwafa", "Hamsin-Hamsin", "Illa", "Illshan-Kasa", "Mai Yawa", "Oshugun", "Rafin Sita", "Tunga", "Uke", "Zangon-Daji", "Agoi", "Ara", "Araba", "Dansa", "Gida Biri", "Gidan S/Wari", "Gogon Dutse", "Gudigi", "Gunki", "Kampanu", "Kurudu", "Laminga", "Marmara", "Marrarabar Ara", "Nahuche", "Nassarawa", "S/Garin", "Saukan-Ara", "Shamage", "Tammah", "Tulluwa", "Zabutu", "Zaku Bello", "Zaku Sarki", "Afura", "Agam", "Akum", "Amaku", "Andewayo", "Apawu", "Endo", "Gidan Zabutu", "Itta", "Kama Otto", "Kana", "Marraraban", "Odu", "Ombi", "Ube", "Udege Kasa", "Udegi", "Udenin Gida", "Udenin Magaji", "Useni", "Yelwa"]
+        },
+        "10": {
+            "name": "Nasarawa Eggon",
+            "official": "Nasarawa Eggon Local Government",
+            "areas": ["Agunji", "Alogani", "Angbaku-Krami", "Angbaku Buba", "Arikpa", "Ezzen", "Galle", "Gbamze", "Ogba", "Ogbagi", "Wakama", "Wogan", "Aboshon", "Alushi", "Awunza", "Burum-Burum", "Ekpan", "Ekpon", "Endehu", "Gaji", "Ginda", "Igeah", "Ikka", "Kagbu Ero", "Kudugba", "Lambaga", "Landama Onzu", "Lizzin Keffi", "Mada Station", "Ubbe", "Wachuku", "Wana", "Wangibi", "Washo", "Wata", "Whazan", "Wolaga", "Wollon", "Women", "Wulko", "Alizaga", "Arugbadu", "Bakyano", "Eggon", "Sako", "Umme"]
+        },
+        "11": {
             "name": "Obi",
             "official": "Obi Local Government",
-            "areas": []
+            "areas": ["Adudu", "Agwatashi", "Akanga", "Atabara", "Daddere", "Dedere", "Obi", "Abiuga", "Agrugwa", "Agwade", "Agyaragu", "Ajeregwa", "Akaba", "Akaleku", "Akunza Migula", "Akwanka", "Angantiv", "Angwan-Madaki", "Ashiga", "Ashipe", "Atu Kwasa", "Baba", "Dazillah", "Duduguro", "Echiechene", "Eregwa", "Eshugu", "Gidan Ausa", "Gwadanya", "Idevi", "Kwashiri", "Kyakale", "Mutum Daya", "Sabo", "Tabula", "Umah"]
+        },
+        "12": {
+            "name": "Toto",
+            "official": "Toto Local Government",
+            "areas": ["Abebasen", "Akureba", "Akwashi", "Araba", "Buga", "Buke", "Daji", "Dajio", "Dikko", "Gada bake", "Garagwa", "Gombe", "Gudun Karya", "Gwargwada", "Jaun", "Karmo", "Karmo Ganji", "Kpembo", "Kulo Sabo", "Kunke", "Loko-Goma", "Madeki", "Majaga", "Muro", "Nakuse", "Offu", "Pesun", "Saukan Buga", "Saukan-Kure", "Segiya", "Tudu-Uku", "Warrakata", "Zochi", "Adadu", "Ajurawa", "Akutu", "Bakate", "Biye", "Chiji", "Dare", "Dumbeku-Toto", "Gate", "Gbwachi", "Inyeji", "Karbana", "Kolo", "Kuru", "Ladaya", "Rakpami", "Rudu", "Sadauna", "Shaffa Abakwa", "Shaffan Kwato", "Shekara-Uku", "Shinshinga-Nashi", "Toto", "Ugya", "Ukya-Sabo", "Zono", "Anda", "Dausu", "Egwa Pati", "Fofuru", "Iggi", "Kaita", "Katakwa", "Kein Yahu", "Kokoto", "Kpadebu", "Kuwa", "Ogbere", "Shege", "Sogane", "Uffu", "Umaisha"]
+        },
+        "13": {
+            "name": "Wamba",
+            "official": "Wamba Local Government",
+            "areas": ["Ambaka", "Amboga", "Arum", "Arum Sarki", "Binna", "Chini", "Chugbu", "Jimiboli", "Jimiya", "Jini Duffat", "Jini Mut", "Kado", "Kam Lamo", "Kanje", "Kumurum", "Kwarra", "Lam Kire", "Machai", "Mangar", "Mansseuge", "Marhai", "Muggu", "Muttu", "Shawai", "Shua", "Toff", "Tsaro", "Tumara", "Turkwai", "Ukambu", "Ukanju", "Ukolo", "Yashi", "Angba", "Angbo", "Dechu", "Gbagi", "Gbata", "Gbogi Ugu", "Gbombu", "Gbriji", "Gbude", "Gitta Barmo", "Gitta Kasa", "Gitta Klogba", "Sisinbaki", "Gitta Maisaje", "Gitta Mbasha", "Jidda", "Klama", "Konvah", "Kose", "Kurize", "Kwanza", "Lago", "Langi", "Maigauga", "Nakere", "Ninkada", "Ogye", "Ragga", "Riuza", "Ugure", "Ungo", "Utugu", "Wado", "Waja", "Waji", "Wamba", "Wamba Kurmi", "Wayo Arewa", "Wayo Kudu", "Wude Kurmi", "Wude Kwano", "Wuji"]
         }
-
-        
-       
-}
-
+    }
 }

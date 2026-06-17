@@ -501,6 +501,12 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Ibeju-Lekki](https://en.wikipedia.org/wiki/Ibeju-Lekki)
 -   [https://lagosstate.gov.ng/](https://lagosstate.gov.ng/)
 
+### Nasarawa State
+
+-   [https://en.wikipedia.org/wiki/Nasarawa_State](https://en.wikipedia.org/wiki/Nasarawa_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Nasarawa_State](https://en.wikipedia.org/wiki/List_of_villages_in_Nasarawa_State)
+-   [https://nasarawastate.gov.ng/](https://nasarawastate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
