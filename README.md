@@ -533,3 +533,13 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Irepodun,_Osun_State](https://en.wikipedia.org/wiki/Irepodun,_Osun_State)
 -   [https://en.wikipedia.org/wiki/Ifelodun,_Osun_State](https://en.wikipedia.org/wiki/Ifelodun,_Osun_State)
 -   [https://www.osunstate.gov.ng/](https://www.osunstate.gov.ng/)
+
+### Oyo State
+
+-   [https://en.wikipedia.org/wiki/Oyo_State](https://en.wikipedia.org/wiki/Oyo_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Oyo_State](https://en.wikipedia.org/wiki/List_of_villages_in_Oyo_State)
+-   [https://en.wikipedia.org/wiki/Ogbomosho_North](https://en.wikipedia.org/wiki/Ogbomosho_North)
+-   [https://en.wikipedia.org/wiki/Ogbomosho_South](https://en.wikipedia.org/wiki/Ogbomosho_South)
+-   [https://en.wikipedia.org/wiki/Oluyole,_Nigeria](https://en.wikipedia.org/wiki/Oluyole,_Nigeria)
+-   [https://en.wikipedia.org/wiki/Ona_Ara](https://en.wikipedia.org/wiki/Ona_Ara)
+-   [https://oyostate.gov.ng/](https://oyostate.gov.ng/)
