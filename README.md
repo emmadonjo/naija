@@ -101,6 +101,10 @@ Then you can access the assets as follows:
 -   `/images/logos/abia.png`
 -   `/images/flags/abia.png`
 
+## Contributing
+
+Contributions are welcome — whether that's fixing or filling in a state's LGA/area data, or improving the PHP API. See [CONTRIBUTING.md](CONTRIBUTING.md) for the data format, sourcing requirements, and how to run the test suite.
+
 ## Sources
 
 ### General
