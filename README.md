@@ -528,4 +528,8 @@ Then you can access the assets as follows:
 
 ### Osun State
 
+-   [https://en.wikipedia.org/wiki/Osun_State](https://en.wikipedia.org/wiki/Osun_State)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
+-   [https://en.wikipedia.org/wiki/Irepodun,_Osun_State](https://en.wikipedia.org/wiki/Irepodun,_Osun_State)
+-   [https://en.wikipedia.org/wiki/Ifelodun,_Osun_State](https://en.wikipedia.org/wiki/Ifelodun,_Osun_State)
+-   [https://www.osunstate.gov.ng/](https://www.osunstate.gov.ng/)
