@@ -494,6 +494,13 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Kwara_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kwara_State)
 -   [https://kwarastate.gov.ng/](https://kwarastate.gov.ng/)
 
+### Lagos State
+
+-   [https://en.wikipedia.org/wiki/Lagos_State](https://en.wikipedia.org/wiki/Lagos_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Lagos_State](https://en.wikipedia.org/wiki/List_of_villages_in_Lagos_State)
+-   [https://en.wikipedia.org/wiki/Ibeju-Lekki](https://en.wikipedia.org/wiki/Ibeju-Lekki)
+-   [https://lagosstate.gov.ng/](https://lagosstate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)

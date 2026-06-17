@@ -13,7 +13,7 @@
     },
     "website": "https://lagosstate.gov.ng/",
     "logo": "/images/logos/lagos.png",
-    "flag": "/images/logos/flags.png",
+    "flag": "/images/flags/lagos.png",
     "demonym": "Lagosians",
     "nick_name": "Center of Excellence",
     "languages": {
@@ -24,101 +24,102 @@
         "1": {
             "name": "Agege",
             "official": "Agege Local Government",
-            "areas": []
+            "areas": ["Isale", "Idimangoro", "Iloro", "Onipetesi", "Oniwaya", "Papa-Uku", "Agbotikuyo", "Dopemu", "Oyewole", "Papa Ashafa", "Okekoto", "Keke", "Darocha", "Tabon Tabon", "Oko Oba", "Orile Agege", "Isale Odo"]
         },
         "2": {
             "name": "Alimosho",
             "official": "Alimosho Local Government",
-            "areas": []
+            "areas": ["Shasha", "Akowonjo", "Egbeda", "Alimosho", "Idimu", "Isheri Olofin", "Akesan", "Ikotun", "Ijegun", "Egbe", "Agodo", "Igando", "Egan", "Ipaja North", "Ipaja South", "Ayobo", "Ijon Village", "Pleasure", "Oke-Odo", "Abule-Egba", "Aboru", "Meiran", "Alagbado"]
         },
         "3": {
             "name": "Ifako-Ijaye",
             "official": "Ifako-Ijaye Local Government",
-            "areas": []
+            "areas": ["Ijaye", "Old Ifako", "Karaole", "New Ifako", "Oyemekun", "Fagba", "Akute Road", "Iju Isaga", "Iju-Obawole", "Pamada", "Abule-Egba", "Ijaiye", "Ojokoro", "Agbado", "Kollington", "Alakuko", "Ajegunle", "Akinde", "Animashaun"]
         },
         "4": {
             "name": "Ikeja",
             "official": "Ikeja Local Government",
-            "areas": []
+            "areas": ["Anifowoshe", "Ikeja", "Ojodu", "Agidingbi", "Omole", "Alausa", "Oregun", "Olusosun", "Airport", "Onipetesi", "Onilekere", "Ipodo", "Seriki Aro", "Adekunle Village", "Adeniyi Jones", "Ogba", "Oke-Ira", "Aguda", "Onigbongbo", "Military Cantonment", "GRA", "Police Barracks", "Wasimi", "Opebi", "Allen"]
         },
         "5": {
             "name": "Kosofe",
             "official": "Kosofe Local Government",
-            "areas": []
+            "areas": ["Oworonshoki", "Ifako", "Soluyi", "Anthony", "Ajao Estate", "Mende", "Maryland", "Ojota", "Ogudu", "Ketu", "Alapere", "Agidi", "Orisigun", "Kosofe", "Ajelogo", "Akanimodo", "Ikosi Ketu", "Mile 12", "Agiliti", "Maidan", "Isheri-Olowo-Ira", "Shangisha", "Magodo Phase I & II", "Agboyi I", "Agboyi II", "Owode Onirin", "Ajegunle", "Odo-Ogun"]
         },
         "6": {
             "name": "Mushin",
             "official": "Mushin Local Government",
-            "areas": []
+            "areas": ["Alakara", "Idi-Oro", "Odi-Olowu", "Babalosa", "Ojuwoye", "Ilupeju", "Olateju", "Kayode", "Fadeyi", "Mushin", "Atewolara", "Papa-Ajao", "Ilasamaja", "Idi-Araba", "Itire", "Ilupeju Industrial Estate"]
         },
         "7": {
             "name": "Oshodi-Isolo",
             "official": "Oshodi-Isolo Local Government",
-            "areas": []
+            "areas": ["Oshodi", "Bolade", "Orile-Oshodi", "Isolo", "Ajao Estate", "Mafoluku", "Sogunle", "Alasia", "Okota", "Ishagatedo", "Oke-Afa", "Ejigbo"]
         },
         "8": {
             "name": "Shomolu",
             "official": "Shomolu Local Government",
-            "areas": []
+            "areas": ["Onipanu", "Palmgrove", "Ijebutedo", "Alade", "Bajulaiye", "Mafowoku", "Pedro", "Lad-Lak", "Bariga", "Ilaje", "Akoka", "Igbobi", "Fadeyi", "Fola Agoro", "Igbari-Akoka", "Gbagada Phase I Obanikoro", "Gbagada Phase II", "Apelehin", "Abule-Okuta"]
         },
-       
         "9": {
             "name": "Apapa",
             "official": "Apapa Local Government",
-            "areas": []
+            "areas": ["Apapa I", "Apapa II", "Apapa III", "Apapa IV", "Ijora-Oloye", "Olodan Street", "Gaskiya", "Afolabi Alasia Street", "Malu Road", "Sari"]
         },
         "10": {
             "name": "Eti-Osa",
             "official": "Eti-Osa Local Government",
-            "areas": []
+            "areas": ["Victoria Island I", "Victoria Island II", "Ilasan Housing Estate", "Lekki", "Ikate", "Ilado", "Eti-Osa", "Ajah", "Sangotedo", "Ado", "Langbasa", "Badore", "Ikoyi I", "Ikoyi II", "Obalende"]
         },
         "11": {
             "name": "Lagos Island",
             "official": "Lagos Island Local Government",
-            "areas": []
+            "areas": ["Olowogbowo", "Elegbata", "Oluwole", "Idumota", "Oke", "Oju-Oto", "Oko-Awo", "Agarawu", "Obadina", "Iduntafa", "Ilupesi", "Isale-Agbede", "Olosun", "Olushi", "Kakawa", "Popo-Aguda", "Anikantamo", "Oko-Faji", "Eiyekole", "Onikan", "Sandgrouse", "Epetedo", "Lafiaji", "Ebute"]
         },
         "12": {
             "name": "Lagos Mainland",
             "official": "Lagos Mainland Local Government",
-            "areas": []
+            "areas": ["Otto", "Iddo", "Olaleye Village", "Maroko", "Ebute Metta", "Oyingbo Market", "Glover", "Oko-Baba", "Oyadiran Estate", "Abule-Oja", "Alagomeji", "Iwaya", "Yaba", "Igbobi"]
         },
         "13": {
             "name": "Surulere",
             "official": "Surulere Local Government",
-            "areas": []
+            "areas": ["Orile", "Aguda", "Ijeshatedo", "Akinhanmi", "Cole", "Yaba", "Ojuelegba", "Igbaja", "Stadium", "Shitta", "Ogunlana Drive", "Adeniran", "Ogunsanya", "Iponri Housing Estate", "Eric Moore", "Coker", "Ikate", "Baya-Oje", "Igbon", "Gambari", "Iresaapa", "Arolu", "Iresaadu", "Iregba", "Iwofin", "Ilajue", "Mayin"]
         },
         "14": {
-            "name": "Ajeromi - Ifelodun",
-            "official": "Ajeromi - Ifelodun Local Government",
-            "areas": []
-        },"15": {
+            "name": "Ajeromi-Ifelodun",
+            "official": "Ajeromi-Ifelodun Local Government",
+            "areas": ["Ago Hausa", "Awodi-Ora", "Wilmer", "Olodi", "Tolu", "Temidire I", "Ojo Road", "Layeni", "Alaba Oro", "Mosafejo", "Temidire II"]
+        },
+        "15": {
             "name": "Amuwo-Odofin",
             "official": "Amuwo-Odofin Local Government",
-            "areas": []
-        },"16": {
+            "areas": ["Amuwo-Odofin Housing Estate Mile 2", "Festac I", "Festac II", "Kirikiri", "Amuwo", "Ijegun", "Satellite", "Irede", "Ibeshe", "Igbologun", "Festac III"]
+        },
+        "16": {
             "name": "Ojo",
             "official": "Ojo Local Government",
-            "areas": []
+            "areas": ["Ojo Town", "Okokomaiko", "Ajangbadi", "Ijanikin", "Iba", "Irewe", "Tafi", "Etegbin", "Idoluwo", "Sabo"]
         },
         "17": {
             "name": "Badagry",
             "official": "Badagry Local Government",
-            "areas": []
+            "areas": ["Posukoh", "Awhanjigoh", "Ibereko", "Keta-East", "Iworo Gbanko", "Ajido", "Ilogbo-Araromi", "Ikoga", "Ajara", "Iya-Afin"]
         },
         "18": {
             "name": "Ikorodu",
             "official": "Ikorodu Local Government",
-            "areas": []
+            "areas": ["Isele I", "Isele II", "Isele III", "Aga", "Ijimu", "Ipakodo", "Imota I", "Imota II", "Isiu", "Igbogbo I", "Igbogbo II", "Baiyeku", "Oreta", "Ijede I", "Ijede II", "Agura", "Iponmi", "Odogunyan", "Erikorodu", "Agbala", "Olorunda", "Igbaga"]
         },
         "19": {
             "name": "Ibeju-Lekki",
             "official": "Ibeju-Lekki Local Government",
-            "areas": []
+            "areas": ["Akodo", "Igando Oloja", "Lekki", "Lakowe", "Orimedu", "Debojo", "Iwerekun", "Siriwon", "Igbekodo", "Eputu", "Awoyaya", "Bogoje", "Badore", "Elerangbe", "Iberekodo", "Ibeju-Agbe", "Magbon-Alade", "Aiyeteju", "Eleko", "Elemoro", "Idi-Orogbo", "Abijo", "Mopo"]
         },
         "20": {
             "name": "Epe",
             "official": "Epe Local Government",
-            "areas": []
+            "areas": ["Etita", "Ebode", "Lagbade", "Popo-Oba", "Oke-Balogun", "Ajaganabe", "Ise", "Igbogun", "Oriba", "Ladaba", "Abomiti", "Agbowa", "Agbowa Ikosi", "Ago Owu", "Orugbo", "Ilara", "Ibonwon", "Odoragunsin", "Poka", "Odomola", "Ejirin", "Itoikin"]
         }
     }
 }
