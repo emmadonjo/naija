@@ -562,3 +562,9 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Sokoto_State](https://en.wikipedia.org/wiki/Sokoto_State)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Sokoto_State](https://en.wikipedia.org/wiki/List_of_villages_in_Sokoto_State)
 -   [https://sokotostate.gov.ng](https://sokotostate.gov.ng)
+
+### Taraba State
+
+-   [https://en.wikipedia.org/wiki/Taraba_State](https://en.wikipedia.org/wiki/Taraba_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Taraba_State](https://en.wikipedia.org/wiki/List_of_villages_in_Taraba_State)
+-   [https://tarabastate.gov.ng/](https://tarabastate.gov.ng/)

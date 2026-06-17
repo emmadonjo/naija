@@ -4,7 +4,7 @@
         "official": "Taraba State",
         "short_code": "TA"
     },
-    "capital": "Sokoto",
+    "capital": "Jalingo",
     "political_zone": "North East",
     "date_created": "27-08-1991",
     "population": {
@@ -23,85 +23,82 @@
         "1": {
             "name": "Ardo Kola",
             "official": "Ardo Kola Local Government",
-            "areas": []
+            "areas": ["Ardo-Kola", "Iware", "Jauro-Yinu", "Jiru", "Lamido-Borno", "Mallum", "Mayo-Ranewo", "Sarkin-Dutse", "Sibre", "Sunkani", "Tau", "Zongon-Kombi"]
         },
         "2": {
             "name": "Bali",
-            "official": "Bali  Local Government",
-            "areas": []
+            "official": "Bali Local Government",
+            "areas": ["Aka", "Aruta", "Asinai", "Badakoshi", "Bagoni", "Bajabure", "Bakundi", "Bali", "Bankayire", "Bariki", "Bayere", "Bokki", "Borno Kurukuru", "Cude", "Dali", "Daniya", "Fondulare", "Gangfir", "Gangumi", "Ganpentom", "Garbachede", "Garin Garba Kungana", "Garin Garba Suntai", "Garin Ulu", "Garin-Jatau", "Garke", "Gayo", "Gazabu-Balkeji", "Gongkwai", "Gurama", "Hawan-Mata", "Jameta-Kundi", "Jammiri", "Jauro-Bam", "Kaigama", "Kamalifidi", "Kankani", "Kararuwa", "Kasina", "Kungana", "Kwagiri", "Kwanah Jukun", "Kwanan Damisa", "Kwassa", "Mahanga", "Mahurmi", "Mai Biutu", "Mai hulo", "Maichibi", "Maigoge", "Maigoro", "Maikarfi", "Maikinta", "Mailaya", "Maisamari", "Maisaye-Yandang", "Mallam-Yaro", "Mayokam", "Murna-Chomu", "Nahuta", "Nakwai", "Nya", "Nyagong", "Nyalli", "Pangri", "Panri", "Sabon Dale", "Sabon Gida", "Sabon Kasuwa", "Sansani", "Sarkin-Bawa", "Shuwa", "Suntai", "Takalafiya", "Tondurum", "Tonti", "Waya", "Wurbu", "Wuro Amadu", "Yakai", "Yelwa", "Yelwa Kararuwa", "Zaga", "Ardo Tiba", "Boduri", "Dakka", "Dekusum", "Gamgboni", "Ganga Dole", "Gangbiyiwa", "Gangburanmaso", "Ganggira", "Gangkita", "Ganglari", "Garbatau", "Garin Ibrahim", "Garin Jatau", "Garin Samari", "Garin Sambo", "Garin-Kuri", "Gong Dole", "Jangare", "Kampu", "Kanwe Maroko", "Mading", "Mana Gangduniyaru", "Masa-Ibbi", "Mini Miri Donlola", "Nyawanti", "Nyenalongba", "Nyikusum", "Pamanga", "Shena", "Tiba", "Timjemi", "Wuro Hausa", "Zoban Shakuna"]
         },
         "3": {
             "name": "Donga",
             "official": "Donga Local Government",
-            "areas": []
+            "areas": ["Akate", "Akume", "Ananum", "Anzaye", "Atsagbo", "Ayabagri", "Bibinu", "Daton", "Donga", "Farin-Ruwa", "Gadarko", "Gankwe", "Gankwe-Bariki", "Gankwe-Yeba", "Gayama", "Gbamuna", "Gidan-Dutse", "Gidan-Jatau", "Gidan-Makeri", "Jatau", "Kumbo", "Lagos-Buban", "Mararaba", "Ndoro", "Nhuwha", "Nukpo", "Nukuya", "Numai", "Nyabe", "Nyimui", "Nyiru", "Nyita", "Sabongida", "Sabongida Tukura", "Sanso", "Suntai", "Tai", "Tisa", "Tor-Damisa", "Tunari", "Ude"]
         },
         "4": {
             "name": "Gashaka",
             "official": "Gashaka Local Government",
-            "areas": []
+            "areas": ["Adagoro", "Azoratar", "Balewa", "Boder", "Burtai", "Danbarau", "Dandi Gazabu", "Dogo Ajam", "Gameri", "Gandole", "Gangumi", "Garbabi", "Gashaka", "Gayam", "Geidam Gindin-Dutse", "Gidan Tiv", "Gidan Usman", "Goje", "Gumti", "Injawai", "Jamtari", "Karamti", "Kobaje", "Kofai-Kwagir", "Lagaso", "Mai Suma", "Mayo Handu", "Mayo Kam", "Mayo Selbe", "Mayo-Yim", "Nagamu Sallama", "Nyabar", "Sangere", "Sarkin Ruwa", "Serbe", "Serti", "Taraba", "Tonga", "Tungwa", "Yakuba"]
         },
         "5": {
             "name": "Gassol",
             "official": "Gassol Local Government",
-            "areas": []
+            "areas": ["Ashi-Arage", "Beida", "Borno", "Duniya Dan-Anacha", "Gargala", "Gassol", "Gidan-Sartin", "Gombe", "Jafuma", "Kufai", "Madani", "Maiwuya", "Mbodawa", "Nafuche", "Namguru", "Nassarawa", "Njiddawa", "Sabongida", "Sendurde", "Takai", "Tella", "Wurno", "Wuro-Boki", "Wuro-Jam", "Wuryo", "Abba", "Agungu", "Aho-Abun", "Awambe", "Bada-Koshi", "Dajo", "Garba Chede", "Garin Mallam", "Gidan Hav", "Gunduma", "Jara-Babba", "Jauro-Manu", "Maigemu Nannai", "Mnyamchie", "Mutum Biyu", "Peou", "Sabon-Magaji", "Samda", "San-Sani", "Sarkin Shira", "Sarkin-Ruwa", "Sha-Apela-Agbe", "Torkegh", "Tsokugh-Aberaka", "Tura Keke", "Tutare", "Unguwar-Maji", "Wuro-Mane", "Yerima"]
         },
         "6": {
             "name": "Ibi",
-            "official": "Ibi  Local Government",
-            "areas": []
+            "official": "Ibi Local Government",
+            "areas": ["Dampar", "Farin-Ruwa", "Gidan-Alhaji", "Gidan-Dangiwa", "Kauyen-Dodo", "Kurmin-Sauri", "Mavo", "Sarki-Noma", "Anbua-Oranya", "Awuru-Audu", "Badan-Koshi", "Gazok", "Gindin-Waya", "Gishiru-Hassan", "Ibi", "Ibua", "Kauyen-Sarki", "Kegh-Aguji", "Kogiwase", "Koso", "Maso", "Mkouor-Nyinka", "Moti", "Tepga", "Tudun-Wadan", "Yamuer-Agbakyo", "Dogon-Ruwa", "Dooshima", "Gurbin-Dutse", "Kauyen-Safiyo", "Rafin-Danisa", "Sarkin-Kudu"]
         },
         "7": {
             "name": "Jalingo",
             "official": "Jalingo Local Government",
-            "areas": []
+            "areas": ["Abbare", "Abuja", "Askarawa", "Ambaliya", "Bakari", "Balau", "Baraya", "Bubai", "Dogo", "Dorowa", "Fan", "Gada Walawol", "Gajer", "Gamyel", "Garin Baba", "Garin Jalo", "Garin Kari", "Garin Sarki-Fada", "Hamdella", "Iyabamuye", "Jaure Shendu", "Jauro Abba", "Jauro Awo", "Jauro Yeno", "Jauro Votoh", "Jekadafari", "Jen Bambu", "Jivunu", "Kaduna Iyali", "Kalanko", "Kanbi", "Karofi", "Kasuwan Yelwa", "Kona Manga", "Korkaye", "Magami", "Mallam Ali", "Mafindi", "Mallam-Gabdo", "Mallam-Joda", "Mamani", "Mayogwoi", "Mudibbo", "Murbai", "Nana Aisha", "Nasarawo", "Nunkai", "Nyandang", "Okona", "Pan", "Pasli", "Petal", "Porni", "Rimi", "Rubi", "Sabongari", "Sambo", "Samunaka", "Sarkin Noma", "Saurara", "Sheudu", "Sintali Ward", "Sundari", "Todiri", "Tudun Wada", "Wueojauro", "Wuro Kadiri", "Wuro Sambe", "Wuro-Sani", "Wuro Musa", "Yamusala", "Zhiru"]
         },
         "8": {
             "name": "Karim Lamido",
-            "official": "Karim Lamido  Local Government",
-            "areas": []
+            "official": "Karim Lamido Local Government",
+            "areas": ["Amar", "Didango", "Jeb-Jeb", "Jukun", "Kwaai", "Moya-Renewo", "Muri", "Nguruwa", "Yashin-Tuwo", "Andami", "Angulle", "Anguwan Rogo", "Bachama", "Balassa", "Bambuka", "Bambur", "Bandawa", "Banyam", "Bikwin", "Dadiya", "Darofai", "Gangan Balassa", "Garu Awanke", "Gomu", "Gomu-Ndugan", "Hakuri", "Jen-Ardido", "Jen-Kaigama", "Jen-Petel", "Karim Maudi", "Karim-Lamido", "Kirim", "Kode Dutse", "Kode Menung", "Kode Saliya", "Kwanchi", "Langakwanchi", "Loh-Ndara", "Low-Bamli", "Munga Lelou", "Munga-Dosso", "Murbai", "Mutum Daya", "Ngurore-Jabu", "Panya", "Piribi", "Pitiko", "Pitiko Buro", "Pitiko Dukuli", "Sabon Gari-Jen", "Sabongari Dadiya", "Saladuna", "Salakan City", "Senge", "Wanzami Gomu", "Zailani", "Zoh Dutse", "Zoh Makarau"]
         },
-      
-       
         "9": {
             "name": "Kurmi",
             "official": "Kurmi Local Government",
-            "areas": []
+            "areas": ["Abong", "Akoferi", "Akonko", "Akwento", "Asha", "Ashuku", "Bafum", "Baissa", "Bangara", "Batuamada", "Bente", "Bissaula", "Boko", "Daubelli", "Dogo", "Gatari", "Gidan Ago", "Gidan Ali", "Gidan Mallam", "Gidan Yamusa", "Gwanda", "Karanuwa", "Kpwola", "Kufai-Bawuro", "Kurmi", "Mubi Tosso", "Nama-Baba", "Namagangere", "Ndaforo Dutse", "Ndaforo", "Ngbashi", "Niuwande", "Nyido", "Sabon Gida Tukura", "Gidan-Mallam"]
         },
         "10": {
             "name": "Lau",
             "official": "Lau Local Government",
-            "areas": []
+            "areas": ["Abbare", "Bujum", "Mayo-Lope", "Nanzo", "Sabongida", "Yitti", "Didango Rhobi", "Didango-Filani", "Donadda", "Kwamiding", "Mesheli", "Saturaki", "Sayonti", "Garin-Magaji", "Jimlari", "Kunini", "Mararaban-Fulani", "Mayo-Lushi", "Donbelli", "Garin Mashi", "Garin Sarki", "Garin Lakawa", "Garin-Dogo", "Lainde", "Lau", "Lau Habe", "Minda"]
         },
         "11": {
             "name": "Sardauna",
             "official": "Sardauna Local Government",
-            "areas": []
+            "areas": ["Bang", "Dorofi", "Furmi", "Gembu", "Gurgu", "Hainare", "Kabri", "Kakara", "Kassalasa Kaniyaka", "Kuai", "Kuara-Kuara", "Kuma", "Kusuku", "Lekitaba", "Leme", "Magu", "Mai-Samari", "Mayo Nago", "Mayo Selbe", "Mayo Sumsum", "Mayon-Daga", "Mayu", "Mbamnga", "Mbar", "Mbartule", "Mbaso", "Mbu", "Naguroje", "Nguroje", "Njawai", "Njeke", "Nver", "Tamnyar", "Titong", "Vakude", "Wah", "Warkaka", "Warwar", "Wurum-Gora", "Yelwa", "Yerimaru", "Mbinti", "Sah-kaka", "Tep", "Kuh", "Leme-Tella", "Leme-Dawu", "Tappare"]
         },
         "12": {
             "name": "Takum",
             "official": "Takum Local Government",
-            "areas": []
+            "areas": ["Abin", "Abuja", "Acha", "Adekpa", "Aganko", "Akaniwe", "Army Barrack", "Bakin Kasuwa", "Bariki Lissa", "Bete", "Bibi", "Bigbo", "Bika", "Bika Gaba", "Bika Lupwe", "Bika-Baba", "Bong", "Botin", "Bokyuk", "Chachanji", "Chiakara", "Dafung", "Damu", "Dogo Gawa", "Donga", "Dutse", "Fadama", "Fete", "Gadin", "Galumje", "Gamgang", "Gamga", "Ganti", "Gatati", "Gawa", "General Hospital", "Hagah", "Handev", "Iyuda", "Jada", "Jenuwa Nyifiye", "Jenuwa Nykwu", "Jenuwa Ruma", "Jenuwa-Gida", "Kabya", "Kandev", "Kano", "Kashimbila", "Kasuwa Haske", "Katso", "Kogi Kandev", "Kufi", "Kufun Ahmadu", "Kukunu", "Kumbo", "Kunlebira", "Kuru-Sati", "Kwambai", "Kwenbwoi", "Kapya akikai", "Kapya Baba", "Liji", "Mamu", "Manga", "Nyayirim", "Shibong Igbang"]
         },
         "13": {
             "name": "Ussa",
             "official": "Ussa Local Government",
-            "areas": []
+            "areas": ["Fikyu", "Jatau", "Kpakya", "Kpambo", "Kpambo-Puri", "Kwesati", "Lissam", "Lissam Sambo", "Lissam-Kuben", "Lissam-Tunga", "Lufu", "Lumbu", "Lupwe", "Manya", "Rufu", "Tati", "Tati-Kumbo", "Tutuwa", "Ussa", "Yikiben", "Yikes"]
         },
         "14": {
             "name": "Wukari",
-            "official": "Wukari South Local Government",
-            "areas": []
+            "official": "Wukari Local Government",
+            "areas": ["Akwana", "Arufu", "Gidan-Ikwe", "Nndo-Yaku", "Tombo", "Unofo", "Warawa", "Zebu", "Auyi", "Barki", "Puje", "Pwadzu", "Anyam", "Bantaje", "Beyora", "Chediya", "Gbogodo", "Gidan Dorowa", "Jibo", "Natride", "Nayinawa", "Nwono", "Nyamkwala", "Sabongida", "Tapare", "Tudunwada", "Agbarike", "Chonku", "Kyaior", "Aben-Kaho", "Bye-Pi", "Bye-Vvi", "Gidan-Idi", "Kuyu", "Igba", "Kenke", "Sondi", "Vaase", "Abako", "Agbadu", "Ason", "Gavyo", "Gborbegha", "Ityogbedia", "Rafinkada", "Tsokundi", "Vereshe", "Zapine", "Wukari"]
         },
         "15": {
             "name": "Yorro",
             "official": "Yorro Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Jika", "Kakware", "Manzalana", "Mbang", "Mika-Isoho-Gari", "Mika-Sabongida", "Pa-Nyala", "Pabezalang", "Pupule", "Yanka", "Dadaa", "Dankum", "Dasso", "Demba", "Dilla", "Donkin", "Gampu", "Kajon", "Kassa", "Lankaviri", "Lanko", "Lapu", "Nyaja", "Pantisawa", "Santewa", "Shampa-Ganna", "Sumbu", "Yorro"]
+        },
         "16": {
             "name": "Zing",
             "official": "Zing Local Government",
-            "areas": []
+            "areas": ["Bitako-Mazara", "Bitako-Yalli", "Bushankin", "Jahbansi", "Kobanko", "Bubong", "Buzza", "Lappo", "Lapudinding", "Yonko", "Zensi", "Zippo", "Dangong", "Dinding", "Kossa", "Kugong", "Bansi", "Dandi", "Dong", "Lemma", "Batta", "Bibong", "Dogwe", "Gudubong", "Kayya", "Monkin", "Dangwe", "Della", "Lorro", "Medika", "Nanapu", "Tolang", "Yakoko", "Bisomporo", "Bitako Dokure", "Bitako Ibrahim", "Boduga Kamawa", "Boduga Nanapu", "Bosung", "Danvoh", "Debambu", "Didonko", "Doppah", "Dossa", "Dukka", "Fufulagwang", "Gwangwang", "Jaganpo", "Jeng", "Kagong", "Kakulu", "Kodari", "Koko", "Kosensi", "Koyu", "Kozensi", "Kugong-Boli", "Kwana", "Kwapo", "Kwapo-Jitta", "La apo", "Labumang", "Ladanna", "Lago Bansi", "Mang", "Manpali", "Mepuru", "Nasirde", "Ngole", "Sagwe", "Sagwe-Jabu", "Sawankwa", "Shari", "Taburaze", "Tavin Gwa", "Togoppi", "Wagwala", "Yellen", "Yelli", "Yukwa", "Zandi", "Zang", "Zing"]
         }
     }
 }
