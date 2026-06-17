@@ -101,10 +101,6 @@ Then you can access the assets as follows:
 -   `/images/logos/abia.png`
 -   `/images/flags/abia.png`
 
-## To Do
-
--   Populate areas (villages, cities, and towns) for most of the remaining states
-
 ## Sources
 
 ### General
