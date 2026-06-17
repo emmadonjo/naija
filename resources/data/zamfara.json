@@ -18,80 +18,78 @@
     "nick_name": "Farming is Our Pride",
     "languages": {
         "english": "English",
-        "hausa":"Hausa"        
+        "hausa": "Hausa"
     },
     "lga": {
         "1": {
             "name": "Anka",
-            "official": "Anka  Local Government",
-            "areas": []
+            "official": "Anka Local Government",
+            "areas": ["Bagega", "Barayar-Zaki", "Dan Galadima", "Matseri", "Sabon Birini", "Waramu", "Wuya", "Galadima", "Magaji", "Yar'sabaya"]
         },
         "2": {
             "name": "Bakura",
-            "official": "Bakura  Local Government",
-            "areas": []
+            "official": "Bakura Local Government",
+            "areas": ["Bakura", "Damri", "Dankadu", "Dan Manau", "Yar Kufoji", "Dakko", "Rini", "Yar Geda"]
         },
         "3": {
             "name": "Birnin Magaji/Kiyaw",
             "official": "Birnin Magaji/Kiyaw Local Government",
-            "areas": []
+            "areas": ["Birnin Magaji", "Danfami Sabon Birini", "Gusami Gari", "Gusami Hayi", "Modomawa East", "Modomawa West", "Nasarawa Godal East", "Nasarawa Godal West"]
         },
         "4": {
             "name": "Bukkuyum",
             "official": "Bukkuyum Local Government",
-            "areas": []
+            "areas": ["Adabka", "Bukkuyum", "Gwashi", "Kyaram", "Nasarawa", "Masama", "Ruwan Jema", "Yashi", "Zarummai", "Zauma"]
         },
         "5": {
             "name": "Bungudu",
             "official": "Bungudu Local Government",
-            "areas": []
+            "areas": ["Bingi North", "Bingi South", "Bungudu", "Furfuri/Kwai-Kwai", "Gada/Karakkai", "Nahuce", "Kwatarkwashi", "Rawayya/Bela", "Samawa", "Sankalawa"]
         },
         "6": {
             "name": "Chafe (Tsafe)",
-            "official": "Chafe (Tsafe)  Local Government",
-            "areas": []
+            "official": "Chafe (Tsafe) Local Government",
+            "areas": ["Kwaren Ganuwa", "Yan Kuzo", "Yandoton Daji", "Yankuzo A", "Danjibga/Kunchin-Kalgo", "Dauki", "Keta/Kizara", "Tsafe", "Chediya", "Yan Waren Daji", "Bilbis"]
         },
         "7": {
             "name": "Gummi",
             "official": "Gummi Local Government",
-            "areas": []
+            "areas": ["Bardoki", "Falale", "Felfeldu/Gamo", "Gayari", "Gyalange", "Illelar Awal", "Magajin Gari", "Shiyar Rafi"]
         },
         "8": {
             "name": "Gusau",
-            "official": "Gusau  Local Government",
-            "areas": []
+            "official": "Gusau Local Government",
+            "areas": ["Madawaki", "Mayana", "Rijiya", "Ruwan Bore", "Wanke", "Wonaka", "Shiyar Magaji", "Uban Dawaki", "Galadima", "Sarkin Fada", "Mada", "Yandoto", "Samri", "Magami", "Marabu", "Mareri", "Mutumji"]
         },
-      
-       
         "9": {
             "name": "Kaura Namoda",
             "official": "Kaura Namoda Local Government",
-            "areas": []
+            "areas": ["Banga", "Dan-Isa", "Gabake", "Galadima Dan Galadima", "Kungurki", "Kurya Madaro", "Kyam Barawa", "Sakajiki", "S/Baura/S/Mafara", "Yankaba"]
         },
         "10": {
             "name": "Maradun",
             "official": "Maradun Local Government",
-            "areas": []
+            "areas": ["Dosara/Birnin Kaya", "Damaga/Damagiwa", "Faru/Magami", "Gidan Goga", "Janbako", "Kaya", "Maradun North", "Maradun South", "Tsibiri"]
         },
         "11": {
             "name": "Maru",
             "official": "Maru Local Government",
-            "areas": []
+            "areas": ["Bindin", "Bingi", "Dan Gulbi", "Dan Kurmi", "Dan Sadau", "Kanoma", "Kuyan Bana", "Maru", "Mayanchi", "Ruwan Dorawa"]
         },
         "12": {
             "name": "Shinkafi",
             "official": "Shinkafi Local Government",
-            "areas": []
+            "areas": ["Birnin Yaro", "Jangeru", "Katuru", "Shinkafi North", "Shinkafi South", "Shanawa"]
         },
         "13": {
             "name": "Talata Mafara",
             "official": "Talata Mafara Local Government",
-            "areas": []
+            "areas": ["Garbadu", "Jangebe", "Morai", "Ruwan Gizo", "Sauna R/Gora", "Shiyar Galadima", "Shiyar Kayaye/Matusgi", "Take Tsaba/Makera"]
         },
         "14": {
             "name": "Zurmi",
-            "official": "Zurmi South Local Government",
-            "areas": []
+            "official": "Zurmi Local Government",
+            "areas": ["Dauran/Birnin-Tsaba", "Galadima/Yanruwa", "Kwashbawa", "Mashem", "Kuturu/Mayasa", "Rukudawa", "Yan Buki/Dutsi", "Zurmi"]
         }
     }
 }

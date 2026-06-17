@@ -568,3 +568,10 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Taraba_State](https://en.wikipedia.org/wiki/Taraba_State)
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Taraba_State](https://en.wikipedia.org/wiki/List_of_villages_in_Taraba_State)
 -   [https://tarabastate.gov.ng/](https://tarabastate.gov.ng/)
+
+### Zamfara State
+
+-   [https://en.wikipedia.org/wiki/Zamfara_State](https://en.wikipedia.org/wiki/Zamfara_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Zamfara_State](https://en.wikipedia.org/wiki/List_of_villages_in_Zamfara_State)
+-   [https://en.wikipedia.org/wiki/Gusau](https://en.wikipedia.org/wiki/Gusau)
+-   [https://zamfara.gov.ng/](https://zamfara.gov.ng/)
