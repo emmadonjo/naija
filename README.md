@@ -479,6 +479,15 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Zuru](https://en.wikipedia.org/wiki/Zuru)
 -   [http://www.kebbistate.gov.ng/](http://www.kebbistate.gov.ng/)
 
+### Kogi State
+
+-   [https://en.wikipedia.org/wiki/Kogi_State](https://en.wikipedia.org/wiki/Kogi_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Kogi_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kogi_State)
+-   [https://en.wikipedia.org/wiki/Idah](https://en.wikipedia.org/wiki/Idah)
+-   [https://en.wikipedia.org/wiki/Dekina](https://en.wikipedia.org/wiki/Dekina)
+-   [https://en.wikipedia.org/wiki/Mopa-Muro](https://en.wikipedia.org/wiki/Mopa-Muro)
+-   [https://kogistate.gov.ng/](https://kogistate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
