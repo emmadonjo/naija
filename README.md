@@ -575,3 +575,9 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Zamfara_State](https://en.wikipedia.org/wiki/List_of_villages_in_Zamfara_State)
 -   [https://en.wikipedia.org/wiki/Gusau](https://en.wikipedia.org/wiki/Gusau)
 -   [https://zamfara.gov.ng/](https://zamfara.gov.ng/)
+
+### Yobe State
+
+-   [https://en.wikipedia.org/wiki/Yobe_State](https://en.wikipedia.org/wiki/Yobe_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Yobe_State](https://en.wikipedia.org/wiki/List_of_villages_in_Yobe_State)
+-   [https://yobestate.gov.ng/](https://yobestate.gov.ng/)
