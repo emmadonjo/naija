@@ -550,3 +550,9 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Plateau_State](https://en.wikipedia.org/wiki/List_of_villages_in_Plateau_State)
 -   [https://en.wikipedia.org/wiki/Bassa,_Plateau_State](https://en.wikipedia.org/wiki/Bassa,_Plateau_State)
 -   [https://www.plateaustate.gov.ng/](https://www.plateaustate.gov.ng/)
+
+### Rivers State
+
+-   [https://en.wikipedia.org/wiki/Rivers_State](https://en.wikipedia.org/wiki/Rivers_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Rivers_State](https://en.wikipedia.org/wiki/List_of_villages_in_Rivers_State)
+-   [https://www.riversstate.gov.ng/](https://www.riversstate.gov.ng/)
