@@ -23,91 +23,87 @@
         "1": {
             "name": "Barkin Ladi",
             "official": "Barkin Ladi Local Government",
-            "areas": []
+            "areas": ["Dafiyona", "Ndina Gura", "Ndina Rankassa", "Nding", "Nwok", "Rafan", "Rite", "Tafan", "Fo", "Kamang", "Kapwen", "Kapwis", "Ket", "Newo", "Nofok", "Rarung", "Rung", "Sho", "Zabot", "Exland", "Gindan-Akwati", "Kakuruk", "Kurra-Falls", "Kuzen", "Ruku", "Tenti Baba", "Zakerek", "Ban", "Chit", "Kpang", "Pomol", "Tagbam", "Tapo", "Tatu"]
         },
         "2": {
-            "name": "Bassa ",
-            "official": "Bassa  Local Government",
-            "areas": []
+            "name": "Bassa",
+            "official": "Bassa Local Government",
+            "areas": ["Bassa", "Miango", "Mc Alley", "Biciza", "Jengre", "Binchin", "Zukku", "Kwal", "Saya", "Gurum", "Rimi", "Sarkishau", "Jere", "Biyi", "Tariya", "Janji", "Zarama", "Mafara", "Kishika", "Kakkek", "Buhit", "Kawam"]
         },
         "3": {
             "name": "Bokkos",
             "official": "Bokkos Local Government",
-            "areas": []
+            "areas": ["Batun", "Bokkos", "Bot", "Butura", "Forof", "Kop Mandarken", "Kuba/Maiyanga", "Mangar", "Mangor", "Mbar", "Tangur", "Tanti", "Tarongol", "Gada-Biyu", "Hottom", "Amban", "Kangil", "Tukyeh", "Chakfem", "Gwashesh", "Manguna", "Horop", "Kaban", "Kawel", "Manger", "Mushere", "Barkul", "Maboh", "Richa", "Mista-Kuku", "Mundat", "Ambul", "Toff"]
         },
         "4": {
             "name": "Jos East",
-            "official": "Jos North Local Government",
-            "areas": []
+            "official": "Jos East Local Government",
+            "areas": ["Damsun", "Dorong Babba", "Fardo", "Febas", "Fekolibing", "Fredk", "Gandi Bappa", "Gandi Shom", "Jarawa", "Keben", "Kogi", "Lamingel Tsafi", "Nabas", "Nakwang", "Risen/Geri", "S. Layi", "Yelwa Dorong", "Zandi", "Zazzi", "Zigam", "Adabok", "Awari", "Faraka", "Farin Yashi", "Foda Fobur", "Fogom", "Fulani", "Kerker", "Kwang A", "Laminga", "Nabatong", "Rizak", "Sabon Gari", "Woda", "Zarrazong", "Doss", "Fadan Fursum", "Foro Jarawa", "Fulanin Kabba", "Fusan Jarawa", "Gingin Karra", "Hardo Bello", "Hardp Rusa", "Hausawan Fusaa", "Hausawan Gora", "Kwanga", "Mai Ido Taro", "Maijuju", "Nakwon foron", "Naton Doss", "Niji", "Nitseng", "Tere", "Ungwan Awang", "Angwara", "Ardo Adamu", "Ardo Halilu", "Danehe", "Dankurma", "Duze", "Fadamdabo", "Federe Tudu", "Fefur", "Feram", "Fries", "Gurgu", "Gwadong", "Gwaji", "Jail", "Kasuwan Dada", "Lamingle", "Layarda", "Mu'un", "Nashanana", "Nuku", "Pa", "Rando", "Seradang Isafi", "Sjibiri", "Tudun Baro", "Zangam", "Chele", "Dabo", "Dayong", "Fesumuijng", "Fesumuing", "Gwashe", "Lurbi", "Sako", "Yelwa", "Zakin"]
         },
         "5": {
             "name": "Jos North",
             "official": "Jos North Local Government",
-            "areas": []
+            "areas": ["Babale", "Dong", "Fudawa", "Furaka", "Gwafan", "Gwash", "Jos Jarawa", "Kabong", "Larantos", "Nabgar", "Nabor", "Nagohom", "Naraguta", "Nassarawa A", "Nupkis", "Rigiza", "Rusau", "T/Wada", "Targwong", "Zakaliyo", "Zangam", "Zangan"]
         },
         "6": {
             "name": "Jos South",
-            "official": "Jos South  Local Government",
-            "areas": []
+            "official": "Jos South Local Government",
+            "areas": ["Anguldi", "Bek", "Challang", "Cham", "Chuel", "Dadop", "Dadura", "Dahwol", "Dahwol N'tong", "Dahwol Vvorok", "Dahwol-Dangwong", "Dati", "Dayah", "Diye-Du", "Dogo Na-Hauwa", "Dorowa Gindin Dutse", "Fwapwa", "Giring", "Got", "Hwolshe", "Kabong", "Kazong", "Kufang", "Kugiya", "Kwang", "Kwata", "Madu", "Mazaram", "Rabin Rahol", "Rahwol Kanag", "Rashonong", "Rawarak", "Rogatak", "Sabwak", "Shen", "T/Wada", "Timtim", "Viafyang", "Vyara", "Wawan", "Zawan", "Zek", "Zok", "Cafeng", "Gero", "Gura-Lando", "Gura-Riyom", "Kaxong", "Nyango", "Rafin Bauna", "Ran Gyel", "Rankyeng", "Ranta", "Rasot", "S/Gidan Ramar", "Tahel", "Takum", "Tanchol", "Yelwa", "Bakuanvwei", "Conservation", "Dahwul-Wat", "Daken", "Dancho-Kosho", "Danchol", "Dankarang", "Dawol", "Dazek", "Gakok", "Gatsen", "Hwak", "Kanadap", "Kumbuna", "Kuntei", "Kushe", "Ohol", "Police Staff College", "Sabon Pegi", "School", "Shwan", "Vwei", "Wat", "Zankong Soil", "Barikin Turu", "Changwi Tawo", "Chugwi", "Dagai", "Daggshet", "Danchugwi", "Dandyes", "Fwil Vwang Kogot", "Gott", "Hwen", "Kaduna Vom", "Kogom", "Lo Ngeng", "Lo-Kun", "Rawuk", "Tunu Gozok", "Tura Chwe", "Turu Gweh", "Turu Lah"]
         },
         "7": {
             "name": "Kanam",
             "official": "Kanam Local Government",
-            "areas": []
+            "areas": ["Bagyar", "Bandiri", "Bankilong", "Basson", "Bwalangyip", "Dangi Town", "Gar-Duam", "Gumshir", "Guzuk", "Gwomgwom", "Jahun", "Kagyyal", "Kass", "Kunkyam", "Kwalkai", "Kyankurum", "Mabr", "Namaran", "Nan-Gar", "Yipmong", "Yugur", "Bayar", "Dadda", "Garga Mban", "Garga-Kufai", "Gyangyang-Garga", "Kukawa", "Kyansar", "Kyaram", "Munbutbo", "Yalwa", "Dal", "Dugub", "Gagdi", "Gidgid", "Gilong", "Gwarong", "Gyangyang", "Kam", "Mbat", "Mun", "Mun-Galamkya", "Sallaman Kanam", "Zakkam", "Bawas", "Bribyang", "Ganjuwa", "Jarmai", "Jarmai Hausawa", "Jom", "Kantana", "Takwar", "Takzul", "Tukur", "Tunga", "Wakkat-Mulas", "Yanla"]
         },
         "8": {
             "name": "Kanke",
-            "official": "Ibadan South-West  Local Government",
-            "areas": []
+            "official": "Kanke Local Government",
+            "areas": ["Ampang", "Dungung", "Goktok", "Kadang", "Kuwang Kaler", "Langshi", "Lerpye", "Leshim Mwel", "Munok", "Shaktu", "Sharam", "Amper", "Chika", "Goltan", "Gwamlar", "Jewang Jwat", "Jimi", "Kalin", "Lawatang Gugur", "Lepgel", "Leptar", "Lepter Gugur", "Nefur Mep", "Neran", "Pibwir", "Rong", "Sebri", "Shiwer", "Tor", "Warang", "Wekkop Leng", "Zangsan", "Chiroma", "Galadima Tollong", "Garram", "Goilong Lapiek", "Gollong Dangkem", "Gollong Forkong", "Golong Tollong", "Gontingkal", "Kangmun", "Madaki Dangkem", "Madaki Nyayik", "Bolkon", "Dawaki", "Gamadaji", "Gyangyang", "Kabwir", "Kudus", "Lur", "Pada", "Rang", "Tasha", "Teng", "Tuwan", "Dok", "Ewer", "Basunsunwang", "Chiroma-Kwabzak", "Dambi", "Galdima-Kwabzak", "Killing", "Longwap", "Madakin Kwabzak", "Mungue", "Mungyim", "Puyam", "Tangle"]
         },
-      
-       
         "9": {
             "name": "Langtang North",
             "official": "Langtang North Local Government",
-            "areas": []
+            "areas": ["Bangkur", "Biller", "Chikwak", "Dabur", "Dangre", "Fillap", "Kankur", "Kensong", "Kpadiar", "Kumkwam", "Kwampe", "Laka", "Limum", "Lohmak", "Luwki", "Miyam-Shiko", "Myam", "Nachang", "Nyapkai", "Pagwam", "Pakuk", "Pang-myer", "Reak", "Sabon-Layi", "Shiyik", "Tippang", "Tiuam", "Tunkun", "Wacha", "Zambau-Bwarat", "Zambau-Diyan", "Ang. Chiroma", "Ang. Galadima", "Dabgyil", "Danbur", "Dibbar", "Fujul", "Funyallany", "Gabong", "Gantang", "Igbar", "Jwakber", "Kukwar", "Kullok", "Kumkaka", "Kumkwar", "Kwallak", "Langan", "Langbap", "Pang", "Panmyam", "Wallyat", "Waroh", "Warrang", "Zambaraki", "Ang. Pada", "Bali", "Bankun", "Bapkwai", "Batkilang", "Danga", "Danglong", "Dingjor", "Durgu", "Gazaam", "Gian-Gazadima", "Gwandamung", "Ibim", "Jidadi", "Kalapi", "Kandim", "Kangtang", "Kongnkog", "Kuffen", "Kuyim", "Lazhan", "Lifir", "Lipchok", "Lop", "Mabe", "Mankot", "Mantamtam", "Mban", "Mindim", "Nassarawa", "Ndinzhan", "Ngura", "Ngwak", "Nowar", "Nwur", "Ntorok", "Nyattang", "Nyer", "Nyer-Jarak", "Nyer-Ponzhi", "Padur", "Pajat", "Pangna", "Pock", "Pyar", "Pyache", "Pyayil", "Rimi", "Shiber", "Shifor", "Shikal", "Shishiri", "Tabat", "Tahfa", "Talbul", "Tarok", "Tongtong", "Wallang", "Yal", "Zambur", "Zamchan", "Zamko", "Zamkumkum", "Zanzat", "Zhantani", "Angwan-gani", "Angwan Marafa", "Angwan Yari", "Binding", "Dangyil", "Ganjglang", "Gindim", "Gunnunu", "Kaplak", "Kurgwan", "Kynjit", "Lawur", "Mai Bangyel", "Pil", "Pishe", "Yakot", "Zamadede", "Zamgwar"]
         },
         "10": {
             "name": "Langtang South",
             "official": "Langtang South Local Government",
-            "areas": []
+            "areas": ["Lamdwal", "Walnim", "Wubang", "Zambang", "Faya", "Nakiwasw", "Dinshan", "Takakafia", "Timman", "Kamkum", "Taigwang", "Timfam", "Dandinkowa", "Dorawa", "Fajul", "Gamakai", "Gamin", "Gbaldung", "Gida Bua", "Kamkun", "Karkashi", "Mabudi", "Magama Mangwam", "Maiyanga", "Milfoar", "Nassarawa", "Ndushim", "Soban Gida nagani", "Takalafiya", "Taldun", "Talgwang", "Timbol", "Timshak", "Turaki", "Zamya", "Koko", "Kwaikon", "Mailfour", "Barracks", "Bolya", "Long-Goemai", "Magama", "Nassawa", "Timshat", "Daruwa", "Kanana", "Mahanga"]
         },
         "11": {
             "name": "Mangu",
             "official": "Mangu Local Government",
-            "areas": []
+            "areas": ["Chanso", "Cinbun", "Janaret", "Kasuwan Ali", "Kaper", "Katual", "Kundun", "Zuwahai", "Ampang", "Sabon Kerang", "Bwai", "Dari", "Kumbul", "Babban Rinji", "Kadunun", "Langai", "Bunga", "Chakfem", "Jipal", "Kantoma", "Mairana", "Mangu", "Mangu Halle", "Sabon Gari", "Daika", "Kombili", "Kopal", "Nyes", "Panyam", "Bwonpe", "Garkun", "Kambring", "Kopshir", "Puka", "Pushit", "Telengpat", "Vodni"]
         },
         "12": {
             "name": "Mikang",
             "official": "Mikang Local Government",
-            "areas": []
+            "areas": ["Gingim", "Jimakwi", "Killa", "Kongnati", "Lahil", "Longgkrom", "Poensong", "Rotha", "Swoshal", "Tundun Wada", "Yakoep", "Lifidi", "Lun-Niyu", "Nwoop", "Pangshot", "Pangsot", "Zomo", "Baltep", "Betkang", "Dinmuanpus", "Laham", "Lalin", "Pockot", "Pocyuum", "Swakan", "Talme", "Tunkus", "Gotlong", "Koetes", "Longbis", "Pangjiem", "Piaber", "Piapung", "Poekot", "Tangguk", "Zamkoekop"]
         },
         "13": {
             "name": "Pankshin",
             "official": "Pankshin Local Government",
-            "areas": []
+            "areas": ["Angwan-Hausawa", "Bakwar", "Bongmut", "Chip", "Daboshu", "Dimwai", "Dungwu", "Jepmidiyel", "Jepmijit", "Jikon", "Kangmum", "Karam", "Khipil", "Kwalah", "Longkamt", "Mingkohot", "Minting", "Mudung", "Pabower", "Pikongship", "Tanglant", "Gwabi Nyelleng", "Kadyis", "Mier", "Mile", "Mudel", "Nyelleng", "Takkas", "Chiroma", "Chrus", "Galadima", "Jivir", "Kadung", "Pada", "Panzam", "Saikn-Gurrup", "Sarkin Burum", "Akong", "Amnat", "Adeng", "Asa", "Chinkat", "Changgash", "Dyis/Abwor", "Genye", "Ghibang", "Gutong", "Ghuza Jiblik", "Jak", "Jing", "Kagu", "Kap", "Labyom", "Lander", "Lankan", "Lungchan", "Mosan", "Ninkut", "Nungwus", "Parkat", "Permangous", "Sihin", "Tangfom", "Tinkum", "Zundun", "Ballang Lep", "Ballang-Shippang", "Barche", "Beinin", "Berek", "Bumning", "Bwarak", "Chigwong", "Chikan", "Ciroma-Shippang", "Dene", "Dereng", "Duk", "Dungyle", "Galadima Lep", "Gromamep", "Gun", "Hikumuran", "Jang", "Kanyi", "Kapang", "Katke", "Kazuk", "Kobi", "Kop", "Koploki", "Kor", "Kudol", "Kulukning", "Kuwang-Fung", "Labwor", "Lagor", "Landan", "Lishan", "Ma Aji Vel", "Magyil", "Manget", "Miller", "Ngolong", "Pangpel", "Pankshin", "Shippang", "Sum", "Tambes", "Taying", "Tubong", "Tukung", "Tulwar", "Wulmi", "Wuseli", "Buttal", "Dakup", "Dang", "Dikkal", "Fwenzuk", "Gille", "Iskep", "Jimat", "Kwalla", "Lepbwai", "Mantom", "Tazuk"]
         },
         "14": {
             "name": "Qua'an Pan",
-            "official": "Qua'an Pan South Local Government",
-            "areas": []
+            "official": "Qua'an Pan Local Government",
+            "areas": ["Bwal Goechim", "Bwal Goepil", "Bwal Nakum", "Bong", "Dang toe geom.", "Dimmuk", "Geobout", "Geochim", "Kangwe", "Kangyl", "Katoon", "Latok", "Dungnocgoch", "Komkwas", "Kopgoewam", "Kwanoeng", "Lagurut", "Yilpia", "Boglong", "Koffiar", "Kongde", "Lardang", "Lumuat", "Miket", "Chim", "Goeba'an", "Goepin", "Kofogom", "Kopboetpang", "Kopwarmak", "Kwaggar", "Muda", "Shangful'up", "Yadin", "Yitlas'ar", "Ampap", "Bakin Ciyawa", "Giddan Dabat", "Kurgwi", "Kwande", "Turniang", "Fujing", "Kwang", "Kwang Dala", "La'ar", "Janta", "Kayarda", "Kwari", "Lankaku", "Namu", "Njak", "Pandam", "Shindai"]
         },
         "15": {
             "name": "Riyom",
             "official": "Riyom Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Bum", "Danto", "Dantse", "Danwal", "Fangroi", "Gura", "Koroda", "Kwakhwi", "Gol", "Jol", "Kwi", "Ra-Hoss", "Rim", "Ta-Hoss"]
+        },
         "16": {
             "name": "Shendam",
             "official": "Shendam Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Katai", "Kirgagan", "Met", "Nanes", "Ngaj", "Tak Doka", "Tengnadung", "Bunoegwang", "Dualak", "Duankwan", "Dung-Goeshing", "Gaklang", "Hambiaka", "Jayu", "Kendeng", "Lurka", "Nyak", "Tsa kani", "Tunwanghem", "Biembiem", "Demshim", "Goesm", "Gonvel", "Haambangkalong", "Kuka", "Makera", "Moekat", "Namass", "Nda-yak", "Ngwazam", "Pape", "Shimankar", "Ungwan Dadi", "Ungwan Rina", "Ajikamai", "Bakin Kogi", "Derlit", "Dungba", "Garas", "Gidan-Adamu", "Ilalong", "Kato", "Kuru wat", "Kuruh Lagai", "Kwaphur", "Kwapkuwa", "Lakushi", "Lavaba", "Lon goebou", "Longvel", "Naburuk", "Nball", "Nbet", "Nder", "Nshar", "Ntuer", "Pangshom", "Peoshie", "Poediel", "Rajiyam Giwa", "Shanlang", "Shendam", "Shepwan", "Shunkwan", "Sohlut", "Soklut", "Tangzeb", "Tinhan", "Tsovo", "Tukum", "Tumbi", "Turdung Doruwa", "Yamini", "Yelwa"]
+        },
         "17": {
             "name": "Wase",
             "official": "Wase Local Government",
-            "areas": []
+            "areas": ["Bashar", "Gaji Bashar", "Gingir", "Gudu", "Kanpani", "Madaci", "Nyalun", "Sabon-Layi", "Safiyo", "Yuli", "Zurak", "Bakin-Rijiya", "Danshanya", "Dogon-Ruwa", "Garga", "Gimbi", "Glakwai", "Gwuman-Kogi", "Jauri", "Jigawan-Audu", "Kadarko", "Kumboug", "Mavo", "Pinou", "Ruwan Goggo", "Team", "Tsamiya", "Anguwan-Clar", "Damau", "Gumshar", "Kuka", "Lamba", "Nakibulala", "Nassarawa", "Pako", "Salawai", "Talafiya", "Wase Tofa", "Ang. Garkuwa", "Ang. Kuyambana", "Ang. Makaki", "Ang. Sayawa", "Angwan", "Rugan Jodi", "Zamburun"]
         }
     }
 }

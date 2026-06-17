@@ -11,128 +11,143 @@
         "male": 4468958,
         "female": 4293705
     },
-    "website": "https://kdsg.gov.ng/",
+    "website": "https://kdsg.gov.ng",
+    "logo": "/images/logos/kaduna.png",
+    "flag": "",
     "demonym": "",
-    "nick_name": " Centre of Learning",
+    "nick_name": "Centre of Learning",
     "languages": {
         "english": "English",
-        "hausa": "Hausa"
+        "hausa": "Hausa",
+        "tyap": "Tyap (Kataf)",
+        "jju": "Jju (Bajju)",
+        "gbagyi": "Gbagyi (Gwari)",
+        "adara": "Adara",
+        "fulfulde": "Fulfulde",
+        "ninzo": "Ninzo",
+        "mada": "Mada",
+        "fantswam": "Fantswam",
+        "hyam": "Hyam",
+        "numana": "Numana",
+        "gbari": "Gbari",
+        "ayu": "Ayu",
+        "kagoma": "Kagoma"
     },
     "lga": {
         "1": {
-            "name": " Birnin Gwari",
-            "official": " Birnin Gwari Local Government",
-            "areas": []
+            "name": "Birnin Gwari",
+            "official": "Birnin Gwari Local Government",
+            "areas": ["Birnin Gwari", "Dangaladima", "Danhadau", "Galadima Shittu", "Tudun Jega", "Bagom", "Goron Dutse", "Kagi", "Kwaga", "Mando", "Unguwar Katuka", "Cikin Garin Dogon Dawa", "Dogo Dawa", "Funtuwan Badade", "Laca", "Unguwar Danko", "Bugai", "Dagara", "Fari", "Gayam", "Kaguru", "Kamfanin Doko", "Layin Maigwari", "Muya", "Rumanan Hausa", "Gauji", "Ishiwai", "Kakangi", "Kanoma", "Kisaya", "Kubau", "Kurgi", "Ukinkina", "Gelobai", "Gwanda", "Ingade", "Kazage", "Takama", "Unguwar Dankande", "Dawakin Bassa", "Imagu", "Kuki", "Kungi", "Loko", "Nasarawa", "Unguwar Baduku", "Unguwar Madaki", "Kanawa", "Kutemeshi", "Kwashi", "Raku", "Unguwar Chindo", "Unguwar Gajere", "Dunya", "Kuyello", "Kwadaga", "Kwasa-Kwasa", "Old Kuyello", "Shado", "Yankan Dutse", "Dodo", "Maganda", "Old Birnin Gwari", "Ijinga", "Karauchi", "Kimbi", "Kunun Gayya", "Randagi", "Shirya", "Ukuga", "Jan Birni", "Old Saulawa", "Saulawa", "Sofa", "Unguwar Nacibi", "Dokan Ruwa", "Kamfanin Mamman", "Kwala-Kwangi", "Layin Lassan", "Tabanni", "Yarwa"]
         },
         "2": {
             "name": "Chikun",
             "official": "Chikun Local Government",
-            "areas": []
+            "areas": ["Kujama", "Bagado", "Chikun", "Doga-Maijama", "Gayan", "Kakau", "Kashebo", "Kotarma", "Mafoina", "Matari", "Mai Jama'a", "Narayi", "Rido", "Sabon Tasha", "Sabon Yelwa", "Tsaunin Kura", "Unguwar Sunday", "Buruku", "Gadani", "Gwagwada", "Kasaya", "Katarma", "Kugo", "Kunai", "Kuriga", "Nassarawa", "Karji"]
         },
         "3": {
-            "name": " Giwa",
-            "official": " Giwa Local Government",
-            "areas": []
+            "name": "Giwa",
+            "official": "Giwa Local Government",
+            "areas": ["Giwa", "Danhauya", "Fatika", "Gadagau", "Galadimawa", "Idasu", "Iyatawa", "Kadage", "Karau Karau", "Kaya", "Kidandan", "Kundu", "Murai", "Rafin Yashi", "Ruku", "Wazata", "Yakawada", "Danmahawayi", "Diyo", "Gangara", "Giwa Sabuwa", "Guga", "Kakangi", "Kuringa", "Madara", "Maje", "Makwaye", "Mujedawa", "Panhauya", "Shika", "Tsibiri", "Yalwa"]
         },
         "4": {
-            "name": " Igabi",
-            "official": " Igabi Local Government",
-            "areas": []
+            "name": "Igabi",
+            "official": "Igabi Local Government",
+            "areas": ["Turunku", "Amaza", "Audi", "Bargu", "Dunki", "Dusten Mai", "Eadan Gayon", "Faro Kwai", "Garda", "Gehehu", "Igabi", "Kerawa", "Mangi", "Pumbi Ditse", "Yalwa", "Zangon Aya", "Bikaratu", "Birnin Yero", "Gadan Gayan", "Girku", "Gwaraji", "Jaji", "Kabam", "Kabubuwa", "Kangimi", "Kashirmi", "Kurmin Kaduna", "Kwarau", "Labara", "Mararraban Jos", "Nagwari", "Panshanu", "Rigachikun", "Rihogi", "Rikota", "Rubu", "Afaka", "Birnin Daji", "Harawa", "Ifire", "Kudandan", "Kwate", "Mashigwari", "Rigasa", "Riyawa", "Sabon Tasha Wada", "Tami", "Wasana"]
         },
         "5": {
             "name": "Ikara",
             "official": "Ikara Local Government",
-            "areas": []
+            "areas": ["Ikara", "Malikachi", "Furana", "Danlawan", "Kurmin Kogi", "Janfalan", "Auchan", "Paki", "Pala", "Chara", "Dan-Lawal", "Jibis", "Kankanki", "Kurmin Jau", "Kwari", "Makurdi", "Malilanchi", "Saulawa", "Saya-Saya", "Allab-Gaba", "Baulawa", "Buchan", "Bunji", "Kakau", "Kuya", "Rinji", "Romi", "Vauran", "Yalwa Deji", "Yauran"]
         },
         "6": {
             "name": "Jaba",
-            "official": "Jaba South Local Government"
+            "official": "Jaba Local Government",
+            "areas": ["Kwoi", "Ankung", "Duyyah", "Fai", "Sambam", "Bitaro", "Dura", "Kyan", "Sabchem", "Sabzuro", "Chori", "Daddu", "Nok", "Sabon Gari", "Unguwar Galadima", "Kafanchan"]
         },
         "7": {
-            "name": " Jema'a",
-            "official": " Jema'a Local Government",
-            "areas": []
+            "name": "Jema'a",
+            "official": "Jema'a Local Government",
+            "areas": ["Kafanchan", "Gidan Waya", "Godogodo", "Kagoma", "Takau", "Asso", "Atuku", "Barde", "Jagindi", "Kaninkon", "Maigizo", "Amere", "Garti", "Garti Station", "Unguwar Fulani", "Unguwar Jaba", "Alkali", "Dakaci", "Jeh", "Shok", "Small London", "Ubandoma", "Ungwa Fari", "Ungwa Pakachi", "Baraki", "Doka", "Garwa", "Gongola", "Kyau", "Nbiatut", "Tasha", "Tum", "Ungwa Pah", "Yanga", "Bornanken", "Kafiya", "Kaso", "Koccel", "Nadyry", "Sabon Gari Wunti", "Sallabe", "Wunti", "Antang", "Baiya", "Dogon Filin", "Hayi Gada", "Kiban", "Nisama", "Pasa Kwari", "Tafan Gidan", "Unguwar Nungu", "Fadan Kagoma", "Aduwan", "Gidan Mana", "Mile One", "Zikpak", "Ninte", "Goska", "Lassang"]
         },
         "8": {
-            "name": " Kachia",
-            "official": " Kachia Local Government",
-            "areas": []
+            "name": "Kachia",
+            "official": "Kachia Local Government",
+            "areas": ["Kachia", "Ankwa", "Ankwa Kudu", "Gora", "Maid Iddo", "Parci", "Akwana", "Akwando", "Anturu", "Awon", "Ariko", "Badoko", "Bishini", "Daddu", "Ingili", "Kateri", "Kurutu", "Akilibu", "Anfu", "Doka", "Rigana", "Adage", "Jodu", "Sakwai", "Dabarga", "Gumel", "Kurmin Baba", "Mafoa Fadia", "Cyani", "Gidan Mana", "Gidan Tagwai", "Jaban Kogo", "Kurin Musa", "Kwaturu", "Sabon Sarki"]
         },
         "9": {
             "name": "Kaduna North",
             "official": "Kaduna North Local Government",
-            "areas": []
+            "areas": ["Doka", "Badarawa", "Dadi Riba", "Hayin Banki", "Kabala", "Kawo", "Maiburiji", "Sardauna", "Shaba", "Unguwar Dosa", "Unguwar Rimi", "Unguwar Sarki", "Unguwar Kanawa", "Unguwar Shanu", "Matali", "Abakpa"]
         },
         "10": {
             "name": "Kaduna South",
             "official": "Kaduna South Local Government",
-            "areas": []
+            "areas": ["Makera", "Badiko", "Barnawa", "Kakuri Gwari", "Kakuri Hausa", "Sabon Gari North", "Sabon Gari South", "Television", "Tudun Nupawa", "Tudun Wada North", "Tudun Wada South", "Tudun Wada West", "Unguwan Sanusi", "Kabala West", "Kinkinau", "Kurmin Mashi", "Unguwar Muazu"]
         },
         "11": {
             "name": "Kagarko",
             "official": "Kagarko Local Government",
-            "areas": []
+            "areas": ["Kagarko", "Akote", "Kasangwai", "Kurmin Kira", "Pa Baki", "Chakwama", "Chama", "Kpechi", "Kwaliko", "Tunga", "Dogon Kurmi", "Kasabere", "Kusam", "Gami", "Iddah", "Mape", "Tafa Gari", "Gidan Makeri", "Ido", "Janjala", "Kohuto", "Kuku", "Taka Lafiya", "Bakuchi", "Chinka", "Dlmale", "Gidan Jibo", "Gujeni", "Jere", "Kpakulu", "Kwasare", "Pmana", "Dogon Daji", "Kadanyu", "Kudiri", "Kaguni", "Kuba", "Kuse", "Sabon Iche", "Aribi", "Cikin Gari Katugal", "Kurmin Jibrin", "Kushanfa", "Sabon Gari Katugal", "Kadah", "Kahir", "Kenyi", "Kukyer", "Kuratam", "Kutaho", "Bakin Kasuwa Kubacha", "Icce", "Kabara", "Kuakui", "Kubacha", "Dogo Daji", "Kasaru", "Kurmin Dangana", "Ruzai", "Koyi", "Kuchi", "Kushe", "Kushe Makaranta", "Kampani", "Nkojo", "Shadalafiya"]
         },
         "12": {
-            "name": " Kajuru",
-            "official": " Kajuru Local Government",
-            "areas": []
+            "name": "Kajuru",
+            "official": "Kajuru Local Government",
+            "areas": ["Kajuru", "Gefe", "Kallah", "Kasuwan Magani", "Kutara", "Libere", "Rimau", "Afago", "Iburu", "Idon", "Iri", "Kufana", "Makyali", "Maro", "Rafin Kunu", "Unguwan Gamo", "Buda", "Tantattu"]
         },
         "13": {
-            "name": " Kaura",
-            "official": " Kaura Local Government",
-            "areas": []
+            "name": "Kaura",
+            "official": "Kaura Local Government",
+            "areas": ["Kaura", "Manchok", "Kagoro", "Zaman Dabo", "Apio Kura", "Azente", "Biniki", "Mayigbung", "Me-Bonet", "Tinat Akut", "Tsok-Waney", "Akuku", "Bondong", "Chanshia", "Chikka", "Me-Boye", "Me-Bung", "Me-Kpakpang", "Me-Kura", "Me-Sankwai", "Tsok Adam", "Tsoknbwanu", "Tyekum", "Agafuwat", "Kadau", "Koduak", "Oagun Tsuod", "Zankan", "Fada Cikin Gari", "Fada Dutse", "Khikarak", "Anturung", "Fadan Attakar", "Tachira", "Katsak", "Sakinye", "Tajak", "Aze-Nok", "Gizagwai", "Me-Kukat", "Tsok-Amin", "Kangurung", "Agban", "Kukum", "Malagum", "Kpak", "Kpen", "Makera", "Safiyo", "Sakong", "Turap", "Kafi Tahuwop", "Lawkok", "Tirim", "Tswokwai", "Zakwa", "Aduan", "Kankasa", "Kpiruk", "Kukum Dutse", "Kukum Gida", "Chori Marwa", "Hayin Gora", "Sakan", "Tafan", "Sabon Gari"]
         },
         "14": {
-            "name": " Kauru",
-            "official": " Kauru Local Government",
-            "areas": []
+            "name": "Kauru",
+            "official": "Kauru Local Government",
+            "areas": ["Kauru", "Baduran", "Daduru", "Damakasuwa", "Fadan Chawai", "Kamuru", "Kidundun", "Kiffin", "Kizakoro", "Mai Zanko", "Pari", "Riban", "Zanbina", "Apapa", "Binawa", "Bital", "Fadan Ilaibi", "Fandan Kono", "Gasa", "Geshere", "Gwandara", "Kankawar", "Kihogo", "Kinono", "Kudaru", "Kushafa", "Kusheka", "Kushori", "Madauchi", "Madauci-Kitimi", "Pikal", "Rishiwa", "Dawaki", "Galadimawa", "Kware", "Kwassam", "Magajin Gari", "Majidadi", "Makami", "Wutana"]
         },
         "15": {
-            "name": " Kubau",
-            "official": " Kubau Local Government",
-            "areas": []
+            "name": "Kubau",
+            "official": "Kubau Local Government",
+            "areas": ["Anchau", "Kubau", "Pambegua", "Kuzuntu", "Gadas", "Dutsenwai", "Damau", "Dugau", "Haskiya", "Kargi", "Leren Dutse", "Mah", "Mkoci", "Talata", "Dabo", "Dalman", "Dandande", "Danmaliki", "Galadima", "Kera", "Mutangi", "Tafiyau", "Zuntu", "Jenau", "Kogi"]
         },
         "16": {
             "name": "Kudan",
             "official": "Kudan Local Government",
-            "areas": []
+            "areas": ["Hunkuyi", "Kudan", "Doka", "Garu", "Kauran Wali", "Likoro", "Sabon Garin Hunkuyi", "Zabi", "Angwar Galadima", "Angwar Kanawa", "Angwar M. Musa", "Bakin Sudu", "Barde", "Daudu", "Guibi", "Kyanso", "Mahuta", "Makoyi", "Mazara", "Musawa", "Tanda", "Tashar Dan Kano", "Arewaci", "Dafa-Dufa", "Dan Tsoho", "Danbami", "Dumuga", "Jaja Babba", "Jaji", "Sabon Layi", "Sarama", "Shekarau", "Yalwa", "Bankangwa", "Dangashi", "Dankala", "Dantaro", "Sabon Gari", "Sanda", "Tashan Sani", "Tauran Wali", "Damaski", "Kadama", "Marku", "Matarawa", "Nasarawan Kudan", "Randa", "Rimin Biso", "Sabon Lemu", "Tashan Kade", "Tsinka", "Gwandawa", "Lafiyi", "Rafin Kira", "Tsauni"]
         },
         "17": {
             "name": "Lere",
             "official": "Lere Local Government",
-            "areas": []
+            "areas": ["Lere", "Saminaka", "Sabon Birni", "Abadawa", "Dan Alhaji", "Garu Mariri", "Gure Kahugu", "Kayarda", "Kudaru", "Lazuru", "Raminkura", "Amon Danboyi", "Dabban Fadama", "Garu Kurama", "Gure", "Gurza", "Janji", "Kahugu", "Karanbana", "Kargi", "Kurmin Dodo", "Lawuna", "Mariri", "Piti Warsa", "Ragwa", "Bisallah Hausa", "Bita Rana", "Disallah", "Goron Dutse", "Kaku", "Kudaru Kurama", "Kudaru Tasha", "Maigamo", "Rumaiya", "Ukissa", "Weire", "Wuroko", "Yarkasuwa", "Juran Karama", "Juran Kari", "Kayor", "Maresu", "Sugau", "Tuddai", "Woba"]
         },
         "18": {
-            "name": " Makarfi",
-            "official": " Makarfi Local Government",
-            "areas": []
+            "name": "Makarfi",
+            "official": "Makarfi Local Government",
+            "areas": ["Makarfi", "Dan Auamaka", "Dandamisa", "Danguzuri", "Dorayi", "Durun", "Gangara", "Gazara", "Gimi", "Gubuchi", "Gwanki", "Kwatakware", "Marke", "Mayere", "Nassarawa", "Rahama", "Ruma", "Sabon Garin Daji", "Tudun Wada", "Nasarawan Doya"]
         },
         "19": {
             "name": "Sabon Gari",
             "official": "Sabon Gari Local Government",
-            "areas": []
+            "areas": ["Samaru", "Basawa", "Bomo", "Dogarawa", "Zabi", "Kwari", "Barashi", "Muchiya", "Palladan", "Chikaji", "Hanwa", "Jushin Waje", "Jama'a", "Unguwar Gabas", "Basawa Tsakiya", "Bauda", "Biso", "Dan Makwarwa", "Galadima", "Gwanda Tsakiya", "Layin Zomo", "Madaki", "Malam Sale", "Palladan Tsakiya", "Rimin Tsiwa", "Sakadadi", "Sarkin Fulani", "Unguwar Amfani", "Unguwar Barau", "Unguwar Makera", "Unguwar Na'inna", "Unguwar Rimi", "Unguwar Yaro", "Unguwar Turaki", "Unguwar Dan Gaiya", "Unguwar Hayin Liman", "Unguwar Sabon Layi", "Unguwar Malam Halilu", "Zangon Dan Baro", "Babban Titi", "Bomo Tsakiya", "Cediyar Bawa", "Daurawa", "Dogon Bauchi", "Dorawar Malami", "Durumin Sabbi", "Gwanda", "Hayin Ojo", "Machiya", "Mangwarori", "Sabon Gari", "Shika Dam", "Tsugugi", "Yan-Awaki"]
         },
         "20": {
-            "name": " Sanga",
-            "official": " Sanga Local Government",
-            "areas": []
+            "name": "Sanga",
+            "official": "Sanga Local Government",
+            "areas": ["Gwantu", "Wasa Station", "Arak", "Nandu", "Ninzam North", "Ninzam South", "Ninzam West", "Ayu", "Bokana", "Aboro", "Fadan Karshi", "Abu", "Ambi Oga", "Ayuba", "Baka", "Dakaci", "Dakaci Antor", "Dauda", "Dauda Kudu", "Fasu", "Gabas", "Halidu", "Hausawa", "Jingina", "Karfan", "Kogun", "Kubal", "Kulere", "Kwanta", "Mada", "Madaki", "Makera", "Mallam Musa", "Manzi", "Maroa", "Mato", "Ninzo", "Ninzo Mada", "Nunku", "Oara", "Rumbu", "Sakiya", "Selenan", "Tukura", "Waziri", "Zalidu", "Aboro Gida", "Forom", "Gidan Mai", "Gyere", "Ardo Fulani Aboro", "Kubal Sakiya", "Sabon Layi", "Tudun Wada", "Kontogora", "Amber", "Paa"]
         },
         "21": {
             "name": "Soba",
             "official": "Soba Local Government",
-            "areas": []
+            "areas": ["Maigana", "Soba", "Turawa", "Richifa", "Rahama", "Dan Wata", "Gimba", "Kinkiba", "Garun Gwanki", "Kwassallo", "Gamagira", "Kaware", "Matari", "Yakasai", "Dinya", "Fagachi", "Goirawa", "Hayin Kinkiba", "Kuzai", "Kwai", "Mabirni", "Madaba", "Maferawa", "Magada", "Marwa", "Sabon Kudi", "Sambvirni", "Tamba", "Wanka", "Yalwa Mai Akaranta", "Alhazawa", "Angwar Madaki", "Bakura", "Barwa", "Dan-Isa", "Dan-Jaba", "Dorayi", "Kuyamutsa", "Lungu", "Makoron Lemo", "Marmara", "Taba", "Taka Lafiya", "Tudun Saibu"]
         },
         "22": {
-            "name": " Zangon Kataf",
-            "official": " Zangon Kataf Local Government",
-            "areas": []
+            "name": "Zangon Kataf",
+            "official": "Zangon Kataf Local Government",
+            "areas": ["Zonkwa", "Samaru Kataf", "Zangon Kataf", "Anchuna", "Kamantan", "Kamuru", "Abet", "Achin", "Anguwan Jatau", "Kumi", "Marabang", "Afana", "Katsit", "Boto", "Dinarah", "Fadan Ikulu", "Lisuri Gida", "Lisuru Daji", "Sabon Kaura Fadan Ikulu", "Angwan Fulani", "Angwan Goska", "Angwan Rana Lisuru", "Angwan Digabi", "Akoka", "Amawa Lisuru", "Burgu", "Digabi", "Jirayi", "Kachia", "Makama", "Nauta", "Sani", "Toro Gida", "Akurjini", "Ampaga", "Dankurasa", "Dutsen Bako", "Gida Ali", "Kwarkwano", "Bafoi", "Galadimawa", "Kishaura", "Mavong", "Rafin Saiwa", "Fadan Kaje", "Kazantsok", "Machia", "Rumfa", "Tabak", "Tsohon Gida", "Fadiya Bossan", "Fadiya Gugah", "Fadiya Raku Gida", "Fadiya Yazonom", "Gora", "Kanem", "Rikabom", "Satwang", "Saganda", "Gora Gida", "Kakwa", "Magankon", "Makutzalen", "Sabon Gari", "Sagwaza", "Warkan", "Apyinzwang", "Awak", "Kacecere", "Kangwaza", "Kurfi", "Magadankura", "Male", "Chigyam", "Kangun", "Rinyam", "Sabon Kaura", "Yaron Fada", "Antang Dutse", "Antang Gida", "Anzah Gida", "Anzah Sarki", "Bakin Lamba", "Fange", "Fansil", "Kamuru Dutse", "Kamuru Hausa", "Kamuru Ikulu", "Abafot", "Fanjim", "Kamurum", "Kurdan", "Sakwak", "Zauru", "Atakfang", "Doka", "Sansak", "Zonzon", "Madakiya", "Masat"]
         },
         "23": {
-            "name": " Zaria",
-            "official": " Zaria Local Government",
-            "areas": []
+            "name": "Zaria",
+            "official": "Zaria Local Government",
+            "areas": ["Zaria", "Birnin Zazzau", "Wusasa", "Tudun Wada", "Anguwan Kahu", "Anguwan Liman", "Tudun Jukun", "Dan Magaji", "Kwarin Dan Goma", "Gaskiya", "Kamacha", "Magume", "Hayin Usama", "Unguwar Rafi", "Hayin Dogo", "Dambo", "Dakace", "Unguwan Sarkin Noma", "Unguwan Katika", "Bizara", "Mangu", "Kakiyeyi", "Kwarin Mai Rago"]
         }
     }
 }
-

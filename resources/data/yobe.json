@@ -23,92 +23,87 @@
         "1": {
             "name": "Bade",
             "official": "Bade Local Government",
-            "areas": []
+            "areas": ["Adia", "Alagarno", "Amshi", "Azam", "Bursari", "Chirawa", "Dalia", "Dikum", "Dogona", "Gabaruwa", "Gapchia", "Garin-Dallari", "Garinkura", "Gasamu", "Gashua", "Gogaram", "Gweek", "Gwuiyo", "Jawa", "Jawun", "Karage", "Katamba", "Katuzu", "Lawan-Alwali", "Lawan-Audu", "Lawan-Fani", "Lawan-Musa", "LawanFannam", "Muguram", "N.A Kaku", "Ngelewa", "Ngeliabe", "Sarkin-Hausawa", "Tagli", "Tarjiwa", "Wasur", "Yakuburi", "Zabadam"]
         },
         "2": {
             "name": "Bursari",
-            "official": "Bursari  Local Government",
-            "areas": []
+            "official": "Bursari Local Government",
+            "areas": ["Bade Gana", "Bayammari", "Bula", "Buruta", "Butsari", "Damana", "Damanawa", "Dambuk", "Danani", "Dapchi", "Gadiriri", "Gareji Tsamowa", "Garin Alhaji", "Garin Boka", "Garin Lamido", "Garindole", "Giljabi", "Giruwon", "Gojiji Korem", "Goroji", "Gruawa", "Guba", "Guji", "Gumsa Gama", "Jafinori", "Jibirinti", "Juluri", "Kajimaram", "Kariari", "Kindilwa", "Komandugu", "Kurnawa", "Massaba", "Shettimari", "Sundwa", "Warodi", "Yobe"]
         },
         "3": {
             "name": "Damaturu",
             "official": "Damaturu Local Government",
-            "areas": []
+            "areas": ["Bula Kus", "Bulaburum", "Bulama Fordi", "Chungul Dambaram", "Chungul Jabbari", "Damakasu", "Damburam", "Dankalwa", "Debsa", "Gabai", "Garin Maisaja", "Goni Matar", "Gorogi", "Gubberi", "Gulamarram", "Gumunta", "Itsari", "Kaburu", "Kaita", "Kalalawa", "Kontula", "Korari", "Kuilamu", "Kukareta", "Kunguwol", "Kuskuri", "Makunari", "Malamuhari", "Mallam Tari", "Marta", "Nuw", "Sasawa"]
         },
         "4": {
             "name": "Geidam",
             "official": "Geidam Local Government",
-            "areas": []
+            "areas": ["Abachari", "Ashekri", "Badi", "Balle", "Bisuga", "Borko", "Chirawa", "Dabkariba", "Dagambi", "Damakarwa", "Dejina", "Dilawa", "Fakuri", "Futchimiran", "Galaria", "Gallaba", "Geidam", "Gosora", "Gumsa", "Hausari", "Karamti", "Kawuri", "Keleri", "Kelluri", "Korkio", "Kukoram", "Kusur", "Kwiri", "Lariski", "Maannam", "Magario", "Maidari", "Maleri", "Murimari", "Musari", "Nallewa", "Rogo", "Shame-Kura", "Zugu-Ngilewa"]
         },
         "5": {
             "name": "Gujba",
             "official": "Gujba Local Government",
-            "areas": []
+            "areas": ["Bara", "Bokwai", "Borno-Kiji", "Bukul", "Bularaba", "Bulturam", "Bumsa", "Buni Gari", "Buni-Yadi", "Chandam", "Dadingel", "Dadma", "Dikshi", "Garinchina", "Gatumba", "Gazagana", "Gominja", "Goriri", "Gotala", "Gotumba", "Gujba", "Gulani", "Gutunia", "Kaduba", "Katarko", "Kolere Bomo", "Ligda", "Mafeni", "Maladuwari", "Mallam-Dunari", "Mandum", "Matal", "Ngeltawa", "Ngumal", "Ngurbuwa", "Njibulwa", "Shinda", "Taro", "Wagun", "Waranya"]
         },
         "6": {
             "name": "Gulani",
-            "official": "Gulani  Local Government",
-            "areas": []
+            "official": "Gulani Local Government",
+            "areas": ["Bara", "Borno-Kiji", "Bularaba", "Bumsa", "Burasari", "Chandam", "Dokshi", "Gabai", "Gagure", "Gargari", "Garin Tuwo", "Kukuwa", "Kushimaga", "Ngulwa", "Ngurun", "Nguzoa", "Ruhu", "Tetteba", "Zango"]
         },
         "7": {
             "name": "Fika",
             "official": "Fika Local Government",
-            "areas": []
+            "areas": ["Anzie", "Boza", "Bulakos", "Babaji", "Chana", "Daniski", "Daya", "Didim", "Diffuel", "Dozi", "Dumbulwa", "Fika", "Fusami", "Gadaka", "Garin Goge", "Garin Usaku", "Galamo", "Garin Aba", "Garin Jaji", "Garin Wayo", "Gashaka", "Gashinge", "Gashua", "Godowoli", "Gudi", "Gurijaji", "Jaga", "Jamgadole", "Jangarsiri", "Kadi", "Karem", "Lewe", "Maiduwa", "Maluri", "Mazawun", "Mubi", "Ngalda", "Paiono", "Shembire", "Shoye T.Nanai", "Turmi", "Yelwa", "Zei"]
         },
         "8": {
             "name": "Fune",
-            "official": "Fune  Local Government",
-            "areas": []
+            "official": "Fune Local Government",
+            "areas": ["Abakire", "Aigada", "Alagarno", "Balanyiwa", "Bam", "Banshe", "Basam", "Bauwa", "Bindigi", "Bufuna", "Bulakus", "Chirokusko", "Damagum", "Dawura", "Dogonkuka", "Dubbol", "Dumbulwa", "Fajalare", "Fulatari", "Fune", "Gabatasha", "Gishiwari", "Goyeri", "Gremari", "Gudugurka", "Gunnga", "Gununu", "Jajere", "Jamari", "Jauro Bukar", "Jauro Isa", "Jika", "Kafaje", "Kamarum", "Kasko", "Kayeri", "Kolere", "Koriel", "Kwajula", "Kwalte", "Lawan-Kalam", "Manawaji", "Manwaji", "Mashio marmari", "Mil-Biyar", "Ngelshengale", "Ngelzarma", "Shamaka", "Sudande", "Tailai"]
         },
-      
-       
         "9": {
             "name": "Jakusko",
             "official": "Jakusko Local Government",
-            "areas": []
+            "areas": ["Bayam", "Buduwa", "Daifa", "Dudua", "Dumbari", "Gamajam", "Ganya", "Garin Maiturmi", "Garinsalha", "Gibbo", "Gidigid", "Gogaram", "Goldimari", "Gurunga", "Jaba", "Jakusko", "Japbo", "Japoji", "Jawur", "Katamona", "Labo", "Lafiya-Loi", "Muguram", "N.Gambo", "Nasari", "Ngelsom", "Saminaka", "Zabudum", "Zeddi"]
         },
         "10": {
             "name": "Karasuwa",
             "official": "Karasuwa Local Government",
-            "areas": []
+            "areas": ["Bukarti", "Fajiganari", "Garin Gawo", "Garu-Guna", "Gasma", "Jaji-Maji", "Karasuwa", "Waro", "Yajiri", "Wachakal", "Kafetuwa", "Dalari", "Abaridi", "Madugabari", "Mamiram", "Lamido Audu", "Kinnariram", "Kilbuwa", "Tatikori", "Garin Malam", "Simeldi", "Garin Alhaji", "Garin Gyada", "Kwana", "Barderi", "Melawuri", "Bukku", "Dunari", "Maina Ari", "Gawu", "Mala Kunu", "Alajiri", "Chumbusko", "Zolo", "Damamini", "Dogon Jeji", "Rumfar Kara", "Tasha Kargo", "Lamido Ngaine", "Hardo Kabo", "Garin Mammadu", "Karau Kawu", "Wuri Bawuri", "Lamido Hassan", "Jajeri", "Garin Jarma", "Zango", "Tabawa", "Daban Giwa", "Ngurodi"]
         },
         "11": {
             "name": "Machina",
             "official": "Machina Local Government",
-            "areas": []
+            "areas": ["Adturu", "Barinari-Lamiri", "Bogo", "Bulseri", "Damai", "Dimago", "Dole", "Faramiram", "Flimaram", "Garin", "Garin Kinna", "Garwadole", "Gogi", "Gunsi", "Kabaduna", "Kabera", "Kom-Komma", "Koremarun", "Kuka-Yasku", "Lamisu", "Machina", "Mamada", "Maskandare", "Maskarari", "Meori", "Sabawa", "Shekori", "Tagamama"]
         },
         "12": {
             "name": "Nangere",
             "official": "Nangere Local Government",
-            "areas": []
+            "areas": ["Mamudo", "Bala", "Dakasko", "Garintuja", "Nangere", "Dowasa", "Fakarau", "Garin Gambo", "Kukuri", "Tarajim"]
         },
         "13": {
             "name": "Nguru",
             "official": "Nguru Local Government",
-            "areas": []
+            "areas": ["Aroro", "Bajigama", "Bakwa", "Bambori", "Bilelam", "Bujiji", "Bulabulin", "Bulangua", "Bulanguaram", "Buleri", "Bundi", "Dadara", "Dogana", "Dogon-Kuka", "Dumsai", "Garbi", "Garin Malum", "Garin Naruwa", "Hausari", "Jigamari", "Kakori", "Kanuri", "Karanbari", "Kisogana", "Maidashi", "Maja-Kura", "Mamnia", "Margadu", "Masari", "Mirba-Kabir", "Mirba-Sagir", "Ngilewa", "Tashakang", "Wazzagl", "Wusur", "Yamdem", "Yamdugu", "Zolo"]
         },
         "14": {
             "name": "Potiskum",
-            "official": "Potiskum South Local Government",
-            "areas": []
+            "official": "Potiskum Local Government",
+            "areas": ["Alaraba", "Badejo", "Chalumno", "Dagare", "Daniski", "Daria", "Dazigal", "Kukargadu", "Potiskum", "Siminti"]
         },
         "15": {
             "name": "Tarmuwa",
             "official": "Tarmuwa Local Government",
-            "areas": []
-        }
-        ,
+            "areas": ["Babangida", "Barkami", "Biriri", "Borno-Kiji", "Bulturi", "Churokusko", "Dabala", "Garga", "Jumbam", "Lantaiwa", "Mandadawa", "Shegau"]
+        },
         "16": {
             "name": "Yunusari",
             "official": "Yunusari Local Government",
-            "areas": []
-        }
-     
-        ,
+            "areas": ["Baituwa", "Bomba", "Bukti", "Bulabulin", "Buluk Buluk", "Chillima", "Chokolo", "Damatoshia", "Dekwe", "Dilala", "Diriti", "Dogaltura", "Garin Kaigama", "Gremadi", "Gremari", "Gursula", "Jilo", "Kafaje", "Kalgi", "Kanamma", "Karaguwa", "Karigi", "Konta Kunu", "Kusur", "Mairari", "Malgawa", "Mar", "Maruduari", "Mineklbu", "Mosogun", "Ngamzai", "Ngirabo", "Sasamna", "Sumbal", "Umari", "Wadi", "Yaro", "Yunusari", "Zagibinri", "Zedi"]
+        },
         "17": {
             "name": "Yusufari",
             "official": "Yusufari Local Government",
-            "areas": []
+            "areas": ["Alagiri", "Alanjirori", "Budum", "Bukardi", "Bula Madu", "Bulatula", "Bunsar", "Burari", "Garin Lawan", "Garin Momodu", "Gayuameri", "Grema Burari", "Gulmiri", "Gumsi", "Guya", "Hangilam", "Jebuwa", "Jogua", "Kajimaram", "Kaska", "Kulala", "Kurusalia", "Lalawa", "Ligarikura", "Maimalari", "Mayori", "Ndiju", "Njikilamma", "Sumbar", "Tilotoluwa", "Yusufari", "Zingidi", "Zumugu"]
         }
     }
 }
