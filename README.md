@@ -488,6 +488,12 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Mopa-Muro](https://en.wikipedia.org/wiki/Mopa-Muro)
 -   [https://kogistate.gov.ng/](https://kogistate.gov.ng/)
 
+### Kwara State
+
+-   [https://en.wikipedia.org/wiki/Kwara_State](https://en.wikipedia.org/wiki/Kwara_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Kwara_State](https://en.wikipedia.org/wiki/List_of_villages_in_Kwara_State)
+-   [https://kwarastate.gov.ng/](https://kwarastate.gov.ng/)
+
 ### Osun State
 
 -   [https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State](https://en.wikipedia.org/wiki/List_of_villages_in_Osun_State)
