@@ -543,3 +543,10 @@ Then you can access the assets as follows:
 -   [https://en.wikipedia.org/wiki/Oluyole,_Nigeria](https://en.wikipedia.org/wiki/Oluyole,_Nigeria)
 -   [https://en.wikipedia.org/wiki/Ona_Ara](https://en.wikipedia.org/wiki/Ona_Ara)
 -   [https://oyostate.gov.ng/](https://oyostate.gov.ng/)
+
+### Plateau State
+
+-   [https://en.wikipedia.org/wiki/Plateau_State](https://en.wikipedia.org/wiki/Plateau_State)
+-   [https://en.wikipedia.org/wiki/List_of_villages_in_Plateau_State](https://en.wikipedia.org/wiki/List_of_villages_in_Plateau_State)
+-   [https://en.wikipedia.org/wiki/Bassa,_Plateau_State](https://en.wikipedia.org/wiki/Bassa,_Plateau_State)
+-   [https://www.plateaustate.gov.ng/](https://www.plateaustate.gov.ng/)
